@@ -18041,5 +18041,476 @@
       "type": "NP",
       "dateFormed": "6/9/1933"
     }
+  ],
+  "1 homeowners association": [],
+  "2 homeowners association": [
+    {
+      "name": "OAK MEADOWS 2 HOMEOWNERS ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0450108914",
+      "city": "LAKEWOOD",
+      "type": "NP",
+      "dateFormed": "9/30/2016"
+    }
+  ],
+  "3 homeowners association": [],
+  "4 homeowners association": [],
+  "5 homeowners association": [],
+  "6 homeowners association": [],
+  "7 homeowners association": [],
+  "8 homeowners association": [],
+  "9 homeowners association": [],
+  "A homeowners association": [],
+  "B homeowners association": [],
+  "C homeowners association": [],
+  "D homeowners association": [],
+  "E homeowners association": [],
+  "F homeowners association": [],
+  "G homeowners association": [],
+  "H homeowners association": [],
+  "I homeowners association": [],
+  "J homeowners association": [],
+  "K homeowners association": [],
+  "jersey city homeowners": [],
+  "jersey city condominium": [
+    {
+      "name": "111 JERSEY CITY CONDOMINIUM CORP.",
+      "entityId": "0100422342",
+      "city": "NEW YORK",
+      "type": "NP",
+      "dateFormed": "7/20/1989"
+    },
+    {
+      "name": "CAMBRIDGE MANOR OF JERSEY CITY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101023006",
+      "city": "Chester",
+      "type": "NP",
+      "dateFormed": "7/18/2012"
+    },
+    {
+      "name": "CRESCENT COURT JERSEY CITY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101001126",
+      "city": "Fairfield",
+      "type": "NP",
+      "dateFormed": "5/8/2009"
+    },
+    {
+      "name": "PARKVIEW MANOR OF JERSEY CITY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101017356",
+      "city": "Hoboken",
+      "type": "NP",
+      "dateFormed": "8/15/2011"
+    },
+    {
+      "name": "SOCIETY HILL AT JERSEY CITY CONDOMINIUM ASSOCIATION I, INC.",
+      "entityId": "0100433089",
+      "city": "JERSEY CITY",
+      "type": "NP",
+      "dateFormed": "11/13/1989"
+    },
+    {
+      "name": "SOCIETY HILL AT JERSEY CITY CONDOMINIUM ASSOCIATION II, INC.",
+      "entityId": "0100601980",
+      "city": "WHIPPANY",
+      "type": "NP",
+      "dateFormed": "9/30/1994"
+    },
+    {
+      "name": "SUMMIT HEIGHTS OF JERSEY CITY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100990733",
+      "city": "Hoboken",
+      "type": "NP",
+      "dateFormed": "3/18/2008"
+    },
+    {
+      "name": "THE WASHINGTON COMMONS AT JERSEY CITY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0400638742",
+      "city": "FAIRFIELD",
+      "type": "NP",
+      "dateFormed": "2/28/2014"
+    },
+    {
+      "name": "TRUMP PLAZA WEST AT JERSEY CITY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100988747",
+      "city": "JERSEY CITY",
+      "type": "NP",
+      "dateFormed": "1/25/2008"
+    }
+  ],
+  "jersey city condo": [
+    {
+      "name": "211 JERSEY CITY CONDO ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0450961312",
+      "city": "JERSEY CITY",
+      "type": "NP",
+      "dateFormed": "4/27/2023"
+    },
+    {
+      "name": "JERSEY CITY CONDO HOLDING COMPANY, LLC",
+      "entityId": "0600267331",
+      "city": "",
+      "type": "LLC",
+      "dateFormed": "4/19/2006"
+    }
+  ],
+  "jersey city property owners": [],
+  "jersey city community assoc": [],
+  "jersey city civic association": [
+    {
+      "name": "ALL FOR JERSEY CITY CIVIC ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0400712876",
+      "city": "JERSEY CITY",
+      "type": "NP",
+      "dateFormed": "1/5/2015"
+    }
+  ],
+  "jersey city cooperative": [
+    {
+      "name": "THE JERSEY CITY COOPERATIVE LAND AND BUILDING LOT ASSOCIATION",
+      "entityId": "0900030223",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "3/15/1869"
+    }
+  ],
+  "jersey city townhouse": [],
+  "newark homeowners": [],
+  "newark condominium": [
+    {
+      "name": "273-275 NEWARK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100967021",
+      "city": "HOBOKEN",
+      "type": "NP",
+      "dateFormed": "8/17/2006"
+    }
+  ],
+  "newark condo": [],
+  "newark property owners": [
+    {
+      "name": "NEW NEWARK PROPERTY OWNERS ASSOCIATION",
+      "entityId": "0900043409",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "12/11/1962"
+    }
+  ],
+  "newark community assoc": [],
+  "newark civic association": [],
+  "newark cooperative": [],
+  "newark townhouse": [
+    {
+      "name": "NEWARK TOWNHOUSE PARTNERS - 1988, L.P.",
+      "entityId": "0600007561",
+      "city": "",
+      "type": "LP",
+      "dateFormed": "3/21/1988"
+    }
+  ],
+  "paterson homeowners": [],
+  "paterson condominium": [
+    {
+      "name": "67 PATERSON CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0451058339",
+      "city": "Jersey City",
+      "type": "NP",
+      "dateFormed": "12/12/2023"
+    },
+    {
+      "name": "PARKSIDE OF WEST PATERSON CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100535828",
+      "city": "NUTLEY",
+      "type": "NP",
+      "dateFormed": "9/30/1992"
+    }
+  ],
+  "paterson condo": [
+    {
+      "name": "78 PATERSON CONDO ASSOCIATION INC",
+      "entityId": "0450425505",
+      "city": "JERSEY CITY",
+      "type": "NP",
+      "dateFormed": "10/9/2019"
+    },
+    {
+      "name": "82 PATERSON CONDO ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0450868896",
+      "city": "JERSEY CITY",
+      "type": "NP",
+      "dateFormed": "9/29/2022"
+    },
+    {
+      "name": "84 PATERSON CONDO ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0450868904",
+      "city": "JERSEY CITY",
+      "type": "NP",
+      "dateFormed": "9/29/2022"
+    }
+  ],
+  "paterson property owners": [],
+  "paterson community assoc": [],
+  "paterson civic association": [],
+  "paterson cooperative": [],
+  "paterson townhouse": [],
+  "elizabeth homeowners": [],
+  "elizabeth condominium": [
+    {
+      "name": "6 ELIZABETH CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0451433717",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "3/20/2026"
+    },
+    {
+      "name": "THE BELLA VISTA OF ELIZABETH CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100989491",
+      "city": "Elizabeth",
+      "type": "NP",
+      "dateFormed": "2/19/2008"
+    }
+  ],
+  "elizabeth condo": [],
+  "elizabeth property owners": [
+    {
+      "name": "ELIZABETH PROPERTY OWNERS ASSOCIATION",
+      "entityId": "0900017305",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "10/4/1929"
+    }
+  ],
+  "elizabeth community assoc": [],
+  "elizabeth civic association": [],
+  "elizabeth cooperative": [],
+  "elizabeth townhouse": [],
+  "lakewood homeowners": [
+    {
+      "name": "FARADAY ESTATES OF LAKEWOOD HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100975689",
+      "city": "LAKEWOOD",
+      "type": "NP",
+      "dateFormed": "1/17/2007"
+    },
+    {
+      "name": "NORTH EAST LAKEWOOD HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100218541",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "2/16/1984"
+    },
+    {
+      "name": "SOMERSET MEADOWS AT LAKEWOOD HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100956495",
+      "city": "LAKEWOOD",
+      "type": "NP",
+      "dateFormed": "1/4/2006"
+    },
+    {
+      "name": "SOUTH LAKEWOOD HOMEOWNERS & TAXPAYERS ASSOCIATION, INC.",
+      "entityId": "0900058666",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "3/17/1975"
+    },
+    {
+      "name": "WHISPERING WOODS LAKEWOOD HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0101015401",
+      "city": "TOMS RIVER",
+      "type": "NP",
+      "dateFormed": "4/28/2011"
+    }
+  ],
+  "lakewood condominium": [
+    {
+      "name": "BRIARWOOD AT LAKEWOOD CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100345359",
+      "city": "LAKEWOOD",
+      "type": "NP",
+      "dateFormed": "7/28/1987"
+    },
+    {
+      "name": "HIGH POINT AT LAKEWOOD CONDOMINIUM ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0400445551",
+      "city": "LAKEWOOD",
+      "type": "NP",
+      "dateFormed": "10/7/2011"
+    },
+    {
+      "name": "TIVOLI AT LAKEWOOD CONDOMINIUM ASSOCIATION",
+      "entityId": "0900061942",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "11/14/1973"
+    },
+    {
+      "name": "VICTOR AT LAKEWOOD CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100796719",
+      "city": "TOMS RIVER",
+      "type": "NP",
+      "dateFormed": "10/6/1999"
+    }
+  ],
+  "lakewood condo": [],
+  "lakewood property owners": [],
+  "lakewood community assoc": [],
+  "lakewood civic association": [],
+  "lakewood cooperative": [],
+  "lakewood townhouse": [
+    {
+      "name": "LAKEWOOD TOWNHOUSE I, LLC",
+      "entityId": "0600309165",
+      "city": "",
+      "type": "LLC",
+      "dateFormed": "9/17/2007"
+    },
+    {
+      "name": "LAKEWOOD TOWNHOUSE II, LLC",
+      "entityId": "0600309166",
+      "city": "",
+      "type": "LLC",
+      "dateFormed": "9/17/2007"
+    },
+    {
+      "name": "LAKEWOOD TOWNHOUSE III, LLC",
+      "entityId": "0600309167",
+      "city": "",
+      "type": "LLC",
+      "dateFormed": "9/17/2007"
+    },
+    {
+      "name": "LAKEWOOD TOWNHOUSE IV, LLC",
+      "entityId": "0600309172",
+      "city": "Lakewood",
+      "type": "LLC",
+      "dateFormed": "9/17/2007"
+    },
+    {
+      "name": "LAKEWOOD TOWNHOUSE NEW III L.L.C.",
+      "entityId": "0450964966",
+      "city": "LAKEWOOD TOWNSHIP",
+      "type": "LLC",
+      "dateFormed": "5/4/2023"
+    }
+  ],
+  "toms river homeowners": [],
+  "toms river condominium": [
+    {
+      "name": "AUTUMN RIDGE AT TOMS RIVER CONDOMINIUM ASSOCIATION INC",
+      "entityId": "0400606731",
+      "city": "Hamilton",
+      "type": "NP",
+      "dateFormed": "10/9/2013"
+    },
+    {
+      "name": "SARATOGA AT TOMS RIVER CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100315535",
+      "city": "CRANBURY",
+      "type": "NP",
+      "dateFormed": "10/28/1986"
+    },
+    {
+      "name": "THE WOODS AT TOMS RIVER CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101057679",
+      "city": "TOMS RIVER",
+      "type": "NP",
+      "dateFormed": "3/3/2021"
+    },
+    {
+      "name": "VILLAGE SEAPORT OF TOMS RIVER CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100344865",
+      "city": "TOMS RIVER",
+      "type": "NP",
+      "dateFormed": "7/22/1987"
+    },
+    {
+      "name": "WATERS EDGE AT TOMS RIVER CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100282257",
+      "city": "Freehold",
+      "type": "NP",
+      "dateFormed": "12/20/1985"
+    }
+  ],
+  "toms river condo": [],
+  "toms river property owners": [
+    {
+      "name": "SOUTH TOMS RIVER PROPERTY OWNERS ASSOCIATION",
+      "entityId": "0900058869",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "7/14/1960"
+    }
+  ],
+  "toms river community assoc": [],
+  "toms river civic association": [],
+  "toms river cooperative": [
+    {
+      "name": "THE TOMS RIVER COOPERATIVE POULTRY ASSOCIATION, INC.",
+      "entityId": "0900061990",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "4/16/1928"
+    }
+  ],
+  "toms river townhouse": [],
+  "trenton homeowners": [],
+  "trenton condominium": [],
+  "trenton condo": [],
+  "trenton property owners": [],
+  "trenton community assoc": [],
+  "trenton civic association": [
+    {
+      "name": "NORTH TRENTON CIVIC ASSOCIATION",
+      "entityId": "0900044623",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "12/1/1960"
+    },
+    {
+      "name": "WEST TRENTON CIVIC ASSOCIATION",
+      "entityId": "0900067783",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "7/12/1950"
+    }
+  ],
+  "trenton cooperative": [],
+  "trenton townhouse": [],
+  "clifton homeowners": [],
+  "clifton condominium": [
+    {
+      "name": "CAMBRIDGE HEIGHTS AT CLIFTON CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100642127",
+      "city": "Whippany",
+      "type": "NP",
+      "dateFormed": "10/12/1995"
+    },
+    {
+      "name": "EVERGREEN AT CLIFTON CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100263846",
+      "city": "WHIPPANY",
+      "type": "NP",
+      "dateFormed": "6/17/1985"
+    },
+    {
+      "name": "HERITAGE ARMS OF CLIFTON CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100159333",
+      "city": "Clifton",
+      "type": "NP",
+      "dateFormed": "1/26/1982"
+    },
+    {
+      "name": "RIVERWALK AT CLIFTON CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100823674",
+      "city": "Fairfiled",
+      "type": "NP",
+      "dateFormed": "7/24/2000"
+    }
+  ],
+  "clifton condo": [
+    {
+      "name": "CLIFTON CONDO HOLDINGS LLC",
+      "entityId": "0450719902",
+      "city": "CLIFTON",
+      "type": "LLC",
+      "dateFormed": "10/26/2021"
+    }
   ]
 }
