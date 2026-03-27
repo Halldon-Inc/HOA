@@ -1,0 +1,72 @@
+{
+  "Taylor Management": {
+    "name": "Taylor Management",
+    "phone": "973-267-9000",
+    "website": "taylormanagement.com",
+    "region": "North NJ",
+    "hoaCount": 42
+  },
+  "Associa": {
+    "name": "Associa",
+    "phone": "800-808-4882",
+    "website": "associa.com",
+    "region": "Statewide",
+    "hoaCount": 0
+  },
+  "FirstService Residential": {
+    "name": "FirstService Residential",
+    "phone": "888-331-7417",
+    "website": "fsresidential.com",
+    "region": "Statewide",
+    "hoaCount": 0
+  },
+  "RCP Management": {
+    "name": "RCP Management",
+    "phone": "973-890-3507",
+    "website": "rcpmanagement.com",
+    "region": "North NJ",
+    "hoaCount": 0
+  },
+  "Prime Management": {
+    "name": "Prime Management",
+    "phone": "732-390-1100",
+    "website": "primemanagement.com",
+    "region": "Central NJ",
+    "hoaCount": 25
+  },
+  "Community Management Corporation": {
+    "name": "Community Management Corporation",
+    "phone": "609-587-7272",
+    "website": "cmcmgt.com",
+    "region": "Central/South NJ",
+    "hoaCount": 13
+  },
+  "Access Property Management": {
+    "name": "Access Property Management",
+    "phone": "732-446-0611",
+    "website": "accesspm.com",
+    "region": "Central NJ",
+    "hoaCount": 0
+  },
+  "Alliance Association Management": {
+    "name": "Alliance Association Management",
+    "phone": "973-992-0100",
+    "website": "allianceam.com",
+    "region": "North NJ",
+    "hoaCount": 0
+  },
+  "Kipcon": {
+    "name": "Kipcon",
+    "phone": "201-262-6080",
+    "website": "kipcon.com",
+    "region": "North NJ",
+    "hoaCount": 0
+  },
+  "KEW Management": {
+    "name": "KEW Management",
+    "phone": "856-665-5500",
+    "website": "kewmanagement.com",
+    "region": "South NJ",
+    "hoaCount": 8
+  }
+}
