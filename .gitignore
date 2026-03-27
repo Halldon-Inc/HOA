@@ -45,3 +45,7 @@ data/geocode-cache.json
 
 # raw IRS data (too large for repo)
 data/raw/
+
+# Data pipeline cache
+data/geocode-cache.json
+data/raw/
