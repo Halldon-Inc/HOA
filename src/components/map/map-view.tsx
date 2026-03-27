@@ -45,12 +45,11 @@ export function MapView({
           coordinates: [hoa.lng, hoa.lat],
         },
         properties: {
-          id: hoa.id,
+          id: hoa.entityId || hoa.name,
           name: hoa.name,
           exteriorType: hoa.exteriorType,
-          unitCount: hoa.unitCount,
-          city: hoa.city,
           county: hoa.county,
+          municipality: hoa.municipality || hoa.city || "",
           color: TYPE_COLORS[hoa.exteriorType] || "#94A3B8",
         },
       })),
@@ -212,7 +211,7 @@ export function MapView({
         if (!features.length) return;
         const feature = features[0];
         const hoaId = feature.properties?.id;
-        const found = hoas.find((h) => h.id === hoaId);
+        const found = hoas.find((h) => (h.entityId || h.name) === hoaId);
         if (found) {
           onSelectHoa(found);
           const geometry = feature.geometry;

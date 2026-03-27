@@ -54,7 +54,7 @@ export function useFilters() {
     return hoaData.filter((hoa) => {
       // Search filter
       if (filters.search) {
-        const searchFields = `${hoa.name} ${hoa.city} ${hoa.zip} ${hoa.county} ${hoa.address}`;
+        const searchFields = `${hoa.name} ${hoa.municipality || ""} ${hoa.city || ""} ${hoa.county} ${hoa.address || ""} ${hoa.entityId || ""}`;
         if (!fuzzyMatch(searchFields, filters.search)) return false;
       }
 
@@ -68,14 +68,18 @@ export function useFilters() {
         return false;
       }
 
-      // Year range filter
-      if (hoa.yearBuilt < filters.yearMin || hoa.yearBuilt > filters.yearMax) {
-        return false;
+      // Year range filter (skip if no year data)
+      if (hoa.yearBuilt != null) {
+        if (hoa.yearBuilt < filters.yearMin || hoa.yearBuilt > filters.yearMax) {
+          return false;
+        }
       }
 
-      // Unit count range filter
-      if (hoa.unitCount < filters.unitMin || hoa.unitCount > filters.unitMax) {
-        return false;
+      // Unit count range filter (skip if no unit data)
+      if (hoa.unitCount != null) {
+        if (hoa.unitCount < filters.unitMin || hoa.unitCount > filters.unitMax) {
+          return false;
+        }
       }
 
       return true;

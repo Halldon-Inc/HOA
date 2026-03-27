@@ -18,27 +18,35 @@ export interface BoardMember {
 }
 
 export interface HOA {
-  id: string;
+  id?: string;
   name: string;
-  address: string;
-  city: string;
+  address?: string;
+  municipality?: string;
+  city?: string;
   county: string;
-  state: "NJ";
-  zip: string;
+  state?: "NJ";
+  zip?: string;
   lat: number;
   lng: number;
-  unitCount: number;
-  yearBuilt: number;
+  unitCount?: number;
+  yearBuilt?: number | null;
   exteriorType: ExteriorType;
   exteriorConfidence?: number;
   exteriorSource?: string;
   nearbyStuccoCount?: number;
   hoaType?: HOAType;
-  managementCompany: string | null;
-  boardMembers: BoardMember[];
-  monthlyFee: number | null;
+  entityId?: string;
+  entityType?: string;
+  dateFormed?: string;
+  managementCompany?: string | null;
+  managementPhone?: string;
+  managementWebsite?: string;
+  boardMembers?: BoardMember[];
+  monthlyFee?: number | null;
   registeredAgent?: string | null;
   principalOffice?: string | null;
+  parcelCount?: number;
+  geoSource?: string;
 }
 
 export interface StuccoProperty {

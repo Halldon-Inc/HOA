@@ -6,28 +6,20 @@ import {
   MapPin,
   Building2,
   Calendar,
-  DollarSign,
   Users,
   Copy,
-  Mail,
   Phone,
+  Globe,
   Briefcase,
+  Hash,
+  Layers,
 } from "lucide-react";
-import { HOA, BoardMember } from "@/types/hoa";
+import { HOA } from "@/types/hoa";
 import { useToast } from "@/components/ui/toast-notification";
 
 interface HOADetailPanelProps {
   hoa: HOA | null;
   onClose: () => void;
-}
-
-function getInitials(name: string): string {
-  return name
-    .split(" ")
-    .map((n) => n[0])
-    .join("")
-    .toUpperCase()
-    .slice(0, 2);
 }
 
 function getExteriorBadge(type: string) {
@@ -58,94 +50,19 @@ function getExteriorBadge(type: string) {
         bg: "bg-slate-500/20",
         text: "text-slate-400",
         border: "border-slate-500/30",
-        label: type,
+        label: "Unknown",
       };
   }
 }
 
-function getRoleBadgeColor(title: string) {
-  switch (title) {
-    case "President":
-      return "bg-orange-500/20 text-orange-400";
-    case "Vice President":
-      return "bg-blue-500/20 text-blue-400";
-    case "Secretary":
-      return "bg-emerald-500/20 text-emerald-400";
-    case "Treasurer":
-      return "bg-amber-500/20 text-amber-400";
-    default:
-      return "bg-slate-500/20 text-slate-400";
-  }
-}
-
-function BoardMemberCard({ member }: { member: BoardMember }) {
+export function HOADetailPanel({ hoa, onClose }: HOADetailPanelProps) {
+  const badge = hoa ? getExteriorBadge(hoa.exteriorType) : null;
   const { showToast } = useToast();
 
   const copyToClipboard = (text: string, label: string) => {
     navigator.clipboard.writeText(text);
     showToast(`${label} copied to clipboard`);
   };
-
-  return (
-    <motion.div
-      initial={{ opacity: 0, y: 10 }}
-      animate={{ opacity: 1, y: 0 }}
-      className="rounded-xl bg-slate-800/60 border border-slate-700/40 p-4 space-y-3"
-    >
-      <div className="flex items-start gap-3">
-        {/* Avatar */}
-        <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-gradient-to-br from-slate-600 to-slate-700 text-sm font-bold text-white">
-          {getInitials(member.name)}
-        </div>
-
-        <div className="min-w-0 flex-1">
-          <h4 className="text-sm font-semibold text-white truncate">
-            {member.name}
-          </h4>
-          <span
-            className={`inline-block mt-0.5 rounded-md px-2 py-0.5 text-[10px] font-medium ${getRoleBadgeColor(
-              member.title
-            )}`}
-          >
-            {member.title}
-          </span>
-        </div>
-      </div>
-
-      {/* Contact info */}
-      <div className="space-y-1.5">
-        {member.email && (
-          <button
-            onClick={() => copyToClipboard(member.email!, "Email")}
-            className="group flex w-full items-center gap-2 rounded-lg px-2 py-1.5 text-xs text-slate-400 hover:text-white hover:bg-slate-700/50 transition-colors"
-          >
-            <Mail className="h-3.5 w-3.5 shrink-0" />
-            <span className="truncate">{member.email}</span>
-            <Copy className="ml-auto h-3 w-3 shrink-0 opacity-0 group-hover:opacity-100 transition-opacity" />
-          </button>
-        )}
-        {member.phone && (
-          <button
-            onClick={() => copyToClipboard(member.phone!, "Phone")}
-            className="group flex w-full items-center gap-2 rounded-lg px-2 py-1.5 text-xs text-slate-400 hover:text-white hover:bg-slate-700/50 transition-colors"
-          >
-            <Phone className="h-3.5 w-3.5 shrink-0" />
-            <span className="truncate">{member.phone}</span>
-            <Copy className="ml-auto h-3 w-3 shrink-0 opacity-0 group-hover:opacity-100 transition-opacity" />
-          </button>
-        )}
-        {!member.email && !member.phone && (
-          <p className="px-2 text-xs text-slate-600 italic">
-            No contact info available
-          </p>
-        )}
-      </div>
-    </motion.div>
-  );
-}
-
-export function HOADetailPanel({ hoa, onClose }: HOADetailPanelProps) {
-  const badge = hoa ? getExteriorBadge(hoa.exteriorType) : null;
 
   return (
     <AnimatePresence>
@@ -176,13 +93,18 @@ export function HOADetailPanel({ hoa, onClose }: HOADetailPanelProps) {
                   >
                     {badge.label}
                   </span>
+                  {hoa.nearbyStuccoCount ? (
+                    <span className="inline-block rounded-md border border-orange-500/20 bg-orange-500/10 px-2 py-0.5 text-[10px] font-medium text-orange-400">
+                      {hoa.nearbyStuccoCount} stucco nearby
+                    </span>
+                  ) : null}
                 </div>
-                <h2 className="text-lg font-bold text-white truncate">
+                <h2 className="text-lg font-bold text-white leading-tight">
                   {hoa.name}
                 </h2>
                 <p className="mt-0.5 flex items-center gap-1 text-xs text-slate-400">
                   <MapPin className="h-3 w-3" />
-                  {hoa.address}, {hoa.city}, NJ {hoa.zip}
+                  {hoa.municipality || hoa.city || "NJ"}, {hoa.county} County, NJ
                 </p>
               </div>
               <button
@@ -199,71 +121,145 @@ export function HOADetailPanel({ hoa, onClose }: HOADetailPanelProps) {
               <div className="grid grid-cols-2 gap-3">
                 <div className="rounded-xl bg-slate-800/60 border border-slate-700/40 px-4 py-3">
                   <div className="flex items-center gap-1.5 text-slate-400 mb-1">
-                    <Users className="h-3.5 w-3.5" />
-                    <span className="text-[10px] font-medium">Units</span>
-                  </div>
-                  <p className="text-lg font-bold text-white">{hoa.unitCount}</p>
-                </div>
-                <div className="rounded-xl bg-slate-800/60 border border-slate-700/40 px-4 py-3">
-                  <div className="flex items-center gap-1.5 text-slate-400 mb-1">
-                    <Calendar className="h-3.5 w-3.5" />
-                    <span className="text-[10px] font-medium">Year Built</span>
-                  </div>
-                  <p className="text-lg font-bold text-white">{hoa.yearBuilt}</p>
-                </div>
-                <div className="rounded-xl bg-slate-800/60 border border-slate-700/40 px-4 py-3">
-                  <div className="flex items-center gap-1.5 text-slate-400 mb-1">
-                    <DollarSign className="h-3.5 w-3.5" />
-                    <span className="text-[10px] font-medium">Monthly Fee</span>
-                  </div>
-                  <p className="text-lg font-bold text-white">
-                    {hoa.monthlyFee ? `$${hoa.monthlyFee}` : "N/A"}
-                  </p>
-                </div>
-                <div className="rounded-xl bg-slate-800/60 border border-slate-700/40 px-4 py-3">
-                  <div className="flex items-center gap-1.5 text-slate-400 mb-1">
                     <MapPin className="h-3.5 w-3.5" />
                     <span className="text-[10px] font-medium">County</span>
                   </div>
                   <p className="text-lg font-bold text-white">{hoa.county}</p>
                 </div>
+                <div className="rounded-xl bg-slate-800/60 border border-slate-700/40 px-4 py-3">
+                  <div className="flex items-center gap-1.5 text-slate-400 mb-1">
+                    <Calendar className="h-3.5 w-3.5" />
+                    <span className="text-[10px] font-medium">
+                      {hoa.dateFormed ? "Formed" : "Year Built"}
+                    </span>
+                  </div>
+                  <p className="text-lg font-bold text-white">
+                    {hoa.dateFormed || hoa.yearBuilt || "N/A"}
+                  </p>
+                </div>
+                {hoa.entityType && (
+                  <div className="rounded-xl bg-slate-800/60 border border-slate-700/40 px-4 py-3">
+                    <div className="flex items-center gap-1.5 text-slate-400 mb-1">
+                      <Building2 className="h-3.5 w-3.5" />
+                      <span className="text-[10px] font-medium">Entity Type</span>
+                    </div>
+                    <p className="text-lg font-bold text-white">{hoa.entityType}</p>
+                  </div>
+                )}
+                {hoa.entityId && (
+                  <div className="rounded-xl bg-slate-800/60 border border-slate-700/40 px-4 py-3">
+                    <div className="flex items-center gap-1.5 text-slate-400 mb-1">
+                      <Hash className="h-3.5 w-3.5" />
+                      <span className="text-[10px] font-medium">Entity ID</span>
+                    </div>
+                    <button
+                      onClick={() => copyToClipboard(hoa.entityId!, "Entity ID")}
+                      className="group flex items-center gap-1"
+                    >
+                      <p className="text-sm font-bold text-white">
+                        {hoa.entityId}
+                      </p>
+                      <Copy className="h-3 w-3 text-slate-600 opacity-0 group-hover:opacity-100 transition-opacity" />
+                    </button>
+                  </div>
+                )}
+                {(hoa.parcelCount ?? 0) > 0 && (
+                  <div className="rounded-xl bg-slate-800/60 border border-slate-700/40 px-4 py-3">
+                    <div className="flex items-center gap-1.5 text-slate-400 mb-1">
+                      <Layers className="h-3.5 w-3.5" />
+                      <span className="text-[10px] font-medium">Parcels</span>
+                    </div>
+                    <p className="text-lg font-bold text-white">
+                      {hoa.parcelCount}
+                    </p>
+                  </div>
+                )}
+                {(hoa.unitCount ?? 0) > 0 && (
+                  <div className="rounded-xl bg-slate-800/60 border border-slate-700/40 px-4 py-3">
+                    <div className="flex items-center gap-1.5 text-slate-400 mb-1">
+                      <Users className="h-3.5 w-3.5" />
+                      <span className="text-[10px] font-medium">Units</span>
+                    </div>
+                    <p className="text-lg font-bold text-white">
+                      {hoa.unitCount}
+                    </p>
+                  </div>
+                )}
               </div>
 
               {/* Management Company */}
               {hoa.managementCompany && (
-                <div className="rounded-xl bg-slate-800/60 border border-slate-700/40 px-4 py-3">
+                <div className="rounded-xl bg-slate-800/60 border border-slate-700/40 px-4 py-4 space-y-3">
                   <div className="flex items-center gap-1.5 text-slate-400 mb-1">
                     <Briefcase className="h-3.5 w-3.5" />
-                    <span className="text-[10px] font-medium">
-                      Management Company
+                    <span className="text-[10px] font-medium uppercase tracking-wider">
+                      Likely Management Company
                     </span>
                   </div>
                   <p className="text-sm font-semibold text-white">
                     {hoa.managementCompany}
                   </p>
+                  <div className="flex flex-wrap gap-2">
+                    {hoa.managementPhone && (
+                      <a
+                        href={`tel:${hoa.managementPhone}`}
+                        className="flex items-center gap-1.5 rounded-lg bg-emerald-500/10 border border-emerald-500/20 px-3 py-1.5 text-xs text-emerald-400 hover:bg-emerald-500/20 transition-colors"
+                      >
+                        <Phone className="h-3 w-3" />
+                        {hoa.managementPhone}
+                      </a>
+                    )}
+                    {hoa.managementWebsite && (
+                      <a
+                        href={`https://${hoa.managementWebsite}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-center gap-1.5 rounded-lg bg-blue-500/10 border border-blue-500/20 px-3 py-1.5 text-xs text-blue-400 hover:bg-blue-500/20 transition-colors"
+                      >
+                        <Globe className="h-3 w-3" />
+                        {hoa.managementWebsite}
+                      </a>
+                    )}
+                  </div>
                 </div>
               )}
 
-              {/* Board Members */}
-              <div>
-                <h3 className="mb-3 flex items-center gap-2 text-sm font-semibold text-white">
-                  <Building2 className="h-4 w-4 text-slate-400" />
-                  Board Members
-                  <span className="rounded-full bg-slate-800 px-2 py-0.5 text-[10px] text-slate-400">
-                    {hoa.boardMembers.length}
-                  </span>
-                </h3>
-                <div className="space-y-2">
-                  {hoa.boardMembers.length > 0 ? (
-                    hoa.boardMembers.map((member) => (
-                      <BoardMemberCard key={member.id} member={member} />
-                    ))
-                  ) : (
-                    <p className="text-xs text-slate-500 italic">
-                      Board member data not yet available for this HOA
-                    </p>
-                  )}
+              {/* Exterior Details */}
+              {hoa.nearbyStuccoCount != null && hoa.nearbyStuccoCount > 0 && (
+                <div className="rounded-xl bg-orange-500/5 border border-orange-500/20 px-4 py-3">
+                  <p className="text-xs text-orange-300">
+                    <strong>{hoa.nearbyStuccoCount}</strong> confirmed stucco
+                    properties within 2km based on NJ tax assessor BLDG_DESC
+                    records. This HOA community may contain stucco units
+                    requiring maintenance.
+                  </p>
                 </div>
+              )}
+
+              {/* Coordinates */}
+              <div className="rounded-xl bg-slate-800/40 border border-slate-700/30 px-4 py-3">
+                <p className="text-[10px] text-slate-500 uppercase tracking-wider mb-1">
+                  Coordinates
+                </p>
+                <button
+                  onClick={() =>
+                    copyToClipboard(
+                      `${hoa.lat.toFixed(6)}, ${hoa.lng.toFixed(6)}`,
+                      "Coordinates"
+                    )
+                  }
+                  className="group flex items-center gap-2 text-xs text-slate-400 hover:text-white transition-colors"
+                >
+                  <span>
+                    {hoa.lat.toFixed(6)}, {hoa.lng.toFixed(6)}
+                  </span>
+                  <Copy className="h-3 w-3 opacity-0 group-hover:opacity-100 transition-opacity" />
+                </button>
+                {hoa.geoSource && (
+                  <p className="text-[10px] text-slate-600 mt-1">
+                    Source: {hoa.geoSource}
+                  </p>
+                )}
               </div>
             </div>
           </motion.div>
