@@ -77647,5 +77647,1227 @@
     }
   ],
   "ventnor condo": [],
-  "ventnor property owners": []
+  "ventnor property owners": [],
+  "ventnor community assoc": [],
+  "ventnor civic association": [
+    {
+      "name": "THE VENTNOR CIVIC ASSOCIATION OF VENTNOR CITY.",
+      "entityId": "0900065458",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "10/23/1934"
+    }
+  ],
+  "ventnor cooperative": [],
+  "ventnor townhouse": [],
+  "margate homeowners": [
+    {
+      "name": "MARGATE HOMEOWNERS ASSOCIATION OF NJ, INC.",
+      "entityId": "0101048722",
+      "city": "Margate City",
+      "type": "NP",
+      "dateFormed": "6/28/2018"
+    }
+  ],
+  "margate condominium": [
+    {
+      "name": "CEDAR TOWNHOUSES OF MARGATE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100473402",
+      "city": "MARGATE",
+      "type": "NP",
+      "dateFormed": "12/14/1990"
+    },
+    {
+      "name": "OCEANWALK OF MARGATE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100961690",
+      "city": "MARGATE",
+      "type": "NP",
+      "dateFormed": "4/13/2006"
+    },
+    {
+      "name": "THE PRESIDENTIAL OF MARGATE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100246457",
+      "city": "BALA CYNWYD",
+      "type": "NP",
+      "dateFormed": "12/26/1984"
+    }
+  ],
+  "margate condo": [],
+  "margate property owners": [],
+  "margate community assoc": [],
+  "margate civic association": [],
+  "margate cooperative": [],
+  "margate townhouse": [],
+  "longport homeowners": [],
+  "longport condominium": [
+    {
+      "name": "BAY VIEW OF LONGPORT CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100251314",
+      "city": "Longport",
+      "type": "NP",
+      "dateFormed": "2/14/1985"
+    },
+    {
+      "name": "LONGPORT CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100155830",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "12/7/1981"
+    },
+    {
+      "name": "TOWNHOUSES OF LONGPORT CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100070076",
+      "city": "Audubon",
+      "type": "NP",
+      "dateFormed": "8/30/1978"
+    }
+  ],
+  "longport condo": [],
+  "longport property owners": [],
+  "longport community assoc": [],
+  "longport civic association": [
+    {
+      "name": "BOROUGH OF LONGPORT CIVIC ASSOCIATION INC.",
+      "entityId": "0100776591",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "3/29/1999"
+    }
+  ],
+  "longport cooperative": [],
+  "longport townhouse": [],
+  "brigantine homeowners": [],
+  "brigantine condominium": [
+    {
+      "name": "ASSOCIATION OF BRIGANTINE CONDOMINIUM OWNERS, INC.",
+      "entityId": "0100558723",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "7/15/1993"
+    },
+    {
+      "name": "OCEAN 21 AT BRIGANTINE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100411958",
+      "city": "Atlantic City",
+      "type": "NP",
+      "dateFormed": "4/12/1989"
+    },
+    {
+      "name": "OCEAN VILLA BRIGANTINE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100428389",
+      "city": "BRIGANTINE",
+      "type": "NP",
+      "dateFormed": "9/22/1989"
+    },
+    {
+      "name": "OCEANSIDE AT BRIGANTINE CONDOMINIUM ASSOCIATION INC.",
+      "entityId": "0451000166",
+      "city": "Media",
+      "type": "NP",
+      "dateFormed": "7/24/2023"
+    },
+    {
+      "name": "THE SANDPIPER AT BRIGANTINE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100379380",
+      "city": "Springfield",
+      "type": "NP",
+      "dateFormed": "6/6/1988"
+    }
+  ],
+  "brigantine condo": [
+    {
+      "name": "BRIGANTINE CONDO TECH, INC.",
+      "entityId": "0100113201",
+      "city": "UNION",
+      "type": "DP",
+      "dateFormed": "5/13/1980"
+    }
+  ],
+  "brigantine property owners": [],
+  "brigantine community assoc": [],
+  "brigantine civic association": [],
+  "brigantine cooperative": [],
+  "brigantine townhouse": [],
+  "manahawkin homeowners": [],
+  "manahawkin condominium": [
+    {
+      "name": "THE LANDINGS AT MANAHAWKIN CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100958286",
+      "city": "Freehold",
+      "type": "NP",
+      "dateFormed": "2/7/2006"
+    }
+  ],
+  "manahawkin condo": [],
+  "manahawkin property owners": [],
+  "manahawkin community assoc": [],
+  "manahawkin civic association": [],
+  "manahawkin cooperative": [],
+  "manahawkin townhouse": [],
+  "waretown homeowners": [
+    {
+      "name": "ROYAL OAKS WARETOWN HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100895570",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "12/26/2002"
+    }
+  ],
+  "waretown condominium": [],
+  "waretown condo": [],
+  "waretown property owners": [],
+  "waretown community assoc": [],
+  "waretown civic association": [],
+  "waretown cooperative": [],
+  "waretown townhouse": [],
+  "forked river homeowners": [],
+  "forked river condominium": [],
+  "forked river condo": [],
+  "forked river property owners": [],
+  "forked river community assoc": [],
+  "forked river civic association": [],
+  "forked river cooperative": [],
+  "forked river townhouse": [],
+  "lanoka harbor homeowners": [],
+  "lanoka harbor condominium": [],
+  "lanoka harbor condo": [],
+  "lanoka harbor property owners": [],
+  "lanoka harbor community assoc": [],
+  "lanoka harbor civic association": [],
+  "lanoka harbor cooperative": [],
+  "lanoka harbor townhouse": [],
+  "point pleasant homeowners": [
+    {
+      "name": "POINT PLEASANT HOMEOWNERS HELPERS",
+      "entityId": "7102352500",
+      "city": "",
+      "type": "DP",
+      "dateFormed": "4/27/1973"
+    }
+  ],
+  "point pleasant condominium": [
+    {
+      "name": "BLUFFS AT POINT PLEASANT CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101055203",
+      "city": "Point Pleasant",
+      "type": "NP",
+      "dateFormed": "3/16/2020"
+    },
+    {
+      "name": "WATER'S EDGE AT POINT PLEASANT CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100968081",
+      "city": "WHIPPANY",
+      "type": "NP",
+      "dateFormed": "9/13/2006"
+    },
+    {
+      "name": "WATERVIEW AT POINT PLEASANT CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100231341",
+      "city": "POINT PLEASANT BEACH",
+      "type": "NP",
+      "dateFormed": "6/29/1984"
+    },
+    {
+      "name": "WEDGEWOOD AT POINT PLEASANT CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100385068",
+      "city": "POINT PLEASANT BORO",
+      "type": "NP",
+      "dateFormed": "7/28/1988"
+    }
+  ],
+  "point pleasant condo": [],
+  "point pleasant property owners": [],
+  "point pleasant community assoc": [],
+  "point pleasant civic association": [],
+  "point pleasant cooperative": [],
+  "point pleasant townhouse": [],
+  "seaside heights homeowners": [
+    {
+      "name": "THE VIEWS AT SEASIDE HEIGHTS HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0101064340",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "2/20/2024"
+    }
+  ],
+  "seaside heights condominium": [
+    {
+      "name": "OCEANA VILLAS AT SEASIDE HEIGHTS CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100966877",
+      "city": "Point Pleasant",
+      "type": "NP",
+      "dateFormed": "8/14/2006"
+    },
+    {
+      "name": "SANDY LANE AT SEASIDE HEIGHTS CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100905810",
+      "city": "MANCHESTER",
+      "type": "NP",
+      "dateFormed": "6/9/2003"
+    },
+    {
+      "name": "WHITE BEACHES AT SEASIDE HEIGHTS CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100905807",
+      "city": "Oakhurst",
+      "type": "NP",
+      "dateFormed": "6/9/2003"
+    }
+  ],
+  "seaside heights condo": [
+    {
+      "name": "60 SHERMAN AVENUE SEASIDE HEIGHTS CONDO ASSOCIATION LLC",
+      "entityId": "0450851576",
+      "city": "SEASIDE HEIGHTS",
+      "type": "LLC",
+      "dateFormed": "8/18/2022"
+    }
+  ],
+  "seaside heights property owners": [],
+  "seaside heights community assoc": [],
+  "seaside heights civic association": [],
+  "seaside heights cooperative": [],
+  "seaside heights townhouse": [],
+  "seaside park homeowners": [
+    {
+      "name": "THE SOUTH SEASIDE PARK HOMEOWNERS AND VOTERS ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0400372574",
+      "city": "Seaside Park",
+      "type": "NP",
+      "dateFormed": "9/29/2010"
+    }
+  ],
+  "seaside park condominium": [
+    {
+      "name": "SEAVIEW AT SEASIDE PARK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100266934",
+      "city": "CLIFTON",
+      "type": "NP",
+      "dateFormed": "7/23/1985"
+    },
+    {
+      "name": "SHORE VILLAS AT SEASIDE PARK CONDOMINIUM ASSOCIATION INC.",
+      "entityId": "0400524634",
+      "city": "Marlton",
+      "type": "NP",
+      "dateFormed": "10/17/2012"
+    },
+    {
+      "name": "SOUTH BEACH @ SOUTH SEASIDE PARK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100951677",
+      "city": "SEASIDE PARK",
+      "type": "NP",
+      "dateFormed": "9/14/2005"
+    }
+  ],
+  "seaside park condo": [],
+  "seaside park property owners": [],
+  "seaside park community assoc": [],
+  "seaside park civic association": [],
+  "seaside park cooperative": [],
+  "seaside park townhouse": [],
+  "red bank homeowners": [],
+  "red bank condominium": [
+    {
+      "name": "BROWNSTONES AT RED BANK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101053657",
+      "city": "Keyport",
+      "type": "NP",
+      "dateFormed": "10/7/2019"
+    },
+    {
+      "name": "HILLTOP AT RED BANK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100340550",
+      "city": "Oakhurst",
+      "type": "NP",
+      "dateFormed": "6/10/1987"
+    },
+    {
+      "name": "MADISON COMMONS OF RED BANK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100291589",
+      "city": "Allenhurst",
+      "type": "NP",
+      "dateFormed": "3/19/1986"
+    },
+    {
+      "name": "RIVER'S EDGE AT RED BANK CONDOMINIUM ASSOCIATIO, INC.",
+      "entityId": "0101041590",
+      "city": "Red Bank",
+      "type": "NP",
+      "dateFormed": "7/6/2016"
+    },
+    {
+      "name": "THE COURTS OF RED BANK CONDOMINIUM ASSOCIATION",
+      "entityId": "0100193839",
+      "city": "Red Bank",
+      "type": "NP",
+      "dateFormed": "4/20/1983"
+    },
+    {
+      "name": "THE COURTYARD OF RED BANK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100277394",
+      "city": "Red Bank",
+      "type": "NP",
+      "dateFormed": "10/31/1985"
+    },
+    {
+      "name": "THE METROPOLITAN RED BANK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100977017",
+      "city": "Oakhurst",
+      "type": "NP",
+      "dateFormed": "3/12/2007"
+    }
+  ],
+  "red bank condo": [],
+  "red bank property owners": [
+    {
+      "name": "RED BANK PROPERTY OWNERS ASSOCIATION, INC.",
+      "entityId": "0100042943",
+      "city": "",
+      "type": "DP",
+      "dateFormed": "6/28/1977"
+    }
+  ],
+  "red bank community assoc": [],
+  "red bank civic association": [],
+  "red bank cooperative": [],
+  "red bank townhouse": [],
+  "asbury park homeowners": [
+    {
+      "name": "THE ASBURY PARK HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100641655",
+      "city": "ASBURY PARK",
+      "type": "NP",
+      "dateFormed": "10/6/1995"
+    }
+  ],
+  "asbury park condominium": [
+    {
+      "name": "400 LAKE AT ASBURY PARK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0451333523",
+      "city": "FREEHOLD",
+      "type": "NP",
+      "dateFormed": "8/25/2025"
+    },
+    {
+      "name": "RHYTHM ASBURY PARK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0451084758",
+      "city": "MT. ARLINGTON",
+      "type": "NP",
+      "dateFormed": "2/12/2024"
+    },
+    {
+      "name": "THE AEGEAN AT ASBURY PARK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101057837",
+      "city": "Mt. Arlington",
+      "type": "NP",
+      "dateFormed": "3/10/2021"
+    },
+    {
+      "name": "THE BALTIC AT ASBURY PARK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101057838",
+      "city": "Mt. Arlington",
+      "type": "NP",
+      "dateFormed": "3/10/2021"
+    },
+    {
+      "name": "THE COVE AT ASBURY PARK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101056797",
+      "city": "Mt. Arlington",
+      "type": "NP",
+      "dateFormed": "11/4/2020"
+    },
+    {
+      "name": "THE DELTA AT ASBURY PARK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101065339",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "9/25/2024"
+    },
+    {
+      "name": "THE LOFTS AT ASBURY PARK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101011192",
+      "city": "ASBURY PARK",
+      "type": "NP",
+      "dateFormed": "9/15/2010"
+    },
+    {
+      "name": "VIVE ASBURY PARK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101028374",
+      "city": "ASBURY PARK",
+      "type": "NP",
+      "dateFormed": "7/24/2013"
+    }
+  ],
+  "asbury park condo": [],
+  "asbury park property owners": [
+    {
+      "name": "2020 ASBURY PARK PROPERTY OWNERS COALITION A NJ NONPROFIT CORPORATION",
+      "entityId": "0450582050",
+      "city": "RUTHERFORD",
+      "type": "NP",
+      "dateFormed": "12/28/2020"
+    },
+    {
+      "name": "ASBURY PARK PROPERTY OWNERS ASSOCIATION",
+      "entityId": "0900002812",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "10/5/1956"
+    },
+    {
+      "name": "ASBURY PARK PROPERTY OWNERS COALITION A NJ NONPROFIT CORPORATION",
+      "entityId": "0450578223",
+      "city": "RUTHERFORD",
+      "type": "NV",
+      "dateFormed": "12/15/2020"
+    }
+  ],
+  "asbury park community assoc": [],
+  "asbury park civic association": [],
+  "asbury park cooperative": [],
+  "asbury park townhouse": [],
+  "belmar homeowners": [],
+  "belmar condominium": [
+    {
+      "name": "903 OCEAN AT BELMAR CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101046589",
+      "city": "Belmar",
+      "type": "NP",
+      "dateFormed": "11/22/2017"
+    },
+    {
+      "name": "EXECUTIVE HOUSE OF BELMAR CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100386821",
+      "city": "Cranbury",
+      "type": "NP",
+      "dateFormed": "8/15/1988"
+    },
+    {
+      "name": "OCEAN BEACH AT BELMAR CONDOMINIUM ASSOCIATION INC.",
+      "entityId": "0450797988",
+      "city": "BELMAR",
+      "type": "NP",
+      "dateFormed": "4/12/2022"
+    },
+    {
+      "name": "OCEAN BREEZE AT BELMAR CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101026777",
+      "city": "Belmar",
+      "type": "NP",
+      "dateFormed": "4/3/2013"
+    },
+    {
+      "name": "OCEANSIDE AT BELMAR CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100386820",
+      "city": "WEST LONG BRANCH",
+      "type": "NP",
+      "dateFormed": "8/15/1988"
+    },
+    {
+      "name": "RIVERWALK AT BELMAR CONDOMINIUM ASSOCIATION, . INC.",
+      "entityId": "0400726519",
+      "city": "Point Pleasant Boro",
+      "type": "NP",
+      "dateFormed": "2/23/2015"
+    },
+    {
+      "name": "THE BELMAR CONDOMINIUM ASSOCIATION INC.",
+      "entityId": "0100980389",
+      "city": "Pt. Pleasant boro",
+      "type": "NP",
+      "dateFormed": "5/30/2007"
+    },
+    {
+      "name": "WEST BELMAR CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100464961",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "10/5/1990"
+    },
+    {
+      "name": "WESTPORT OF BELMAR CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100978019",
+      "city": "BELMAR",
+      "type": "NP",
+      "dateFormed": "4/3/2007"
+    }
+  ],
+  "belmar condo": [],
+  "belmar property owners": [],
+  "belmar community assoc": [],
+  "belmar civic association": [
+    {
+      "name": "THE BELMAR CIVIC ASSOCIATION",
+      "entityId": "0900004766",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "5/17/1972"
+    }
+  ],
+  "belmar cooperative": [],
+  "belmar townhouse": [],
+  "spring lake homeowners": [
+    {
+      "name": "SPRING LAKE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100537088",
+      "city": "SPRING LAKE",
+      "type": "NP",
+      "dateFormed": "12/16/1992"
+    }
+  ],
+  "spring lake condominium": [
+    {
+      "name": "OCEAN MANOR AT SPRING LAKE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100966960",
+      "city": "BRADLEY BEACH",
+      "type": "NP",
+      "dateFormed": "8/15/2006"
+    },
+    {
+      "name": "THE ATRIUM AT SPRING LAKE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100355614",
+      "city": "Spring Lake",
+      "type": "NP",
+      "dateFormed": "11/10/1987"
+    }
+  ],
+  "spring lake condo": [],
+  "spring lake property owners": [],
+  "spring lake community assoc": [],
+  "spring lake civic association": [],
+  "spring lake cooperative": [],
+  "spring lake townhouse": [],
+  "monmouth beach homeowners": [],
+  "monmouth beach condominium": [],
+  "monmouth beach condo": [],
+  "monmouth beach property owners": [],
+  "monmouth beach community assoc": [],
+  "monmouth beach civic association": [
+    {
+      "name": "THE MONMOUTH BEACH CIVIC ASSOCIATION",
+      "entityId": "0900038805",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "11/8/1939"
+    },
+    {
+      "name": "THE MONMOUTH BEACH CIVIC ASSOCIATION",
+      "entityId": "0900038804",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "8/30/1971"
+    }
+  ],
+  "monmouth beach cooperative": [],
+  "monmouth beach townhouse": [],
+  "deal homeowners": [],
+  "deal condominium": [],
+  "deal condo": [],
+  "deal property owners": [],
+  "deal community assoc": [],
+  "deal civic association": [],
+  "deal cooperative": [],
+  "deal townhouse": [
+    {
+      "name": "DEAL TOWNHOUSE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100248221",
+      "city": "Deal",
+      "type": "NP",
+      "dateFormed": "1/17/1985"
+    }
+  ],
+  "eatontown homeowners": [],
+  "eatontown condominium": [
+    {
+      "name": "LAKEVIEW AT EATONTOWN CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101056752",
+      "city": "Eatontown",
+      "type": "NP",
+      "dateFormed": "10/30/2020"
+    },
+    {
+      "name": "MILL POND AT EATONTOWN CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100987258",
+      "city": "Chester",
+      "type": "NP",
+      "dateFormed": "12/12/2007"
+    },
+    {
+      "name": "PARKVIEW ESTATES AT EATONTOWN CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100913891",
+      "city": "Eatontown",
+      "type": "NP",
+      "dateFormed": "10/22/2003"
+    },
+    {
+      "name": "STONY HILL OF EATONTOWN CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100425176",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "8/21/1989"
+    }
+  ],
+  "eatontown condo": [],
+  "eatontown property owners": [],
+  "eatontown community assoc": [],
+  "eatontown civic association": [],
+  "eatontown cooperative": [],
+  "eatontown townhouse": [],
+  "tinton falls homeowners": [
+    {
+      "name": "MEADOWS AT TINTON FALLS HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0101000557",
+      "city": "Tinton Falls",
+      "type": "NP",
+      "dateFormed": "4/16/2009"
+    },
+    {
+      "name": "WAYSIDE MANOR AT TINTON FALLS HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0101053909",
+      "city": "Manalapan",
+      "type": "NP",
+      "dateFormed": "10/31/2019"
+    }
+  ],
+  "tinton falls condominium": [
+    {
+      "name": "PARK PLACE II AT TINTON FALLS CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100459143",
+      "city": "Cranbury",
+      "type": "NP",
+      "dateFormed": "7/24/1990"
+    },
+    {
+      "name": "PARKVIEW AT TINTON FALLS CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100991680",
+      "city": "NORTH BRUNSWICK",
+      "type": "NP",
+      "dateFormed": "4/25/2008"
+    },
+    {
+      "name": "SOCIETY HILL AT TINTON FALLS CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100355330",
+      "city": "EATONTOWN",
+      "type": "NP",
+      "dateFormed": "11/6/1987"
+    },
+    {
+      "name": "SPRING MEADOWS AT TINTON FALLS CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100315592",
+      "city": "Hazlet",
+      "type": "NP",
+      "dateFormed": "10/29/1986"
+    }
+  ],
+  "tinton falls condo": [],
+  "tinton falls property owners": [],
+  "tinton falls community assoc": [],
+  "tinton falls civic association": [],
+  "tinton falls cooperative": [
+    {
+      "name": "TINTON FALLS COOPERATIVE PRESCHOOL A NJ NONPROFIT CORPORATION",
+      "entityId": "0101027807",
+      "city": "TINTON FALLS",
+      "type": "NP",
+      "dateFormed": "5/29/2013"
+    }
+  ],
+  "tinton falls townhouse": [],
+  "holmdel homeowners": [
+    {
+      "name": "CEDAR VILLAGE AT HOLMDEL HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100854705",
+      "city": "Springfield",
+      "type": "NP",
+      "dateFormed": "6/28/2001"
+    },
+    {
+      "name": "RESERVE AT HOLMDEL HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0101040797",
+      "city": "Fairfiled",
+      "type": "NP",
+      "dateFormed": "4/25/2016"
+    },
+    {
+      "name": "THE VILLAGE GRANDE AT HOLMDEL HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100742184",
+      "city": "ENGLEWOOD CLIFFS",
+      "type": "NP",
+      "dateFormed": "4/13/1998"
+    },
+    {
+      "name": "WOODLAND ESTATES AT HOLMDEL HOMEOWNERS ASSOCIATION INC.",
+      "entityId": "0451012794",
+      "city": "RED BANK",
+      "type": "NP",
+      "dateFormed": "8/22/2023"
+    }
+  ],
+  "holmdel condominium": [
+    {
+      "name": "HIDDEN WOODS AT HOLMDEL CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100640349",
+      "city": "FLEMINGTON",
+      "type": "NP",
+      "dateFormed": "9/22/1995"
+    },
+    {
+      "name": "REGENCY AT HOLMDEL CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101044495",
+      "city": "Whippany",
+      "type": "NP",
+      "dateFormed": "4/12/2017"
+    },
+    {
+      "name": "THE ORCHARDS AT HOLMDEL CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100552549",
+      "city": "EATONTOWN",
+      "type": "NP",
+      "dateFormed": "5/13/1993"
+    },
+    {
+      "name": "THE WOODS AT HOLMDEL CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100775006",
+      "city": "MIDDLETOWN",
+      "type": "NP",
+      "dateFormed": "3/10/1999"
+    }
+  ],
+  "holmdel condo": [],
+  "holmdel property owners": [],
+  "holmdel community assoc": [],
+  "holmdel civic association": [],
+  "holmdel cooperative": [],
+  "holmdel townhouse": [
+    {
+      "name": "FOX CHASE AT HOLMDEL TOWNHOUSE CONDOMINIUMS ASSOCIATION, INC.",
+      "entityId": "0100325355",
+      "city": "Point Pleasant Boro",
+      "type": "NP",
+      "dateFormed": "1/29/1987"
+    }
+  ],
+  "colts neck homeowners": [
+    {
+      "name": "RESERVE AT COLTS NECK HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0450129614",
+      "city": "FAIRFIELD",
+      "type": "NP",
+      "dateFormed": "12/30/2016"
+    }
+  ],
+  "colts neck condominium": [
+    {
+      "name": "ATLANTIC BUILDINGS AT COLTS NECK CONDOMINIUM ASSOCIATION, INC",
+      "entityId": "0400375065",
+      "city": "COLTS NECK",
+      "type": "NP",
+      "dateFormed": "10/13/2010"
+    },
+    {
+      "name": "THE GRANDE AT COLTS NECK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100589826",
+      "city": "COLTS NECK",
+      "type": "NP",
+      "dateFormed": "6/1/1994"
+    }
+  ],
+  "colts neck condo": [],
+  "colts neck property owners": [],
+  "colts neck community assoc": [],
+  "colts neck civic association": [],
+  "colts neck cooperative": [],
+  "colts neck townhouse": [],
+  "rumson homeowners": [],
+  "rumson condominium": [],
+  "rumson condo": [],
+  "rumson property owners": [],
+  "rumson community assoc": [],
+  "rumson civic association": [],
+  "rumson cooperative": [],
+  "rumson townhouse": [],
+  "sparta homeowners": [
+    {
+      "name": "ROUNDTOP AT SPARTA HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100932559",
+      "city": "Wayne",
+      "type": "NP",
+      "dateFormed": "9/10/2004"
+    },
+    {
+      "name": "STONE GATE AT SPARTA HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0101049761",
+      "city": "FAIRFIELD",
+      "type": "NP",
+      "dateFormed": "10/12/2018"
+    }
+  ],
+  "sparta condominium": [
+    {
+      "name": "SEASONS AT SPARTA CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100965547",
+      "city": "BELLEVILLE",
+      "type": "NP",
+      "dateFormed": "7/13/2006"
+    }
+  ],
+  "sparta condo": [],
+  "sparta property owners": [],
+  "sparta community assoc": [],
+  "sparta civic association": [],
+  "sparta cooperative": [],
+  "sparta townhouse": [],
+  "vernon homeowners": [],
+  "vernon condominium": [
+    {
+      "name": "COTTAGES AT VERNON CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0451174635",
+      "city": "FAR HILLS",
+      "type": "NP",
+      "dateFormed": "9/5/2024"
+    }
+  ],
+  "vernon condo": [
+    {
+      "name": "VERNON CONDO 2020 L.L.C.",
+      "entityId": "0450528993",
+      "city": "Paterson",
+      "type": "LLC",
+      "dateFormed": "8/14/2020"
+    }
+  ],
+  "vernon property owners": [],
+  "vernon community assoc": [],
+  "vernon civic association": [
+    {
+      "name": "MOUNT VERNON CIVIC ASSOCIATION",
+      "entityId": "0900040178",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "1/16/1948"
+    },
+    {
+      "name": "THE MT. VERNON CIVIC ASSOCIATION OF IRVINGTON, N.J.",
+      "entityId": "0900040179",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "12/27/1926"
+    }
+  ],
+  "vernon cooperative": [],
+  "vernon townhouse": [],
+  "west milford homeowners": [],
+  "west milford condominium": [],
+  "west milford condo": [],
+  "west milford property owners": [],
+  "west milford community assoc": [],
+  "west milford civic association": [],
+  "west milford cooperative": [],
+  "west milford townhouse": [],
+  "ringwood homeowners": [],
+  "ringwood condominium": [],
+  "ringwood condo": [],
+  "ringwood property owners": [],
+  "ringwood community assoc": [],
+  "ringwood civic association": [],
+  "ringwood cooperative": [
+    {
+      "name": "RINGWOOD COOPERATIVE NURSERY SCHOOL",
+      "entityId": "0900052805",
+      "city": "WANAQUE",
+      "type": "NP",
+      "dateFormed": "1/17/1962"
+    }
+  ],
+  "ringwood townhouse": [],
+  "monroe homeowners": [
+    {
+      "name": "BROOKDALE AT MONROE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100296186",
+      "city": "TURNERSVILLE",
+      "type": "NP",
+      "dateFormed": "4/24/1986"
+    },
+    {
+      "name": "FEDERAL HILL AT MONROE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0101004609",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "10/21/2009"
+    },
+    {
+      "name": "FOUR SEASONS AT MONROE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100988916",
+      "city": "Whippany",
+      "type": "NP",
+      "dateFormed": "1/31/2008"
+    },
+    {
+      "name": "MARISSA ESTATES AT MONROE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100959502",
+      "city": "Audubon",
+      "type": "NP",
+      "dateFormed": "3/2/2006"
+    },
+    {
+      "name": "REGENCY AT MONROE HOMEOWNERS ASSOCIATION INC.",
+      "entityId": "0100856285",
+      "city": "MONROE TOWNSHIP",
+      "type": "NP",
+      "dateFormed": "7/24/2001"
+    },
+    {
+      "name": "THE CROSSINGS AT MONROE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100946891",
+      "city": "RED BANK",
+      "type": "NP",
+      "dateFormed": "6/1/2005"
+    },
+    {
+      "name": "THE FAIRWAYS AT FORSGATE OF MONROE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100821681",
+      "city": "FAIRFIELD",
+      "type": "NP",
+      "dateFormed": "6/28/2000"
+    },
+    {
+      "name": "THE ORCHARDS AT MONROE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0101022871",
+      "city": "Highland Park",
+      "type": "NP",
+      "dateFormed": "7/18/2012"
+    }
+  ],
+  "monroe condominium": [
+    {
+      "name": "123 MONROE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101036907",
+      "city": "Hoboken",
+      "type": "NP",
+      "dateFormed": "4/23/2015"
+    },
+    {
+      "name": "326 MONROE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100939959",
+      "city": "Jersey City",
+      "type": "NP",
+      "dateFormed": "1/20/2005"
+    },
+    {
+      "name": "502 MONROE CONDOMINIUM ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0450185983",
+      "city": "Jersey City",
+      "type": "NP",
+      "dateFormed": "7/21/2017"
+    },
+    {
+      "name": "533 MONROE CONDOMINIUM ASSOCIATION,",
+      "entityId": "0100237099",
+      "city": "hoboken",
+      "type": "NP",
+      "dateFormed": "9/12/1984"
+    },
+    {
+      "name": "COURTS AT MONROE CONDOMINIUM ASSOCIATION, INC",
+      "entityId": "0101033833",
+      "city": "MT. LAUREL",
+      "type": "NP",
+      "dateFormed": "9/9/2014"
+    },
+    {
+      "name": "ENCORE MONROE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100883108",
+      "city": "WHIPPANY",
+      "type": "NP",
+      "dateFormed": "7/9/2002"
+    },
+    {
+      "name": "GODWIN MONROE CONDOMINIUM ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0400368759",
+      "city": "RIDGEWOOD",
+      "type": "NP",
+      "dateFormed": "9/8/2010"
+    },
+    {
+      "name": "MONROE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100719672",
+      "city": "HOBOKEN",
+      "type": "NP",
+      "dateFormed": "8/22/1997"
+    },
+    {
+      "name": "MONROE CONDOMINIUM CORP.",
+      "entityId": "0100172592",
+      "city": "",
+      "type": "DP",
+      "dateFormed": "7/14/1982"
+    },
+    {
+      "name": "STRATFORD MEADOWS AT MONROE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101014110",
+      "city": "FLEMINGTON",
+      "type": "NP",
+      "dateFormed": "2/22/2011"
+    },
+    {
+      "name": "THE 620 MONROE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101018092",
+      "city": "Jersey City",
+      "type": "NP",
+      "dateFormed": "9/28/2011"
+    },
+    {
+      "name": "THE CLEARBROOK AT MONROE CONDOMINIUM ASSOCIATION INC.",
+      "entityId": "0400546761",
+      "city": "CLARK",
+      "type": "NP",
+      "dateFormed": "1/31/2013"
+    },
+    {
+      "name": "THE GATEWAY AT MONROE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101043524",
+      "city": "Fairfield",
+      "type": "NP",
+      "dateFormed": "1/11/2017"
+    },
+    {
+      "name": "THE JAMES MONROE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100829159",
+      "city": "NEW BRUNSWICK",
+      "type": "NP",
+      "dateFormed": "9/20/2000"
+    },
+    {
+      "name": "THE JAMES MONROE CONDOMINIUM AT NEWPORT INC.",
+      "entityId": "0100329272",
+      "city": "JERSEY CITY",
+      "type": "NP",
+      "dateFormed": "3/9/1987"
+    },
+    {
+      "name": "THE MONROE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101037441",
+      "city": "Asbury Park",
+      "type": "NP",
+      "dateFormed": "6/23/2015"
+    }
+  ],
+  "monroe condo": [],
+  "monroe property owners": [],
+  "monroe community assoc": [],
+  "monroe civic association": [],
+  "monroe cooperative": [],
+  "monroe townhouse": [],
+  "cranbury homeowners": [
+    {
+      "name": "LIEDTKE DRIVE AT CRANBURY HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100906165",
+      "city": "CRANBURY",
+      "type": "NP",
+      "dateFormed": "6/13/2003"
+    },
+    {
+      "name": "REGENCY AT CRANBURY HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0101062491",
+      "city": "Whippany",
+      "type": "NP",
+      "dateFormed": "2/6/2023"
+    }
+  ],
+  "cranbury condominium": [
+    {
+      "name": "OAKS AT CRANBURY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101034249",
+      "city": "Cranbury",
+      "type": "NP",
+      "dateFormed": "10/9/2014"
+    }
+  ],
+  "cranbury condo": [],
+  "cranbury property owners": [],
+  "cranbury community assoc": [],
+  "cranbury civic association": [],
+  "cranbury cooperative": [],
+  "cranbury townhouse": [],
+  "plainsboro homeowners": [
+    {
+      "name": "THE ESTATES AT PLAINSBORO HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100867062",
+      "city": "Cranbury",
+      "type": "NP",
+      "dateFormed": "12/10/2001"
+    }
+  ],
+  "plainsboro condominium": [],
+  "plainsboro condo": [],
+  "plainsboro property owners": [],
+  "plainsboro community assoc": [],
+  "plainsboro civic association": [],
+  "plainsboro cooperative": [],
+  "plainsboro townhouse": [
+    {
+      "name": "PLAINSBORO TOWNHOUSE I ASSOCIATES, LTD.",
+      "entityId": "0600003090",
+      "city": "BERWYN",
+      "type": "LP",
+      "dateFormed": "3/29/1985"
+    }
+  ],
+  "east windsor homeowners": [
+    {
+      "name": "RIVIERA AT EAST WINDSOR HOMEOWNERS ASSOCIATION INC.",
+      "entityId": "0100918141",
+      "city": "Cranbury",
+      "type": "NP",
+      "dateFormed": "1/8/2004"
+    }
+  ],
+  "east windsor condominium": [],
+  "east windsor condo": [],
+  "east windsor property owners": [],
+  "east windsor community assoc": [],
+  "east windsor civic association": [],
+  "east windsor cooperative": [],
+  "east windsor townhouse": [],
+  "robbinsville homeowners": [
+    {
+      "name": "ESTATES AT ROBBINSVILLE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0101039289",
+      "city": "Windsor",
+      "type": "NP",
+      "dateFormed": "12/10/2015"
+    },
+    {
+      "name": "RAAJIPO AT ROBBINSVILLE HOMEOWNERS ASSOCIATION LLC",
+      "entityId": "0450180111",
+      "city": "Springfield",
+      "type": "LLC",
+      "dateFormed": "6/28/2017"
+    },
+    {
+      "name": "RAAJIPO IN ROBBINSVILLE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0450875845",
+      "city": "Princeton",
+      "type": "NP",
+      "dateFormed": "10/17/2022"
+    },
+    {
+      "name": "SPRINGSIDE AT ROBBINSVILLE HOMEOWNERS ASSOCIATION INCORPORATED",
+      "entityId": "0450012959",
+      "city": "Cranbury",
+      "type": "NP",
+      "dateFormed": "8/25/2015"
+    }
+  ],
+  "robbinsville condominium": [
+    {
+      "name": "PRESTON POINTE AT ROBBINSVILLE CONDOMINIUM ASSOCIATION INC.",
+      "entityId": "0101066865",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "9/16/2025"
+    }
+  ],
+  "robbinsville condo": [],
+  "robbinsville property owners": []
 }
