@@ -7355,5 +7355,1015 @@
     "lat": 39.934757979284015,
     "lng": -74.89596887256342,
     "source": "city_center"
+  },
+  "city:PITMAN": {
+    "lat": 39.731681,
+    "lng": -75.1300457,
+    "source": "nominatim_city"
+  },
+  "city:TITUSVILLE": {
+    "lat": 40.308683,
+    "lng": -74.8761313,
+    "source": "nominatim_city"
+  },
+  "city:WOODBURY HEIGHTS": {
+    "lat": 39.817058,
+    "lng": -75.1551776,
+    "source": "nominatim_city"
+  },
+  "city:PLAINSBORO": {
+    "lat": 40.3334409,
+    "lng": -74.6004341,
+    "source": "nominatim_city"
+  },
+  "city:PAVLSBORO": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:WATCHUNG": {
+    "lat": 40.6378801,
+    "lng": -74.4509863,
+    "source": "nominatim_city"
+  },
+  "city:ANNANDALE": {
+    "lat": 40.6475975,
+    "lng": -74.8862631,
+    "source": "nominatim_city"
+  },
+  "city:BERKELEY HEIGHTD": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:KEYPORT": {
+    "lat": 40.4331631,
+    "lng": -74.1995883,
+    "source": "nominatim_city"
+  },
+  "city:PHILADELPHIA": {
+    "lat": 40.039794,
+    "lng": -74.9590355,
+    "source": "nominatim_city"
+  },
+  "city:JAMESBURG": {
+    "lat": 40.3526079,
+    "lng": -74.4401513,
+    "source": "nominatim_city"
+  },
+  "city:MONROE TWP.": {
+    "lat": 40.335756,
+    "lng": -74.4334464,
+    "source": "nominatim_city"
+  },
+  "city:NEW YORK": {
+    "lat": 40.7856117,
+    "lng": -74.0093129,
+    "source": "nominatim_city"
+  },
+  "city:LAKEWOOD TOWNSHIP": {
+    "lat": 40.0940995,
+    "lng": -74.2149889,
+    "source": "nominatim_city"
+  },
+  "city:HAMILTON": {
+    "lat": 40.2553663,
+    "lng": -74.7040312,
+    "source": "nominatim_city"
+  },
+  "city:FAIRFILED": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:EGG HARBOR TOWNSHIP": {
+    "lat": 39.3820672,
+    "lng": -74.6171489,
+    "source": "nominatim_city"
+  },
+  "city:STONE HARBOR": {
+    "lat": 39.0537129,
+    "lng": -74.7584461,
+    "source": "nominatim_city"
+  },
+  "city:RIO GRANDE": {
+    "lat": 39.018694,
+    "lng": -74.879965,
+    "source": "nominatim_city"
+  },
+  "city:WALL": {
+    "lat": 40.1743052,
+    "lng": -74.0902219,
+    "source": "nominatim_city"
+  },
+  "city:POINT PLEASANT BORO": {
+    "lat": 40.0782189,
+    "lng": -74.0709866,
+    "source": "nominatim_city"
+  },
+  "city:OWINGS MILLS": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:MONROEVILLE": {
+    "lat": 39.6290035,
+    "lng": -75.1593471,
+    "source": "nominatim_city"
+  },
+  "city:NEWPORT": {
+    "lat": 40.7267989,
+    "lng": -74.0347553,
+    "source": "nominatim_city"
+  },
+  "city:AVALON": {
+    "lat": 39.101225,
+    "lng": -74.7176622,
+    "source": "nominatim_city"
+  },
+  "city:NEPTUNE": {
+    "lat": 39.2191278,
+    "lng": -74.7129026,
+    "source": "nominatim_city"
+  },
+  "city:POINT PLEASANT BOROUGH": {
+    "lat": 40.0779441,
+    "lng": -74.0684129,
+    "source": "nominatim_city"
+  },
+  "city:RIO GRANDE,": {
+    "lat": 39.018694,
+    "lng": -74.879965,
+    "source": "nominatim_city"
+  },
+  "city:TINTON FALLS": {
+    "lat": 40.2890734,
+    "lng": -74.0927967,
+    "source": "nominatim_city"
+  },
+  "city:LEONARDO": {
+    "lat": 40.420419,
+    "lng": -74.0604545,
+    "source": "nominatim_city"
+  },
+  "city:HILLSDALE": {
+    "lat": 41.0025975,
+    "lng": -74.0404175,
+    "source": "nominatim_city"
+  },
+  "city:AVON-BY-THE-SEA": {
+    "lat": 40.1923357,
+    "lng": -74.0159703,
+    "source": "nominatim_city"
+  },
+  "city:PT. PLEASANT BORO": {
+    "lat": 40.0782189,
+    "lng": -74.0709866,
+    "source": "nominatim_city"
+  },
+  "city:KEANSBURG": {
+    "lat": 40.4417743,
+    "lng": -74.1298643,
+    "source": "nominatim_city"
+  },
+  "city:VOORHEES, NJ": {
+    "lat": 39.8512162,
+    "lng": -74.9619779,
+    "source": "nominatim_city"
+  },
+  "city:RIDGEFIELD PARK": {
+    "lat": 40.8563862,
+    "lng": -74.0249191,
+    "source": "nominatim_city"
+  },
+  "city:MEDFORD LAKES": {
+    "lat": 39.857984,
+    "lng": -74.8128639,
+    "source": "nominatim_city"
+  },
+  "city:PEQUANNOCK": {
+    "lat": 40.9600102,
+    "lng": -74.2974765,
+    "source": "nominatim_city"
+  },
+  "city:MILLTOWN": {
+    "lat": 40.4562165,
+    "lng": -74.4432073,
+    "source": "nominatim_city"
+  },
+  "city:NEPTUNE TOWNSHIP": {
+    "lat": 40.2239981,
+    "lng": -74.0478216,
+    "source": "nominatim_city"
+  },
+  "city:BURLINGTON": {
+    "lat": 39.9325409,
+    "lng": -74.7226665,
+    "source": "nominatim_city"
+  },
+  "city:ST. AUGUSTINE": {
+    "lat": 39.3621789,
+    "lng": -74.4334181,
+    "source": "nominatim_city"
+  },
+  "city:BERNARDSVILLE": {
+    "lat": 40.7186805,
+    "lng": -74.5692273,
+    "source": "nominatim_city"
+  },
+  "city:SCOTCH PLAINS": {
+    "lat": 40.65538,
+    "lng": -74.3898732,
+    "source": "nominatim_city"
+  },
+  "city:FAR HILLS": {
+    "lat": 40.684268,
+    "lng": -74.6357148,
+    "source": "nominatim_city"
+  },
+  "city:SOUTHAMPTON": {
+    "lat": 39.931466,
+    "lng": -74.7380885,
+    "source": "nominatim_city"
+  },
+  "city:ABERDEEN": {
+    "lat": 40.4071138,
+    "lng": -74.2216287,
+    "source": "nominatim_city"
+  },
+  "city:RIDGEWOOD": {
+    "lat": 40.9796683,
+    "lng": -74.1194403,
+    "source": "nominatim_city"
+  },
+  "city:SEASIDE PARK": {
+    "lat": 39.9267832,
+    "lng": -74.0763847,
+    "source": "nominatim_city"
+  },
+  "city:NEW EGYPT": {
+    "lat": 40.0654375,
+    "lng": -74.5226681,
+    "source": "nominatim_city"
+  },
+  "city:FAIR HAVEN": {
+    "lat": 40.3606653,
+    "lng": -74.0381947,
+    "source": "nominatim_city"
+  },
+  "city:REDBANK": {
+    "lat": 39.9246848,
+    "lng": -74.145404,
+    "source": "nominatim_city"
+  },
+  "city:VOORHEES": {
+    "lat": 39.8512162,
+    "lng": -74.9619779,
+    "source": "nominatim_city"
+  },
+  "city:SOUTH PLAINFIELD": {
+    "lat": 40.5792701,
+    "lng": -74.4115401,
+    "source": "nominatim_city"
+  },
+  "city:BRANCHBURG": {
+    "lat": 40.5688245,
+    "lng": -74.7002739,
+    "source": "nominatim_city"
+  },
+  "city:SEWELL": {
+    "lat": 39.770683,
+    "lng": -75.1438863,
+    "source": "nominatim_city"
+  },
+  "city:NEW CITY": {
+    "lat": 40.7268882,
+    "lng": -74.0357064,
+    "source": "nominatim_city"
+  },
+  "city:JENKINTOWN": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:KINNELON": {
+    "lat": 41.0017644,
+    "lng": -74.367096,
+    "source": "nominatim_city"
+  },
+  "city:WEST CREEK": {
+    "lat": 39.2401316,
+    "lng": -74.9035159,
+    "source": "nominatim_city"
+  },
+  "city:WASHINGTON": {
+    "lat": 40.7584793,
+    "lng": -74.9794987,
+    "source": "nominatim_city"
+  },
+  "city:DAYTON": {
+    "lat": 40.3823045,
+    "lng": -74.5170514,
+    "source": "nominatim_city"
+  },
+  "city:LITTLE SILVER": {
+    "lat": 40.3367769,
+    "lng": -74.0470837,
+    "source": "nominatim_city"
+  },
+  "city:RUMSON": {
+    "lat": 40.372054,
+    "lng": -73.9990269,
+    "source": "nominatim_city"
+  },
+  "city:WASHINGTON CROSSING": {
+    "lat": 40.2966805,
+    "lng": -74.861958,
+    "source": "nominatim_city"
+  },
+  "city:MANCHESTER TOWNSHIP": {
+    "lat": 39.9734957,
+    "lng": -74.3816966,
+    "source": "nominatim_city"
+  },
+  "city:HADDON TWP": {
+    "lat": 39.8976132,
+    "lng": -75.0960074,
+    "source": "nominatim_city"
+  },
+  "city:TEANECK": {
+    "lat": 40.8860164,
+    "lng": -74.0072568,
+    "source": "nominatim_city"
+  },
+  "city:BOUND BROOK": {
+    "lat": 40.5684363,
+    "lng": -74.5384889,
+    "source": "nominatim_city"
+  },
+  "city:DALLAS": {
+    "lat": 39.9046957,
+    "lng": -75.1111373,
+    "source": "nominatim_city"
+  },
+  "city:UPPER MONTCLAIR": {
+    "lat": 40.8447225,
+    "lng": -74.1999165,
+    "source": "nominatim_city"
+  },
+  "city:CONSHOHOCKEN": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:EGG HARBOR TWP": {
+    "lat": 39.3820672,
+    "lng": -74.6171489,
+    "source": "nominatim_city"
+  },
+  "city:KING OF PRUSSIA": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:BERLING": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:CHICAGO": {
+    "lat": 40.5646781,
+    "lng": -74.4853441,
+    "source": "nominatim_city"
+  },
+  "city:POMONA": {
+    "lat": 39.464038,
+    "lng": -74.5451755,
+    "source": "nominatim_city"
+  },
+  "city:WEST LONG BRANCH": {
+    "lat": 40.2904235,
+    "lng": -74.0172558,
+    "source": "nominatim_city"
+  },
+  "city:BERKELEY HEIGHTS": {
+    "lat": 40.6834349,
+    "lng": -74.442653,
+    "source": "nominatim_city"
+  },
+  "city:TENAFLY": {
+    "lat": 40.9253766,
+    "lng": -73.9629154,
+    "source": "nominatim_city"
+  },
+  "city:MADISON": {
+    "lat": 40.7598227,
+    "lng": -74.417097,
+    "source": "nominatim_city"
+  },
+  "city:DELRAN": {
+    "lat": 40.0154905,
+    "lng": -74.9550416,
+    "source": "nominatim_city"
+  },
+  "city:NEW MILFORD": {
+    "lat": 40.9350986,
+    "lng": -74.0190281,
+    "source": "nominatim_city"
+  },
+  "city:SHREWSBURY": {
+    "lat": 40.3295547,
+    "lng": -74.0615285,
+    "source": "nominatim_city"
+  },
+  "city:VINELAND": {
+    "lat": 39.4862777,
+    "lng": -75.0254256,
+    "source": "nominatim_city"
+  },
+  "city:ALLENHURST": {
+    "lat": 40.2362237,
+    "lng": -74.0006926,
+    "source": "nominatim_city"
+  },
+  "city:CHESAPEAKE": {
+    "lat": 39.3667654,
+    "lng": -74.4222489,
+    "source": "nominatim_city"
+  },
+  "city:MILLSTONE": {
+    "lat": 40.4992707,
+    "lng": -74.5887679,
+    "source": "nominatim_city"
+  },
+  "city:PENNSAUKEN": {
+    "lat": 39.9562238,
+    "lng": -75.0579502,
+    "source": "nominatim_city"
+  },
+  "city:RAHWAY": {
+    "lat": 40.6081591,
+    "lng": -74.2776468,
+    "source": "nominatim_city"
+  },
+  "city:MANASQUAN": {
+    "lat": 40.126226,
+    "lng": -74.049304,
+    "source": "nominatim_city"
+  },
+  "city:LEONIA": {
+    "lat": 40.8617353,
+    "lng": -73.9880495,
+    "source": "nominatim_city"
+  },
+  "city:ENGLEWOOD CLIFF": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:NORTHFIELD": {
+    "lat": 39.3703942,
+    "lng": -74.5501546,
+    "source": "nominatim_city"
+  },
+  "city:HORSHAM": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:NEW VERNON": {
+    "lat": 40.7369265,
+    "lng": -74.4823693,
+    "source": "nominatim_city"
+  },
+  "city:ROBBINSVILLE": {
+    "lat": 40.2162828,
+    "lng": -74.619833,
+    "source": "nominatim_city"
+  },
+  "city:READ PARK": {
+    "lat": 40.2165349,
+    "lng": -74.0094821,
+    "source": "nominatim_city"
+  },
+  "city:MT ARLINGTON": {
+    "lat": 40.9259319,
+    "lng": -74.6348829,
+    "source": "nominatim_city"
+  },
+  "city:STEWARTSVILLE": {
+    "lat": 40.68768,
+    "lng": -75.1002284,
+    "source": "nominatim_city"
+  },
+  "city:NEW JERSEY": {
+    "lat": 40.5961103,
+    "lng": -74.2374679,
+    "source": "nominatim_city"
+  },
+  "city:WALLINGTON": {
+    "lat": 40.8531553,
+    "lng": -74.1137537,
+    "source": "nominatim_city"
+  },
+  "city:SOUTH AMBOY": {
+    "lat": 40.4821114,
+    "lng": -74.2828828,
+    "source": "nominatim_city"
+  },
+  "city:BAYSIDE": {
+    "lat": 39.2356343,
+    "lng": -74.9577495,
+    "source": "nominatim_city"
+  },
+  "city:STOCKTON": {
+    "lat": 40.407883,
+    "lng": -74.9782238,
+    "source": "nominatim_city"
+  },
+  "city:OCEANSIDE": {
+    "lat": 39.5339046,
+    "lng": -74.2617037,
+    "source": "nominatim_city"
+  },
+  "city:OCEAN TOWNSHIP": {
+    "lat": 40.2520408,
+    "lng": -74.0461049,
+    "source": "nominatim_city"
+  },
+  "city:GREENWOOD": {
+    "lat": 41.1859315,
+    "lng": -74.322285,
+    "source": "nominatim_city"
+  },
+  "city:WEST BABYLON": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:GREEN BROOK": {
+    "lat": 40.6309682,
+    "lng": -74.4166009,
+    "source": "nominatim_city"
+  },
+  "city:DEER PARK": {
+    "lat": 39.9062244,
+    "lng": -74.9760013,
+    "source": "nominatim_city"
+  },
+  "city:MIDLAND PARK": {
+    "lat": 40.9893112,
+    "lng": -74.1401008,
+    "source": "nominatim_city"
+  },
+  "city:LUMBERTON": {
+    "lat": 39.9659459,
+    "lng": -74.8051628,
+    "source": "nominatim_city"
+  },
+  "city:EATNTOWN": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:PARLIN": {
+    "lat": 40.4628177,
+    "lng": -74.3105018,
+    "source": "nominatim_city"
+  },
+  "city:KEYPORT BOROUGH": {
+    "lat": 40.4365811,
+    "lng": -74.2040572,
+    "source": "nominatim_city"
+  },
+  "city:GREENVALE": {
+    "lat": 39.91879,
+    "lng": -74.9853365,
+    "source": "nominatim_city"
+  },
+  "city:SEA CLIFF": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:EAST MEADOW": {
+    "lat": 40.5756125,
+    "lng": -74.5350423,
+    "source": "nominatim_city"
+  },
+  "city:LAURENCE HARBOR": {
+    "lat": 40.447668,
+    "lng": -74.2471453,
+    "source": "nominatim_city"
+  },
+  "city:COLONIA": {
+    "lat": 40.5917149,
+    "lng": -74.3142458,
+    "source": "nominatim_city"
+  },
+  "city:FORDS": {
+    "lat": 40.5411231,
+    "lng": -74.3165244,
+    "source": "nominatim_city"
+  },
+  "city:MANSFIELD": {
+    "lat": 40.0912221,
+    "lng": -74.7137709,
+    "source": "nominatim_city"
+  },
+  "city:WORCESTER": {
+    "lat": 40.977882,
+    "lng": -74.2353729,
+    "source": "nominatim_city"
+  },
+  "city:HALEDON-NORTH H": {
+    "lat": 40.9550981,
+    "lng": -74.1859782,
+    "source": "nominatim_city"
+  },
+  "city:CLOSTER": {
+    "lat": 40.9731536,
+    "lng": -73.9615262,
+    "source": "nominatim_city"
+  },
+  "city:HASBROUCK HEIGHTS": {
+    "lat": 40.8579293,
+    "lng": -74.0816693,
+    "source": "nominatim_city"
+  },
+  "city:INDIANA": {
+    "lat": 39.3686096,
+    "lng": -74.438793,
+    "source": "nominatim_city"
+  },
+  "city:WINTHROP": {
+    "lat": 40.9935244,
+    "lng": -74.1124103,
+    "source": "nominatim_city"
+  },
+  "city:PLATTSBURGH": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:WEST DEPTFORD": {
+    "lat": 39.832362,
+    "lng": -75.1888708,
+    "source": "nominatim_city"
+  },
+  "city:ROCKVILLE": {
+    "lat": 39.8681634,
+    "lng": -75.085645,
+    "source": "nominatim_city"
+  },
+  "city:BASKING RIDGE": {
+    "lat": 40.7064088,
+    "lng": -74.5492725,
+    "source": "nominatim_city"
+  },
+  "city:MCLEAN": {
+    "lat": 40.931998,
+    "lng": -74.1409117,
+    "source": "nominatim_city"
+  },
+  "city:MOUNTAIN LAKES": {
+    "lat": 40.8948212,
+    "lng": -74.4329314,
+    "source": "nominatim_city"
+  },
+  "city:LAS VEGAS": {
+    "lat": 39.9839543,
+    "lng": -74.0644522,
+    "source": "nominatim_city"
+  },
+  "city:WALTHAM": {
+    "lat": 40.5529337,
+    "lng": -74.3505483,
+    "source": "nominatim_city"
+  },
+  "city:JERICHO": {
+    "lat": 39.4701138,
+    "lng": -75.3515822,
+    "source": "nominatim_city"
+  },
+  "city:ORLANDO": {
+    "lat": 40.5226834,
+    "lng": -74.3951914,
+    "source": "nominatim_city"
+  },
+  "city:BALTIMORE": {
+    "lat": 40.1334132,
+    "lng": -74.0374383,
+    "source": "nominatim_city"
+  },
+  "city:BRENTWOOD": {
+    "lat": 40.9393029,
+    "lng": -74.2711028,
+    "source": "nominatim_city"
+  },
+  "city:BELVIDERE": {
+    "lat": 40.8299357,
+    "lng": -75.0782702,
+    "source": "nominatim_city"
+  },
+  "city:NAPERVILLE": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:LYNDHURST": {
+    "lat": 40.8122927,
+    "lng": -74.1247255,
+    "source": "nominatim_city"
+  },
+  "city:COVINGTON": {
+    "lat": 40.0822099,
+    "lng": -74.7229052,
+    "source": "nominatim_city"
+  },
+  "city:SAINT SIMONS ISLAND": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:VANCOUVER": {
+    "lat": 40.334003,
+    "lng": -74.291699,
+    "source": "nominatim_city"
+  },
+  "city:MONROE": {
+    "lat": 40.8128777,
+    "lng": -74.4423759,
+    "source": "nominatim_city"
+  },
+  "city:SCOTTSDALE": {
+    "lat": 40.1490088,
+    "lng": -74.391008,
+    "source": "nominatim_city"
+  },
+  "city:MCMURRAY": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:MANTUA": {
+    "lat": 39.7940026,
+    "lng": -75.1721232,
+    "source": "nominatim_city"
+  },
+  "city:STRONGSVILLE": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:BONITA SPRINGS": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:WOODMERE": {
+    "lat": 40.0881704,
+    "lng": -74.3207024,
+    "source": "nominatim_city"
+  },
+  "city:LAFAYETTE": {
+    "lat": 41.0984301,
+    "lng": -74.6884965,
+    "source": "nominatim_city"
+  },
+  "city:LINCOLN": {
+    "lat": 39.6695584,
+    "lng": -75.2407407,
+    "source": "nominatim_city"
+  },
+  "city:SOUTHORANGE": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:DENVILLE": {
+    "lat": 40.8922694,
+    "lng": -74.4774255,
+    "source": "nominatim_city"
+  },
+  "city:LAWNSIDE": {
+    "lat": 39.8665025,
+    "lng": -75.0282253,
+    "source": "nominatim_city"
+  },
+  "city:OAKHURST": {
+    "lat": 40.2613085,
+    "lng": -74.0266552,
+    "source": "nominatim_city"
+  },
+  "city:CROSSWICKS": {
+    "lat": 40.1449735,
+    "lng": -74.6410928,
+    "source": "nominatim_city"
+  },
+  "city:ENNGLEWOOD CLIFFS": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:PALMETTO": {
+    "lat": 40.4822595,
+    "lng": -74.4489922,
+    "source": "nominatim_city"
+  },
+  "city:WEST TRENTON": {
+    "lat": 40.2573097,
+    "lng": -74.8152371,
+    "source": "nominatim_city"
+  },
+  "city:PILESGROVE": {
+    "lat": 39.651565,
+    "lng": -75.2853859,
+    "source": "nominatim_city"
+  },
+  "city:HOPEWELL JUNCTION": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:CEDAR KNOLLS": {
+    "lat": 40.8214375,
+    "lng": -74.4535345,
+    "source": "nominatim_city"
+  },
+  "city:KINGSTON": {
+    "lat": 40.373057,
+    "lng": -74.6055114,
+    "source": "nominatim_city"
+  },
+  "city:SOUTH TOMS RIVER": {
+    "lat": 39.9420625,
+    "lng": -74.2043082,
+    "source": "nominatim_city"
+  },
+  "city:ATLANTIC": {
+    "lat": 39.5143268,
+    "lng": -74.6632883,
+    "source": "nominatim_city"
+  },
+  "city:CHARLESTON": {
+    "lat": 40.0390003,
+    "lng": -74.8912772,
+    "source": "nominatim_city"
+  },
+  "city:BERLIN": {
+    "lat": 39.7912262,
+    "lng": -74.9290536,
+    "source": "nominatim_city"
+  },
+  "city:VIRGINIA BEACH": {
+    "lat": 39.5519854,
+    "lng": -74.2551405,
+    "source": "nominatim_city"
+  },
+  "city:BEACH HAVEN PARK": {
+    "lat": 39.5995414,
+    "lng": -74.2118131,
+    "source": "nominatim_city"
+  },
+  "city:LEDGEWOOD": {
+    "lat": 40.8738615,
+    "lng": -74.6713156,
+    "source": "nominatim_city"
+  },
+  "city:LANOKA HARBOR": {
+    "lat": 39.8667856,
+    "lng": -74.167917,
+    "source": "nominatim_city"
+  },
+  "city:PT. PLEASANT BEACH": {
+    "lat": 40.0919203,
+    "lng": -74.0482024,
+    "source": "nominatim_city"
+  },
+  "city:SEA BRIGHT": {
+    "lat": 40.3615488,
+    "lng": -73.9742051,
+    "source": "nominatim_city"
+  },
+  "city:BARNEGAT LIGHT": {
+    "lat": 39.7537149,
+    "lng": -74.1088188,
+    "source": "nominatim_city"
+  },
+  "city:BEACHWOOD": {
+    "lat": 39.939007,
+    "lng": -74.1929188,
+    "source": "nominatim_city"
+  },
+  "city:EGG HARBOR CITY": {
+    "lat": 39.5287282,
+    "lng": -74.6479364,
+    "source": "nominatim_city"
+  },
+  "city:BRANT BEACH": {
+    "lat": 39.6239771,
+    "lng": -74.1951584,
+    "source": "nominatim_city"
+  },
+  "city:MALVER": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:RUNNEMEDE": {
+    "lat": 39.8523358,
+    "lng": -75.0679498,
+    "source": "nominatim_city"
+  },
+  "city:OCEAN GATE": {
+    "lat": 39.9267851,
+    "lng": -74.1337496,
+    "source": "nominatim_city"
+  },
+  "city:LANDING": {
+    "lat": 40.9088675,
+    "lng": -74.6571746,
+    "source": "nominatim_city"
+  },
+  "city:GREENWICH": {
+    "lat": 40.684731,
+    "lng": -75.1347239,
+    "source": "nominatim_city"
+  },
+  "city:MANOLOKING": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:HIGHLANDS": {
+    "lat": 40.40372,
+    "lng": -73.991527,
+    "source": "nominatim_city"
+  },
+  "city:POMPANO BEACH": {
+    "lat": 39.7266171,
+    "lng": -74.1267092,
+    "source": "nominatim_city"
+  },
+  "city:NORTH PALM BEACH": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:CHARLOTTESVILLE": {
+    "lat": null,
+    "lng": null,
+    "source": "failed"
+  },
+  "city:GLADSTONE": {
+    "lat": 40.7202907,
+    "lng": -74.6662746,
+    "source": "nominatim_city"
+  },
+  "city:OCEAN VIEW": {
+    "lat": 39.1914735,
+    "lng": -74.732029,
+    "source": "nominatim_city"
+  },
+  "city:CONGERS": {
+    "lat": 40.6114638,
+    "lng": -74.3405716,
+    "source": "nominatim_city"
+  },
+  "city:NY": {
+    "lat": 40.6408341,
+    "lng": -74.142581,
+    "source": "nominatim_city"
+  },
+  "city:MONTVILLE": {
+    "lat": 40.9148209,
+    "lng": -74.383763,
+    "source": "nominatim_city"
+  },
+  "city:WARRINGTON": {
+    "lat": 40.9314855,
+    "lng": -75.0840649,
+    "source": "nominatim_city"
+  },
+  "city:BERKELEY TOWNSHIP": {
+    "lat": 39.8979458,
+    "lng": -74.1807001,
+    "source": "nominatim_city"
+  },
+  "city:RINGOES": {
+    "lat": 40.4289354,
+    "lng": -74.8675019,
+    "source": "nominatim_city"
+  },
+  "city:MELVILLE": {
+    "lat": 40.5057967,
+    "lng": -74.3856713,
+    "source": "nominatim_city"
+  },
+  "city:WESTWOOD": {
+    "lat": 40.9912087,
+    "lng": -74.0326395,
+    "source": "nominatim_city"
   }
 }
