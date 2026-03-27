@@ -1,0 +1,3222 @@
+[
+  {
+    "owner": "",
+    "address": "4 KEMBLE AVE W",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO/DG",
+    "yearBuilt": 1930,
+    "lat": 39.414428,
+    "lng": -75.031487
+  },
+  {
+    "owner": "",
+    "address": "1700 WHEATON AVE",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1S STUCCO",
+    "yearBuilt": 1960,
+    "lat": 39.414156,
+    "lng": -75.031888
+  },
+  {
+    "owner": "",
+    "address": "1802 WHEATON AVE",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO",
+    "yearBuilt": 1953,
+    "lat": 39.414426,
+    "lng": -75.030611
+  },
+  {
+    "owner": "",
+    "address": "706 E ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1S-STUCCO",
+    "yearBuilt": 1942,
+    "lat": 39.404899,
+    "lng": -75.029526
+  },
+  {
+    "owner": "",
+    "address": "3 KEMBLE AVE W",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO/AG/ACP",
+    "yearBuilt": 1957,
+    "lat": 39.414163,
+    "lng": -75.031709
+  },
+  {
+    "owner": "",
+    "address": "10 HOGBIN RD",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2SSTUCCO/AG/BIG",
+    "yearBuilt": 1979,
+    "lat": 39.404548,
+    "lng": -75.098465
+  },
+  {
+    "owner": "",
+    "address": "1124 HIGH ST N",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2SF&STUCCO",
+    "yearBuilt": 1912,
+    "lat": 39.409289,
+    "lng": -75.040093
+  },
+  {
+    "owner": "",
+    "address": "1804 WHEATON AVE",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO/DG",
+    "yearBuilt": 1952,
+    "lat": 39.414538,
+    "lng": -75.030548
+  },
+  {
+    "owner": "",
+    "address": "2 KEMBLE AVE W",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO/DG",
+    "yearBuilt": 1954,
+    "lat": 39.414502,
+    "lng": -75.030994
+  },
+  {
+    "owner": "",
+    "address": "706 BUCK ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2S STUCCO",
+    "yearBuilt": 1917,
+    "lat": 39.403902,
+    "lng": -75.040787
+  },
+  {
+    "owner": "",
+    "address": "816 HIGH ST N",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2SF/STUCCO",
+    "yearBuilt": 1900,
+    "lat": 39.405083,
+    "lng": -75.039479
+  },
+  {
+    "owner": "",
+    "address": "704 BUCK ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2S STUCCO DG",
+    "yearBuilt": 1917,
+    "lat": 39.403839,
+    "lng": -75.040755
+  },
+  {
+    "owner": "",
+    "address": "702 E ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1S-STUCCO",
+    "yearBuilt": 1942,
+    "lat": 39.40488,
+    "lng": -75.029821
+  },
+  {
+    "owner": "",
+    "address": "231-233 N HIGH ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "3SSTUCCO",
+    "yearBuilt": 1924,
+    "lat": 39.398263,
+    "lng": -75.038151
+  },
+  {
+    "owner": "",
+    "address": "319 MAIN ST E",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2SF&STUCCO",
+    "yearBuilt": 1922,
+    "lat": 39.395191,
+    "lng": -75.034649
+  },
+  {
+    "owner": "",
+    "address": "303 MAIN ST E",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2.5S STUCCO",
+    "yearBuilt": 1907,
+    "lat": 39.395146,
+    "lng": -75.035324
+  },
+  {
+    "owner": "",
+    "address": "417 GARRISON AVE",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2S STUCCO 2 UNT",
+    "yearBuilt": 1957,
+    "lat": 39.393525,
+    "lng": -75.033254
+  },
+  {
+    "owner": "",
+    "address": "112 OLD UNION RD",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO/ACRPT",
+    "yearBuilt": 1957,
+    "lat": 39.429963,
+    "lng": -75.043621
+  },
+  {
+    "owner": "",
+    "address": "1919 HIGH ST N",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO/ACRPT",
+    "yearBuilt": 1941,
+    "lat": 39.419245,
+    "lng": -75.039483
+  },
+  {
+    "owner": "",
+    "address": "401 7TH ST N",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO/2 UNIT",
+    "yearBuilt": 1947,
+    "lat": 39.399771,
+    "lng": -75.029833
+  },
+  {
+    "owner": "",
+    "address": "28 CALORIS AVE",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2SSTUCCO-OP-DK",
+    "yearBuilt": 1917,
+    "lat": 39.41643,
+    "lng": -75.032313
+  },
+  {
+    "owner": "",
+    "address": "907-909 N 6TH ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2SSTUCCO",
+    "yearBuilt": 1964,
+    "lat": 39.406334,
+    "lng": -75.0312
+  },
+  {
+    "owner": "",
+    "address": "904 PINE ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO/DG",
+    "yearBuilt": 1942,
+    "lat": 39.397662,
+    "lng": -75.026561
+  },
+  {
+    "owner": "",
+    "address": "608-616 N HIGH ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2S STUCCO",
+    "yearBuilt": 1990,
+    "lat": 39.402438,
+    "lng": -75.039147
+  },
+  {
+    "owner": "",
+    "address": "214 5TH ST N",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2S STUCCO 2 APT",
+    "yearBuilt": 1917,
+    "lat": 39.397901,
+    "lng": -75.033082
+  },
+  {
+    "owner": "",
+    "address": "601 7TH ST N",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO/ACRPT",
+    "yearBuilt": 1973,
+    "lat": 39.40269,
+    "lng": -75.029893
+  },
+  {
+    "owner": "",
+    "address": "109 E BROAD ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1S STUCCO",
+    "yearBuilt": 1964,
+    "lat": 39.401471,
+    "lng": -75.038233
+  },
+  {
+    "owner": "",
+    "address": "607 7TH ST N",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2SSTUCCO/SHEDS",
+    "yearBuilt": 1973,
+    "lat": 39.403139,
+    "lng": -75.029703
+  },
+  {
+    "owner": "",
+    "address": "1201 MAIN ST E",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1.5S STUCCO/DG",
+    "yearBuilt": 1929,
+    "lat": 39.39473,
+    "lng": -75.023384
+  },
+  {
+    "owner": "",
+    "address": "2023 MILLER AVE",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2S-STUCCO/2 UNI",
+    "yearBuilt": 1970,
+    "lat": 39.41466,
+    "lng": -75.023532
+  },
+  {
+    "owner": "",
+    "address": "1902 HANCE BRIDGE RD",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1S STUCCO/SHED",
+    "yearBuilt": 1960,
+    "lat": 39.411137,
+    "lng": -75.014474
+  },
+  {
+    "owner": "",
+    "address": "8 OSPREY DR",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2SF&STUCCO",
+    "yearBuilt": 1966,
+    "lat": 39.415315,
+    "lng": -75.0548
+  },
+  {
+    "owner": "",
+    "address": "305 8TH ST N",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1.5SSTUCCO/ACPT",
+    "yearBuilt": 1950,
+    "lat": 39.39911,
+    "lng": -75.028315
+  },
+  {
+    "owner": "",
+    "address": "312 MAIN ST E",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1S STUCCO/AG",
+    "yearBuilt": 1955,
+    "lat": 39.395752,
+    "lng": -75.03484
+  },
+  {
+    "owner": "",
+    "address": "115 MAIN ST W",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2S STUCCO",
+    "yearBuilt": 1887,
+    "lat": 39.395147,
+    "lng": -75.043584
+  },
+  {
+    "owner": "",
+    "address": "101 11TH ST S",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO/SHEDS",
+    "yearBuilt": 1946,
+    "lat": 39.393758,
+    "lng": -75.02413
+  },
+  {
+    "owner": "",
+    "address": "314 F ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO/SHED",
+    "yearBuilt": 1954,
+    "lat": 39.405654,
+    "lng": -75.035627
+  },
+  {
+    "owner": "",
+    "address": "446 CREST AVE",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1S STUCCO",
+    "yearBuilt": 1950,
+    "lat": 39.403682,
+    "lng": -75.007496
+  },
+  {
+    "owner": "",
+    "address": "1014 ARCHER ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2S STUCCO DG",
+    "yearBuilt": 1930,
+    "lat": 39.40553,
+    "lng": -75.044914
+  },
+  {
+    "owner": "",
+    "address": "916 SASSAFRAS ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1.5S-STUCCO",
+    "yearBuilt": 1947,
+    "lat": 39.39651,
+    "lng": -75.026173
+  },
+  {
+    "owner": "",
+    "address": "1220 MAIN ST W",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2SSTUCCO",
+    "yearBuilt": 1927,
+    "lat": 39.399685,
+    "lng": -75.065894
+  },
+  {
+    "owner": "",
+    "address": "211 8TH ST N",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1.5S STUCCO",
+    "yearBuilt": 1947,
+    "lat": 39.398253,
+    "lng": -75.028351
+  },
+  {
+    "owner": "",
+    "address": "705 MULBERRY ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2S STUCCO/DG",
+    "yearBuilt": 1887,
+    "lat": 39.398167,
+    "lng": -75.029512
+  },
+  {
+    "owner": "",
+    "address": "120-124 N HIGH ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "3SBLOCK/STUCCO",
+    "yearBuilt": 1924,
+    "lat": 39.396815,
+    "lng": -75.038971
+  },
+  {
+    "owner": "",
+    "address": "206 11TH ST N",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO/POOL",
+    "yearBuilt": 1950,
+    "lat": 39.397909,
+    "lng": -75.024994
+  },
+  {
+    "owner": "",
+    "address": "425 CEDAR LN",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SF&STUCCO/ACPT",
+    "yearBuilt": 1974,
+    "lat": 39.387437,
+    "lng": -75.065252
+  },
+  {
+    "owner": "",
+    "address": "601 ORANGE ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1S STUCCO",
+    "yearBuilt": 1969,
+    "lat": 39.37223,
+    "lng": -75.014012
+  },
+  {
+    "owner": "",
+    "address": "905 W MAIN ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1S-STUCCO/BRICK",
+    "yearBuilt": 1984,
+    "lat": 39.397798,
+    "lng": -75.059624
+  },
+  {
+    "owner": "",
+    "address": "504 COLUMBIA AVE",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2SSTUCCO/DG/SHD",
+    "yearBuilt": 1893,
+    "lat": 39.399443,
+    "lng": -75.041937
+  },
+  {
+    "owner": "",
+    "address": "5 MADISON AVE",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO",
+    "yearBuilt": 1935,
+    "lat": 39.392097,
+    "lng": -75.045348
+  },
+  {
+    "owner": "",
+    "address": "158 MAIN DR",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO/AG",
+    "yearBuilt": 1960,
+    "lat": 39.344739,
+    "lng": -75.031872
+  },
+  {
+    "owner": "",
+    "address": "616 MULBERRY ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2SF & 1SSTUCCO",
+    "yearBuilt": 1900,
+    "lat": 39.398672,
+    "lng": -75.030553
+  },
+  {
+    "owner": "",
+    "address": "1012 ARCHER ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2S STUCCO",
+    "yearBuilt": 1930,
+    "lat": 39.405497,
+    "lng": -75.044874
+  },
+  {
+    "owner": "",
+    "address": "1010 ARCHER ST",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2S STUCCO",
+    "yearBuilt": 1930,
+    "lat": 39.405465,
+    "lng": -75.044834
+  },
+  {
+    "owner": "",
+    "address": "6 7TH ST N",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "2.5S STUCCO",
+    "yearBuilt": 1922,
+    "lat": 39.395577,
+    "lng": -75.030321
+  },
+  {
+    "owner": "",
+    "address": "805 BUCKSHUTEM RD E",
+    "city": "MILLVILLE CITY",
+    "county": "CUMBERLAND",
+    "bldgDesc": "1SSTUCCO/DG",
+    "yearBuilt": 1948,
+    "lat": 39.335901,
+    "lng": -75.024191
+  },
+  {
+    "owner": "",
+    "address": "481 EAGLE ROCK AVENUE",
+    "city": "WEST ORANGE TWP",
+    "county": "ESSEX",
+    "bldgDesc": "1SSTUCCO",
+    "yearBuilt": 0,
+    "lat": 40.805139,
+    "lng": -74.251073
+  },
+  {
+    "owner": "",
+    "address": "5 TOWER DRIVE",
+    "city": "MAPLEWOOD TWP",
+    "county": "ESSEX",
+    "bldgDesc": "2S-STUCCO-2G",
+    "yearBuilt": 1930,
+    "lat": 40.742456,
+    "lng": -74.280556
+  },
+  {
+    "owner": "",
+    "address": "176-178 WYOMING AVENUE",
+    "city": "MAPLEWOOD TWP",
+    "county": "ESSEX",
+    "bldgDesc": "2S/STUCCO-2G",
+    "yearBuilt": 1931,
+    "lat": 40.740899,
+    "lng": -74.279818
+  },
+  {
+    "owner": "",
+    "address": "14 PLYMOUTH PLACE",
+    "city": "MAPLEWOOD TWP",
+    "county": "ESSEX",
+    "bldgDesc": "2S/STUCCO-2G",
+    "yearBuilt": 1926,
+    "lat": 40.726861,
+    "lng": -74.25853
+  },
+  {
+    "owner": "",
+    "address": "5 WINTHROP PLACE",
+    "city": "MAPLEWOOD TWP",
+    "county": "ESSEX",
+    "bldgDesc": "2S/STUCCO-2G",
+    "yearBuilt": 1910,
+    "lat": 40.7295,
+    "lng": -74.281379
+  },
+  {
+    "owner": "",
+    "address": "14 WINTHROP PLACE",
+    "city": "MAPLEWOOD TWP",
+    "county": "ESSEX",
+    "bldgDesc": "2S/STUCCO",
+    "yearBuilt": 1900,
+    "lat": 40.72928,
+    "lng": -74.282448
+  },
+  {
+    "owner": "",
+    "address": "12 WINTHROP PLACE",
+    "city": "MAPLEWOOD TWP",
+    "county": "ESSEX",
+    "bldgDesc": "2S/STUCCO-2G",
+    "yearBuilt": 1908,
+    "lat": 40.729185,
+    "lng": -74.282241
+  },
+  {
+    "owner": "",
+    "address": "54 SOUTH MOUNTAIN AVENUE",
+    "city": "MAPLEWOOD TWP",
+    "county": "ESSEX",
+    "bldgDesc": "2S/STUCCO",
+    "yearBuilt": 1913,
+    "lat": 40.726925,
+    "lng": -74.280632
+  },
+  {
+    "owner": "",
+    "address": "22-24 CUSTER AVE",
+    "city": "NEWARK CITY",
+    "county": "ESSEX",
+    "bldgDesc": "2 S STUCCO 1U.G",
+    "yearBuilt": 1927,
+    "lat": 40.709544,
+    "lng": -74.200793
+  },
+  {
+    "owner": "",
+    "address": "243 LAIDLAW AVE.",
+    "city": "JERSEY CITY CITY",
+    "county": "HUDSON",
+    "bldgDesc": "2S-STUCCO-1U-H",
+    "yearBuilt": 1900,
+    "lat": 40.73956,
+    "lng": -74.059944
+  },
+  {
+    "owner": "",
+    "address": "241 HARRISON AVE.",
+    "city": "JERSEY CITY CITY",
+    "county": "HUDSON",
+    "bldgDesc": "2S-STUCCO-D-1UH",
+    "yearBuilt": 1925,
+    "lat": 40.720512,
+    "lng": -74.078886
+  },
+  {
+    "owner": "",
+    "address": "190 LEXINGTON AVE.",
+    "city": "JERSEY CITY CITY",
+    "county": "HUDSON",
+    "bldgDesc": "1S-STUCCO-G",
+    "yearBuilt": null,
+    "lat": 40.720819,
+    "lng": -74.084704
+  },
+  {
+    "owner": "",
+    "address": "323 VIRGINIA AVE.",
+    "city": "JERSEY CITY CITY",
+    "county": "HUDSON",
+    "bldgDesc": "2S-STUCCO-1U-H",
+    "yearBuilt": 1920,
+    "lat": 40.71783,
+    "lng": -74.087889
+  },
+  {
+    "owner": "",
+    "address": "325 WEST SIDE AVE.",
+    "city": "JERSEY CITY CITY",
+    "county": "HUDSON",
+    "bldgDesc": "2S-STUCCO-C",
+    "yearBuilt": 2012,
+    "lat": 40.713648,
+    "lng": -74.090053
+  },
+  {
+    "owner": "",
+    "address": "227-237 BROADWAY",
+    "city": "PATERSON CITY",
+    "county": "PASSAIC",
+    "bldgDesc": "1 CB V STUCCO",
+    "yearBuilt": null,
+    "lat": 40.919071,
+    "lng": -74.165053
+  },
+  {
+    "owner": "",
+    "address": "43-57 BELMONT AVE",
+    "city": "PATERSON CITY",
+    "county": "PASSAIC",
+    "bldgDesc": "1  STUCCO",
+    "yearBuilt": null,
+    "lat": 40.925768,
+    "lng": -74.179802
+  },
+  {
+    "owner": "",
+    "address": "719 NEW YORK AVE",
+    "city": "RARITAN BORO",
+    "county": "SOMERSET",
+    "bldgDesc": "1 S STUCCO",
+    "yearBuilt": 1950,
+    "lat": 40.576991,
+    "lng": -74.640805
+  },
+  {
+    "owner": "",
+    "address": "371 ROUTE 22 EAST",
+    "city": "GREEN BROOK TWP",
+    "county": "SOMERSET",
+    "bldgDesc": "STUCCO-1S",
+    "yearBuilt": 1960,
+    "lat": 40.583036,
+    "lng": -74.511345
+  },
+  {
+    "owner": "",
+    "address": "1-11 WALNUT STREET",
+    "city": "SUMMIT CITY",
+    "county": "UNION",
+    "bldgDesc": "2S&B STUCCO",
+    "yearBuilt": 1944,
+    "lat": 40.714494,
+    "lng": -74.354598
+  },
+  {
+    "owner": "",
+    "address": "1951 E EDGAR RD",
+    "city": "LINDEN CITY",
+    "county": "UNION",
+    "bldgDesc": "1S/STUCCO",
+    "yearBuilt": 2023,
+    "lat": 40.645108,
+    "lng": -74.227458
+  },
+  {
+    "owner": "",
+    "address": "425 FAIRWAY RD",
+    "city": "LINDEN CITY",
+    "county": "UNION",
+    "bldgDesc": "1A-2S/B-STUCCO",
+    "yearBuilt": 2023,
+    "lat": 40.635703,
+    "lng": -74.274448
+  },
+  {
+    "owner": "",
+    "address": "51 A-C WALL STREET",
+    "city": "OXFORD TWP",
+    "county": "WARREN",
+    "bldgDesc": "STUCCO 3 APTS.",
+    "yearBuilt": 1900,
+    "lat": 40.804034,
+    "lng": -74.996522
+  },
+  {
+    "owner": "",
+    "address": "365 PROSSER AVE",
+    "city": "MONROE TWP",
+    "county": "GLOUCESTER",
+    "bldgDesc": "1SFR/STUCCO",
+    "yearBuilt": 1980,
+    "lat": 39.718485,
+    "lng": -75.012708
+  },
+  {
+    "owner": "",
+    "address": "352 PROSSER AVE",
+    "city": "MONROE TWP",
+    "county": "GLOUCESTER",
+    "bldgDesc": "1SFR/STUCCO",
+    "yearBuilt": 1963,
+    "lat": 39.716338,
+    "lng": -75.013252
+  },
+  {
+    "owner": "",
+    "address": "368 LAUREL AVE",
+    "city": "MONROE TWP",
+    "county": "GLOUCESTER",
+    "bldgDesc": "2SFR/STUCCO",
+    "yearBuilt": 1946,
+    "lat": 39.707898,
+    "lng": -75.004273
+  },
+  {
+    "owner": "",
+    "address": "340 CEDAR AVENUE",
+    "city": "BUENA VISTA TWP",
+    "county": "ATLANTIC",
+    "bldgDesc": "RANCH/STUCCO/AG",
+    "yearBuilt": 1970,
+    "lat": 39.487513,
+    "lng": -74.878285
+  },
+  {
+    "owner": "",
+    "address": "144 LAKE GEORGE DRIVE",
+    "city": "BUENA VISTA TWP",
+    "county": "ATLANTIC",
+    "bldgDesc": "2.5S/STUCCO/AG",
+    "yearBuilt": 1970,
+    "lat": 39.589725,
+    "lng": -74.871539
+  },
+  {
+    "owner": "",
+    "address": "3607 OAK ROAD",
+    "city": "BUENA VISTA TWP",
+    "county": "ATLANTIC",
+    "bldgDesc": "STUCCO CONTEMP",
+    "yearBuilt": 1988,
+    "lat": 39.496212,
+    "lng": -74.944949
+  },
+  {
+    "owner": "",
+    "address": "301 WILTSHIRE DRIVE",
+    "city": "BUENA VISTA TWP",
+    "county": "ATLANTIC",
+    "bldgDesc": "CAPE/STUCCO",
+    "yearBuilt": 1971,
+    "lat": 39.595768,
+    "lng": -74.877347
+  },
+  {
+    "owner": "",
+    "address": "320 WASHINGTON AVENUE",
+    "city": "BUENA VISTA TWP",
+    "county": "ATLANTIC",
+    "bldgDesc": "1 STORY STUCCO",
+    "yearBuilt": 0,
+    "lat": 39.497364,
+    "lng": -74.878399
+  },
+  {
+    "owner": "",
+    "address": "MERCER ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "STUCCO 1BRK&CB",
+    "yearBuilt": 0,
+    "lat": 40.262969,
+    "lng": -74.534435
+  },
+  {
+    "owner": "",
+    "address": "408 SUMMIT ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "1STUCCO",
+    "yearBuilt": 1930,
+    "lat": 40.26762,
+    "lng": -74.533048
+  },
+  {
+    "owner": "",
+    "address": "202 E WARD ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2G 1STUCCO",
+    "yearBuilt": 1957,
+    "lat": 40.264001,
+    "lng": -74.517785
+  },
+  {
+    "owner": "",
+    "address": "147 E WARD ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2STUCCO 2G",
+    "yearBuilt": 1900,
+    "lat": 40.26758,
+    "lng": -74.522272
+  },
+  {
+    "owner": "",
+    "address": "225 MAXWELL AVE",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2G 2STUCCO",
+    "yearBuilt": 1929,
+    "lat": 40.267025,
+    "lng": -74.517966
+  },
+  {
+    "owner": "",
+    "address": "116 CLINTON ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "STUCCO 1CB",
+    "yearBuilt": 1940,
+    "lat": 40.26866,
+    "lng": -74.520732
+  },
+  {
+    "owner": "",
+    "address": "322 FRANKLIN ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2G 1STUCCO",
+    "yearBuilt": 1930,
+    "lat": 40.268045,
+    "lng": -74.516932
+  },
+  {
+    "owner": "",
+    "address": "227 MONMOUTH ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2FR & STUCCO2G",
+    "yearBuilt": 1920,
+    "lat": 40.272434,
+    "lng": -74.517975
+  },
+  {
+    "owner": "",
+    "address": "225 MONMOUTH ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2G 2STUCCO",
+    "yearBuilt": 1920,
+    "lat": 40.272483,
+    "lng": -74.518158
+  },
+  {
+    "owner": "",
+    "address": "611 S MAIN ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2STUCCO",
+    "yearBuilt": 1929,
+    "lat": 40.258505,
+    "lng": -74.526193
+  },
+  {
+    "owner": "",
+    "address": "504 S MAIN ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "4G 2STUCCO",
+    "yearBuilt": 1910,
+    "lat": 40.261554,
+    "lng": -74.526737
+  },
+  {
+    "owner": "",
+    "address": "508 S MAIN ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "4G 2 STUCCO",
+    "yearBuilt": 1930,
+    "lat": 40.261272,
+    "lng": -74.526577
+  },
+  {
+    "owner": "",
+    "address": "416 S MAIN ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2G 2STUCCO",
+    "yearBuilt": 1915,
+    "lat": 40.263273,
+    "lng": -74.526064
+  },
+  {
+    "owner": "",
+    "address": "408 S MAIN ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "4G 2STUCCO",
+    "yearBuilt": 1940,
+    "lat": 40.263551,
+    "lng": -74.526051
+  },
+  {
+    "owner": "",
+    "address": "407 SUMMIT ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2G 1STUCCO",
+    "yearBuilt": 1925,
+    "lat": 40.267424,
+    "lng": -74.531783
+  },
+  {
+    "owner": "",
+    "address": "8 TAYLOR AVE",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2STUCCO",
+    "yearBuilt": 1920,
+    "lat": 40.26549,
+    "lng": -74.52684
+  },
+  {
+    "owner": "",
+    "address": "119 SOUTH ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2G 2STUCCO",
+    "yearBuilt": 1896,
+    "lat": 40.265718,
+    "lng": -74.525713
+  },
+  {
+    "owner": "",
+    "address": "226 MERCER ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2STUCCO",
+    "yearBuilt": 1845,
+    "lat": 40.267356,
+    "lng": -74.528016
+  },
+  {
+    "owner": "",
+    "address": "209 SUMMIT ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2STUCCO",
+    "yearBuilt": 1920,
+    "lat": 40.269523,
+    "lng": -74.531199
+  },
+  {
+    "owner": "",
+    "address": "321 STOCKTON ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2S 2G STUCCO",
+    "yearBuilt": 1912,
+    "lat": 40.270799,
+    "lng": -74.530756
+  },
+  {
+    "owner": "",
+    "address": "131 MORRISON AVE",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "CB 2STUCCO",
+    "yearBuilt": 1920,
+    "lat": 40.268129,
+    "lng": -74.529678
+  },
+  {
+    "owner": "",
+    "address": "332 LINCOLN AVE",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "STUCCO 1S 2G",
+    "yearBuilt": 1960,
+    "lat": 40.274248,
+    "lng": -74.530732
+  },
+  {
+    "owner": "",
+    "address": "139 LINCOLN AVE",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "1STUCCO ON CB",
+    "yearBuilt": 1950,
+    "lat": 40.273789,
+    "lng": -74.531006
+  },
+  {
+    "owner": "",
+    "address": "13 PENN LYLE RD",
+    "city": "WEST WINDSOR TWP",
+    "county": "MERCER",
+    "bldgDesc": "2ST STUCCO",
+    "yearBuilt": 1975,
+    "lat": 40.305106,
+    "lng": -74.622029
+  },
+  {
+    "owner": "",
+    "address": "415 S MAIN ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2STUCCO 2G",
+    "yearBuilt": 1875,
+    "lat": 40.263079,
+    "lng": -74.525421
+  },
+  {
+    "owner": "",
+    "address": "302 S MAIN ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "3G 2STUCCO",
+    "yearBuilt": 1885,
+    "lat": 40.265677,
+    "lng": -74.525293
+  },
+  {
+    "owner": "",
+    "address": "100-102-104 MERCER",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2STUCCO",
+    "yearBuilt": 0,
+    "lat": 40.268972,
+    "lng": -74.52388
+  },
+  {
+    "owner": "",
+    "address": "155 MAXWELL AVE",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2STUCCO 2G",
+    "yearBuilt": 1900,
+    "lat": 40.270142,
+    "lng": -74.517816
+  },
+  {
+    "owner": "",
+    "address": "157 MECHANIC ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2STUCCO",
+    "yearBuilt": 1900,
+    "lat": 40.273916,
+    "lng": -74.522837
+  },
+  {
+    "owner": "",
+    "address": "155 MECHANIC ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2S STUCCO",
+    "yearBuilt": 1900,
+    "lat": 40.273849,
+    "lng": -74.522916
+  },
+  {
+    "owner": "",
+    "address": "217 MONMOUTH ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2FR & STUCCO2G",
+    "yearBuilt": 1900,
+    "lat": 40.272461,
+    "lng": -74.518571
+  },
+  {
+    "owner": "",
+    "address": "221 MONMOUTH ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2FR & STUCCO",
+    "yearBuilt": 1912,
+    "lat": 40.272462,
+    "lng": -74.518414
+  },
+  {
+    "owner": "",
+    "address": "286 MONMOUTH ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "1STUCCO",
+    "yearBuilt": 1935,
+    "lat": 40.271228,
+    "lng": -74.514993
+  },
+  {
+    "owner": "",
+    "address": "262 MONMOUTH ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2STUCCO",
+    "yearBuilt": 1890,
+    "lat": 40.271616,
+    "lng": -74.516784
+  },
+  {
+    "owner": "",
+    "address": "TRUMBULL AVE",
+    "city": "LAWRENCE TWP",
+    "county": "MERCER",
+    "bldgDesc": "1S STUCCO",
+    "yearBuilt": 1942,
+    "lat": 40.248815,
+    "lng": -74.7371
+  },
+  {
+    "owner": "",
+    "address": "121 SOUTH ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2STUCCO",
+    "yearBuilt": 1910,
+    "lat": 40.265791,
+    "lng": -74.525878
+  },
+  {
+    "owner": "",
+    "address": "118 DEY ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "STUCCO 2FR",
+    "yearBuilt": 1900,
+    "lat": 40.267874,
+    "lng": -74.53071
+  },
+  {
+    "owner": "",
+    "address": "119-121 SECOND AVE",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2BRK & STUCCO",
+    "yearBuilt": 1885,
+    "lat": 40.269925,
+    "lng": -74.528985
+  },
+  {
+    "owner": "",
+    "address": "115 SOUTH ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "1G 2STUCCO",
+    "yearBuilt": 1910,
+    "lat": 40.265691,
+    "lng": -74.525554
+  },
+  {
+    "owner": "",
+    "address": "159 MECHANIC ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2STUCCO",
+    "yearBuilt": 1900,
+    "lat": 40.273977,
+    "lng": -74.522848
+  },
+  {
+    "owner": "",
+    "address": "161-163 MECHANIC ST",
+    "city": "HIGHTSTOWN BORO",
+    "county": "MERCER",
+    "bldgDesc": "2STUCCO 1G",
+    "yearBuilt": 1900,
+    "lat": 40.274086,
+    "lng": -74.522819
+  },
+  {
+    "owner": "",
+    "address": "404 FAIRVIEW AVE",
+    "city": "BERLIN TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "1STUCCO-FBSMTOP",
+    "yearBuilt": 2002,
+    "lat": 39.804722,
+    "lng": -74.91924
+  },
+  {
+    "owner": "",
+    "address": "207 HADDON AVE",
+    "city": "BERLIN TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "1FR-B-STUCCO-PA",
+    "yearBuilt": 1910,
+    "lat": 39.811985,
+    "lng": -74.944236
+  },
+  {
+    "owner": "",
+    "address": "2853 ARTHUR AVE",
+    "city": "CAMDEN CITY",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 2001,
+    "lat": 39.955143,
+    "lng": -75.089208
+  },
+  {
+    "owner": "",
+    "address": "2842 ARTHUR AVE",
+    "city": "CAMDEN CITY",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1995,
+    "lat": 39.954786,
+    "lng": -75.088941
+  },
+  {
+    "owner": "",
+    "address": "2826 ARTHUR AVE",
+    "city": "CAMDEN CITY",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1995,
+    "lat": 39.954457,
+    "lng": -75.089469
+  },
+  {
+    "owner": "",
+    "address": "2829 ARTHUR AVE",
+    "city": "CAMDEN CITY",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 2001,
+    "lat": 39.954928,
+    "lng": -75.089606
+  },
+  {
+    "owner": "",
+    "address": "2845 ARTHUR AVE",
+    "city": "CAMDEN CITY",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 2001,
+    "lat": 39.955002,
+    "lng": -75.089376
+  },
+  {
+    "owner": "",
+    "address": "2841 ARTHUR AVE",
+    "city": "CAMDEN CITY",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 2001,
+    "lat": 39.955101,
+    "lng": -75.089346
+  },
+  {
+    "owner": "",
+    "address": "2832 ARTHUR AVE",
+    "city": "CAMDEN CITY",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1995,
+    "lat": 39.954567,
+    "lng": -75.089231
+  },
+  {
+    "owner": "",
+    "address": "2838 ARTHUR AVE",
+    "city": "CAMDEN CITY",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1995,
+    "lat": 39.954616,
+    "lng": -75.089125
+  },
+  {
+    "owner": "",
+    "address": "1621 CEDAR AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "MASONRY STUCCO",
+    "yearBuilt": 1955,
+    "lat": 39.829206,
+    "lng": -75.066038
+  },
+  {
+    "owner": "",
+    "address": "12 W BATTEN AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "FW STUCCO",
+    "yearBuilt": 1970,
+    "lat": 39.822012,
+    "lng": -75.068419
+  },
+  {
+    "owner": "",
+    "address": "1236 OLD BLACK HORSE PIKE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1938,
+    "lat": 39.820839,
+    "lng": -75.067194
+  },
+  {
+    "owner": "",
+    "address": "1550 NEW BROOKLYN ROAD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO/FRAME",
+    "yearBuilt": 0,
+    "lat": 39.765581,
+    "lng": -74.99813
+  },
+  {
+    "owner": "",
+    "address": "32 W LANDING ROAD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1962,
+    "lat": 39.824586,
+    "lng": -75.06909
+  },
+  {
+    "owner": "",
+    "address": "222 W LANDING ROAD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1956,
+    "lat": 39.826861,
+    "lng": -75.073337
+  },
+  {
+    "owner": "",
+    "address": "402 APPLE AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO VF",
+    "yearBuilt": 1957,
+    "lat": 39.819481,
+    "lng": -75.078636
+  },
+  {
+    "owner": "",
+    "address": "997 CUMMINGS AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "1S G STUCCO",
+    "yearBuilt": 1953,
+    "lat": 39.818373,
+    "lng": -75.076622
+  },
+  {
+    "owner": "",
+    "address": "720 VENETIA AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO BLOCK",
+    "yearBuilt": 1942,
+    "lat": 39.812931,
+    "lng": -75.077175
+  },
+  {
+    "owner": "",
+    "address": "237 W LANDING ROAD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1953,
+    "lat": 39.828649,
+    "lng": -75.072965
+  },
+  {
+    "owner": "",
+    "address": "39 W LANDING RD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1952,
+    "lat": 39.825486,
+    "lng": -75.068576
+  },
+  {
+    "owner": "",
+    "address": "38 GARDEN AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1940,
+    "lat": 39.821452,
+    "lng": -75.069353
+  },
+  {
+    "owner": "",
+    "address": "435 ALMONESSON ROAD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO BLOCK",
+    "yearBuilt": 1920,
+    "lat": 39.812961,
+    "lng": -75.078238
+  },
+  {
+    "owner": "",
+    "address": "69 BROWN AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1940,
+    "lat": 39.821566,
+    "lng": -75.070242
+  },
+  {
+    "owner": "",
+    "address": "333 WDOODLAND AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO BLOCK",
+    "yearBuilt": 1956,
+    "lat": 39.818178,
+    "lng": -75.075853
+  },
+  {
+    "owner": "",
+    "address": "25 GARDEN AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1948,
+    "lat": 39.821696,
+    "lng": -75.068634
+  },
+  {
+    "owner": "",
+    "address": "1716 OLD BLACK HORSE PIKE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "2FRSTUCCO",
+    "yearBuilt": 1900,
+    "lat": 39.831898,
+    "lng": -75.063727
+  },
+  {
+    "owner": "",
+    "address": "48 W LANDING ROAD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO FS",
+    "yearBuilt": 1960,
+    "lat": 39.82488,
+    "lng": -75.069463
+  },
+  {
+    "owner": "",
+    "address": "210 RIDGE AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "FW ON STUCCO",
+    "yearBuilt": 1930,
+    "lat": 39.820033,
+    "lng": -75.064465
+  },
+  {
+    "owner": "",
+    "address": "121 BREWERS AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1962,
+    "lat": 39.824109,
+    "lng": -75.06894
+  },
+  {
+    "owner": "",
+    "address": "570 LOWER LANDING ROAD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1953,
+    "lat": 39.826258,
+    "lng": -75.077526
+  },
+  {
+    "owner": "",
+    "address": "38 W LANDING ROAD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "WF STUCCO",
+    "yearBuilt": 1955,
+    "lat": 39.82479,
+    "lng": -75.069328
+  },
+  {
+    "owner": "",
+    "address": "1170 LOWER LANDING ROAD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO BLOCK",
+    "yearBuilt": 1920,
+    "lat": 39.813401,
+    "lng": -75.078228
+  },
+  {
+    "owner": "",
+    "address": "302 OAK AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1962,
+    "lat": 39.828984,
+    "lng": -75.072374
+  },
+  {
+    "owner": "",
+    "address": "346 LOWER LANDING ROAD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1974,
+    "lat": 39.829549,
+    "lng": -75.073726
+  },
+  {
+    "owner": "",
+    "address": "1114 PRICE AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "FW STUCCO",
+    "yearBuilt": 1950,
+    "lat": 39.842735,
+    "lng": -75.072787
+  },
+  {
+    "owner": "",
+    "address": "24 OAK AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1940,
+    "lat": 39.824451,
+    "lng": -75.065542
+  },
+  {
+    "owner": "",
+    "address": "1300 STEWART AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1953,
+    "lat": 39.82434,
+    "lng": -75.07203
+  },
+  {
+    "owner": "",
+    "address": "113 W LANDING ROAD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO & BV",
+    "yearBuilt": 1950,
+    "lat": 39.826363,
+    "lng": -75.070503
+  },
+  {
+    "owner": "",
+    "address": "47 W LANDING RD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1955,
+    "lat": 39.825624,
+    "lng": -75.068873
+  },
+  {
+    "owner": "",
+    "address": "210 W. LANDING ROAD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO BLOCK",
+    "yearBuilt": 1950,
+    "lat": 39.826322,
+    "lng": -75.072517
+  },
+  {
+    "owner": "",
+    "address": "63 W LANDING RD",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1950,
+    "lat": 39.826466,
+    "lng": -75.069407
+  },
+  {
+    "owner": "",
+    "address": "1450 OLD BLACK HORSE PIKE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1960,
+    "lat": 39.824641,
+    "lng": -75.064935
+  },
+  {
+    "owner": "",
+    "address": "42 OAK AVENUE",
+    "city": "GLOUCESTER TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "STUCCO",
+    "yearBuilt": 1940,
+    "lat": 39.825015,
+    "lng": -75.066358
+  },
+  {
+    "owner": "",
+    "address": "6829 WALDORF AVE",
+    "city": "PENNSAUKEN TWP",
+    "county": "CAMDEN",
+    "bldgDesc": "1SSTUCCO & 2SF",
+    "yearBuilt": 1950,
+    "lat": 39.939455,
+    "lng": -75.081815
+  },
+  {
+    "owner": "",
+    "address": "216 E LINCOLN AVE",
+    "city": "WILDWOOD CITY",
+    "county": "CAPE MAY",
+    "bldgDesc": "STUCCO,BRICK",
+    "yearBuilt": 1959,
+    "lat": 38.988014,
+    "lng": -74.814703
+  },
+  {
+    "owner": "",
+    "address": "324 E 1ST AVE",
+    "city": "NORTH WILDWOOD CITY",
+    "county": "CAPE MAY",
+    "bldgDesc": "2S-STUCCO",
+    "yearBuilt": 2000,
+    "lat": 39.004825,
+    "lng": -74.790112
+  },
+  {
+    "owner": "",
+    "address": "34 ZENTEK ROAD",
+    "city": "DELAWARE TWP",
+    "county": "HUNTERDON",
+    "bldgDesc": "2SSTUCCO2G",
+    "yearBuilt": 1993,
+    "lat": 40.447243,
+    "lng": -74.920866
+  },
+  {
+    "owner": "",
+    "address": "428 FARNSWORTH AVE",
+    "city": "BORDENTOWN CITY",
+    "county": "BURLINGTON",
+    "bldgDesc": "2SSTUCCO-1F",
+    "yearBuilt": 1800,
+    "lat": 40.142948,
+    "lng": -74.709941
+  },
+  {
+    "owner": "",
+    "address": "1404 OXMEAD ROAD",
+    "city": "BURLINGTON TWP",
+    "county": "BURLINGTON",
+    "bldgDesc": "1STUCCO-B1CG2FP",
+    "yearBuilt": 1945,
+    "lat": 40.050284,
+    "lng": -74.819999
+  },
+  {
+    "owner": "",
+    "address": "2116 US 130",
+    "city": "FLORENCE TWP",
+    "county": "BURLINGTON",
+    "bldgDesc": "1SSTUCCO",
+    "yearBuilt": 1950,
+    "lat": 40.107317,
+    "lng": -74.780236
+  },
+  {
+    "owner": "",
+    "address": "415 BRIDGEBORO RD",
+    "city": "MOORESTOWN TWP",
+    "county": "BURLINGTON",
+    "bldgDesc": "1STYSTUCCO",
+    "yearBuilt": 2000,
+    "lat": 39.994453,
+    "lng": -74.943779
+  },
+  {
+    "owner": "",
+    "address": "212 RANCOCAS RD",
+    "city": "MT HOLLY TWP",
+    "county": "BURLINGTON",
+    "bldgDesc": "IS STUCCO",
+    "yearBuilt": 1960,
+    "lat": 39.995095,
+    "lng": -74.797254
+  },
+  {
+    "owner": "",
+    "address": "343 SOMERSET ST",
+    "city": "LONG HILL TWP",
+    "county": "MORRIS",
+    "bldgDesc": "1S STUCCO CB",
+    "yearBuilt": null,
+    "lat": 40.672586,
+    "lng": -74.496811
+  },
+  {
+    "owner": "",
+    "address": "1 EDGEHILL AVE",
+    "city": "MORRIS TWP",
+    "county": "MORRIS",
+    "bldgDesc": "STUCCO CAPE",
+    "yearBuilt": 1986,
+    "lat": 40.797723,
+    "lng": -74.504233
+  },
+  {
+    "owner": "",
+    "address": "339 BOULEVARD",
+    "city": "PEQUANNOCK TWP",
+    "county": "MORRIS",
+    "bldgDesc": "2S STUCCO COL",
+    "yearBuilt": 2014,
+    "lat": 40.971972,
+    "lng": -74.303208
+  },
+  {
+    "owner": "",
+    "address": "324 HAROLD AVENUE",
+    "city": "ENGLEWOOD CITY",
+    "county": "BERGEN",
+    "bldgDesc": "2S-STUCCO",
+    "yearBuilt": 1991,
+    "lat": 40.888334,
+    "lng": -73.989567
+  },
+  {
+    "owner": "",
+    "address": "236 STOVER AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO2F",
+    "yearBuilt": 1960,
+    "lat": 40.793968,
+    "lng": -74.137267
+  },
+  {
+    "owner": "",
+    "address": "85 BILTMORE ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCO2F",
+    "yearBuilt": 1950,
+    "lat": 40.792918,
+    "lng": -74.132786
+  },
+  {
+    "owner": "",
+    "address": "157 CRYSTAL ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOFR1F",
+    "yearBuilt": 1930,
+    "lat": 40.793317,
+    "lng": -74.135017
+  },
+  {
+    "owner": "",
+    "address": "33 ROOSEVELT ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCO1F",
+    "yearBuilt": 1940,
+    "lat": 40.786531,
+    "lng": -74.144735
+  },
+  {
+    "owner": "",
+    "address": "19 THIRD ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCOFRONT",
+    "yearBuilt": 1940,
+    "lat": 40.797746,
+    "lng": -74.123803
+  },
+  {
+    "owner": "",
+    "address": "17 GOLD ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1930,
+    "lat": 40.79157,
+    "lng": -74.134567
+  },
+  {
+    "owner": "",
+    "address": "9 BEAVER AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "2F STUCCO",
+    "yearBuilt": 1935,
+    "lat": 40.788091,
+    "lng": -74.133005
+  },
+  {
+    "owner": "",
+    "address": "36 GOLD ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOBR2F",
+    "yearBuilt": 1954,
+    "lat": 40.791767,
+    "lng": -74.133901
+  },
+  {
+    "owner": "",
+    "address": "112 SUNSET AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO2F",
+    "yearBuilt": 1950,
+    "lat": 40.789973,
+    "lng": -74.138421
+  },
+  {
+    "owner": "",
+    "address": "11-13 HENDEL AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOBR4F",
+    "yearBuilt": 1930,
+    "lat": 40.786141,
+    "lng": -74.135901
+  },
+  {
+    "owner": "",
+    "address": "14 UNION PL",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1930,
+    "lat": 40.781671,
+    "lng": -74.137118
+  },
+  {
+    "owner": "",
+    "address": "45 BILTMORE ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1950,
+    "lat": 40.792529,
+    "lng": -74.132031
+  },
+  {
+    "owner": "",
+    "address": "148 BILTMORE ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO M FAM",
+    "yearBuilt": 1911,
+    "lat": 40.794069,
+    "lng": -74.134128
+  },
+  {
+    "owner": "",
+    "address": "9 FRANKLIN PLACE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1960,
+    "lat": 40.786815,
+    "lng": -74.133974
+  },
+  {
+    "owner": "",
+    "address": "267 CRYSTAL ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "BRSTUCCO1F",
+    "yearBuilt": 1930,
+    "lat": 40.795554,
+    "lng": -74.138719
+  },
+  {
+    "owner": "",
+    "address": "21 MORGAN PL",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1930,
+    "lat": 40.781781,
+    "lng": -74.136702
+  },
+  {
+    "owner": "",
+    "address": "55 ALBERT ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1950,
+    "lat": 40.793227,
+    "lng": -74.13194
+  },
+  {
+    "owner": "",
+    "address": "114 SUNSET AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCO1F",
+    "yearBuilt": 1930,
+    "lat": 40.790028,
+    "lng": -74.138525
+  },
+  {
+    "owner": "",
+    "address": "57 SUNSET AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO2F",
+    "yearBuilt": 1930,
+    "lat": 40.788255,
+    "lng": -74.136577
+  },
+  {
+    "owner": "",
+    "address": "124 BATHURST AVENUE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO 1F",
+    "yearBuilt": 1920,
+    "lat": 40.788914,
+    "lng": -74.141886
+  },
+  {
+    "owner": "",
+    "address": "35 STOVER AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOBUNG1F",
+    "yearBuilt": 1950,
+    "lat": 40.79136,
+    "lng": -74.13253
+  },
+  {
+    "owner": "",
+    "address": "37 PROSPECT AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1940,
+    "lat": 40.785042,
+    "lng": -74.141688
+  },
+  {
+    "owner": "",
+    "address": "374 BELLEVILLE PK",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOBRFR2ST",
+    "yearBuilt": null,
+    "lat": 40.778918,
+    "lng": -74.132375
+  },
+  {
+    "owner": "",
+    "address": "110 SUNSET AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1950,
+    "lat": 40.78995,
+    "lng": -74.138312
+  },
+  {
+    "owner": "",
+    "address": "612 SCHUYLER AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCO1F",
+    "yearBuilt": 1920,
+    "lat": 40.795577,
+    "lng": -74.118084
+  },
+  {
+    "owner": "",
+    "address": "233 STOVER AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1920,
+    "lat": 40.793714,
+    "lng": -74.137506
+  },
+  {
+    "owner": "",
+    "address": "29 STRATFORD PL",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1950,
+    "lat": 40.779393,
+    "lng": -74.127411
+  },
+  {
+    "owner": "",
+    "address": "340 BELLEVILLE PK",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOTAVERN",
+    "yearBuilt": null,
+    "lat": 40.779775,
+    "lng": -74.134096
+  },
+  {
+    "owner": "",
+    "address": "37 YORK RD",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO2F",
+    "yearBuilt": 1940,
+    "lat": 40.789671,
+    "lng": -74.134943
+  },
+  {
+    "owner": "",
+    "address": "35 YORK RD",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FR STUCCO 1F",
+    "yearBuilt": 1950,
+    "lat": 40.78955,
+    "lng": -74.135051
+  },
+  {
+    "owner": "",
+    "address": "185 ARLINGTON BLVD",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "BRSTUCCO1F",
+    "yearBuilt": 1920,
+    "lat": 40.793081,
+    "lng": -74.140379
+  },
+  {
+    "owner": "",
+    "address": "151 ALBERT ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCO1F",
+    "yearBuilt": 1911,
+    "lat": 40.794347,
+    "lng": -74.134089
+  },
+  {
+    "owner": "",
+    "address": "38 STOVER AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCO1F",
+    "yearBuilt": 1920,
+    "lat": 40.791807,
+    "lng": -74.132557
+  },
+  {
+    "owner": "",
+    "address": "213 RUTHERFORD PL",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1960,
+    "lat": 40.787588,
+    "lng": -74.131247
+  },
+  {
+    "owner": "",
+    "address": "180-182 PROSPECT AV",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO3STORES",
+    "yearBuilt": null,
+    "lat": 40.789037,
+    "lng": -74.136974
+  },
+  {
+    "owner": "",
+    "address": "336 BELLEVILLE PK",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOBRFR3ST",
+    "yearBuilt": null,
+    "lat": 40.779851,
+    "lng": -74.134247
+  },
+  {
+    "owner": "",
+    "address": "110 HENDEL AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1950,
+    "lat": 40.788461,
+    "lng": -74.139357
+  },
+  {
+    "owner": "",
+    "address": "260 BELLEVILLE PK",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOSTORE",
+    "yearBuilt": null,
+    "lat": 40.781769,
+    "lng": -74.137926
+  },
+  {
+    "owner": "",
+    "address": "75 ILFORD AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "BRSTUCCO1F",
+    "yearBuilt": 1930,
+    "lat": 40.787968,
+    "lng": -74.137736
+  },
+  {
+    "owner": "",
+    "address": "111 ALBERT ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1950,
+    "lat": 40.793915,
+    "lng": -74.133226
+  },
+  {
+    "owner": "",
+    "address": "110 PARK AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO2F",
+    "yearBuilt": 1960,
+    "lat": 40.781337,
+    "lng": -74.128593
+  },
+  {
+    "owner": "",
+    "address": "69 PROSPECT AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1940,
+    "lat": 40.78604,
+    "lng": -74.140841
+  },
+  {
+    "owner": "",
+    "address": "312 STOVER AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCODUP2F",
+    "yearBuilt": 1947,
+    "lat": 40.794891,
+    "lng": -74.139033
+  },
+  {
+    "owner": "",
+    "address": "137 HENDEL AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOFR1F",
+    "yearBuilt": 1920,
+    "lat": 40.788693,
+    "lng": -74.140713
+  },
+  {
+    "owner": "",
+    "address": "70 HENDEL AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO3F",
+    "yearBuilt": 1940,
+    "lat": 40.78766,
+    "lng": -74.137735
+  },
+  {
+    "owner": "",
+    "address": "102 STOVER AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO2F",
+    "yearBuilt": 1920,
+    "lat": 40.792602,
+    "lng": -74.13408
+  },
+  {
+    "owner": "",
+    "address": "21 WILLIS RD",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1930,
+    "lat": 40.788598,
+    "lng": -74.134777
+  },
+  {
+    "owner": "",
+    "address": "145-147 ALBERT ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCODUPL2F",
+    "yearBuilt": 1950,
+    "lat": 40.794277,
+    "lng": -74.133947
+  },
+  {
+    "owner": "",
+    "address": "20 CANTERBURY AVENUE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "BLKSTUCCO",
+    "yearBuilt": 1940,
+    "lat": 40.797551,
+    "lng": -74.125523
+  },
+  {
+    "owner": "",
+    "address": "165 HENDEL AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STONESTUCCO1F",
+    "yearBuilt": 1940,
+    "lat": 40.789221,
+    "lng": -74.141745
+  },
+  {
+    "owner": "",
+    "address": "156 LEONARD PL",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOFR1F",
+    "yearBuilt": 1950,
+    "lat": 40.795427,
+    "lng": -74.120123
+  },
+  {
+    "owner": "",
+    "address": "20 ARLINGTON BLVD",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOBRFR1F",
+    "yearBuilt": 1930,
+    "lat": 40.790026,
+    "lng": -74.133367
+  },
+  {
+    "owner": "",
+    "address": "16 ALBERT STREET",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCO1F",
+    "yearBuilt": 1930,
+    "lat": 40.793146,
+    "lng": -74.130827
+  },
+  {
+    "owner": "",
+    "address": "41 PROSPECT AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STONESTUCCO1F",
+    "yearBuilt": 1930,
+    "lat": 40.78516,
+    "lng": -74.141699
+  },
+  {
+    "owner": "",
+    "address": "44 BALTIMORE AVENUE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO 1F",
+    "yearBuilt": 1962,
+    "lat": 40.796363,
+    "lng": -74.132857
+  },
+  {
+    "owner": "",
+    "address": "18 ARLINGTON BLVD",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOBRFR1F",
+    "yearBuilt": 1950,
+    "lat": 40.789993,
+    "lng": -74.133298
+  },
+  {
+    "owner": "",
+    "address": "142 RIVERVIEW AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1930,
+    "lat": 40.789215,
+    "lng": -74.140732
+  },
+  {
+    "owner": "",
+    "address": "17 WILLIAM ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRBRSTUCCO2F",
+    "yearBuilt": 1920,
+    "lat": 40.78534,
+    "lng": -74.143657
+  },
+  {
+    "owner": "",
+    "address": "203 HIGH ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCO1F",
+    "yearBuilt": 1950,
+    "lat": 40.791304,
+    "lng": -74.138336
+  },
+  {
+    "owner": "",
+    "address": "95 ALBERT ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO2F",
+    "yearBuilt": 1930,
+    "lat": 40.793758,
+    "lng": -74.132935
+  },
+  {
+    "owner": "",
+    "address": "73 ALBERT ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCO1F",
+    "yearBuilt": 1950,
+    "lat": 40.793369,
+    "lng": -74.132216
+  },
+  {
+    "owner": "",
+    "address": "82 MELROSE AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOFR2F",
+    "yearBuilt": 1920,
+    "lat": 40.787251,
+    "lng": -74.138494
+  },
+  {
+    "owner": "",
+    "address": "207 HIGH ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCO1F",
+    "yearBuilt": 1950,
+    "lat": 40.791471,
+    "lng": -74.138231
+  },
+  {
+    "owner": "",
+    "address": "265 RIVERVIEW AVENUE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCO 1F",
+    "yearBuilt": 1945,
+    "lat": 40.793393,
+    "lng": -74.137359
+  },
+  {
+    "owner": "",
+    "address": "35 ROOSEVELT ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO2F",
+    "yearBuilt": 1940,
+    "lat": 40.786627,
+    "lng": -74.144693
+  },
+  {
+    "owner": "",
+    "address": "46 WILLIS ROAD",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1950,
+    "lat": 40.789068,
+    "lng": -74.133642
+  },
+  {
+    "owner": "",
+    "address": "23 INMAN PL",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO2F",
+    "yearBuilt": 1939,
+    "lat": 40.784488,
+    "lng": -74.134899
+  },
+  {
+    "owner": "",
+    "address": "34 SEVENTH STREET",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCOBRFRT",
+    "yearBuilt": 1930,
+    "lat": 40.798349,
+    "lng": -74.130263
+  },
+  {
+    "owner": "",
+    "address": "23 BAYLISS ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO2F",
+    "yearBuilt": 1930,
+    "lat": 40.794915,
+    "lng": -74.138735
+  },
+  {
+    "owner": "",
+    "address": "150 RIDGE RD",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOSTORE",
+    "yearBuilt": null,
+    "lat": 40.786156,
+    "lng": -74.13467
+  },
+  {
+    "owner": "",
+    "address": "224 BILTMORE ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "BRSTUCCO1F",
+    "yearBuilt": 1920,
+    "lat": 40.795165,
+    "lng": -74.136475
+  },
+  {
+    "owner": "",
+    "address": "122 BELMOUNT AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO1F",
+    "yearBuilt": 1930,
+    "lat": 40.791096,
+    "lng": -74.138509
+  },
+  {
+    "owner": "",
+    "address": "93 SUNSET AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCO1F",
+    "yearBuilt": 1950,
+    "lat": 40.789002,
+    "lng": -74.138039
+  },
+  {
+    "owner": "",
+    "address": "14-16 ABBOTT PL",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOBR4F",
+    "yearBuilt": 1935,
+    "lat": 40.786509,
+    "lng": -74.133934
+  },
+  {
+    "owner": "",
+    "address": "17 RUTHERFORD PL",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOFR2F",
+    "yearBuilt": 1935,
+    "lat": 40.781219,
+    "lng": -74.136053
+  },
+  {
+    "owner": "",
+    "address": "35 SEVENTH ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRBRSTUCCOFRT",
+    "yearBuilt": 1930,
+    "lat": 40.798609,
+    "lng": -74.130763
+  },
+  {
+    "owner": "",
+    "address": "118 BATHURST AVENUE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO 1F",
+    "yearBuilt": 1940,
+    "lat": 40.788749,
+    "lng": -74.141988
+  },
+  {
+    "owner": "",
+    "address": "31 RIDGE RD",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "BRSTUCCO2F",
+    "yearBuilt": null,
+    "lat": 40.78288,
+    "lng": -74.137979
+  },
+  {
+    "owner": "",
+    "address": "36 MELROSE AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO2F",
+    "yearBuilt": 1930,
+    "lat": 40.786418,
+    "lng": -74.136957
+  },
+  {
+    "owner": "",
+    "address": "86 MELROSE AVE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOFR1F",
+    "yearBuilt": 1920,
+    "lat": 40.787322,
+    "lng": -74.138663
+  },
+  {
+    "owner": "",
+    "address": "116 MORGAN PLACE",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCO 1F",
+    "yearBuilt": 1920,
+    "lat": 40.78447,
+    "lng": -74.133993
+  },
+  {
+    "owner": "",
+    "address": "209 HIGH ST",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "FRSTUCCO1F",
+    "yearBuilt": 1950,
+    "lat": 40.791556,
+    "lng": -74.138155
+  },
+  {
+    "owner": "",
+    "address": "10-12 ABBOTT PL",
+    "city": "NORTH ARLINGTON BORO",
+    "county": "BERGEN",
+    "bldgDesc": "STUCCOBR4F",
+    "yearBuilt": 1935,
+    "lat": 40.786578,
+    "lng": -74.134109
+  },
+  {
+    "owner": "",
+    "address": "228 HIDDEN POND PATH",
+    "city": "FRANKLIN LAKES BORO",
+    "county": "BERGEN",
+    "bldgDesc": "2S STUCCO 3 CG",
+    "yearBuilt": 1986,
+    "lat": 41.005782,
+    "lng": -74.225677
+  },
+  {
+    "owner": "",
+    "address": "621 GODWIN AVE",
+    "city": "MIDLAND PARK BORO",
+    "county": "BERGEN",
+    "bldgDesc": "2S-STUCCO",
+    "yearBuilt": 2000,
+    "lat": 40.998644,
+    "lng": -74.152609
+  },
+  {
+    "owner": "",
+    "address": "4 QUAIL RIDGE RD",
+    "city": "MONTVALE BORO",
+    "county": "BERGEN",
+    "bldgDesc": "2SSTUCCO",
+    "yearBuilt": 1997,
+    "lat": 41.046367,
+    "lng": -74.030133
+  },
+  {
+    "owner": "",
+    "address": "367 LINE RD",
+    "city": "ABERDEEN TWP",
+    "county": "MONMOUTH",
+    "bldgDesc": "STUCCO 1 1/2 ST",
+    "yearBuilt": 1995,
+    "lat": 40.396234,
+    "lng": -74.209087
+  },
+  {
+    "owner": "",
+    "address": "2 CRESCENT DRIVE",
+    "city": "BRIELLE BORO",
+    "county": "MONMOUTH",
+    "bldgDesc": "2S STUCCO",
+    "yearBuilt": 1992,
+    "lat": 40.108432,
+    "lng": -74.048098
+  },
+  {
+    "owner": "",
+    "address": "32 BROOKWILLOW AVE",
+    "city": "WEST LONG BRANCH BORO",
+    "county": "MONMOUTH",
+    "bldgDesc": "2STY STUCCO",
+    "yearBuilt": 1995,
+    "lat": 40.287775,
+    "lng": -74.004736
+  },
+  {
+    "owner": "",
+    "address": "8 CLIFF AVENUE",
+    "city": "SAYREVILLE BORO",
+    "county": "MIDDLESEX",
+    "bldgDesc": "STUCCO HSE",
+    "yearBuilt": 0,
+    "lat": 40.468814,
+    "lng": -74.266429
+  },
+  {
+    "owner": "",
+    "address": "35-37-39 MAIN ST",
+    "city": "SOUTH RIVER BORO",
+    "county": "MIDDLESEX",
+    "bldgDesc": "19A-2S-STUCCO",
+    "yearBuilt": 1931,
+    "lat": 40.452006,
+    "lng": -74.380293
+  },
+  {
+    "owner": "",
+    "address": "176 FIAT AVE",
+    "city": "WOODBRIDGE TWP",
+    "county": "MIDDLESEX",
+    "bldgDesc": "STUCCO RANCH",
+    "yearBuilt": 1956,
+    "lat": 40.575655,
+    "lng": -74.330032
+  },
+  {
+    "owner": "",
+    "address": "14 BUTTELL AVENUE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-STUCCO3470",
+    "yearBuilt": 2019,
+    "lat": 40.076729,
+    "lng": -74.218721
+  },
+  {
+    "owner": "",
+    "address": "954 MORRIS AVENUE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-STUCCO4242",
+    "yearBuilt": 2016,
+    "lat": 40.06225,
+    "lng": -74.228188
+  },
+  {
+    "owner": "",
+    "address": "762 ALBERT AVENUE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO  8718",
+    "yearBuilt": 2017,
+    "lat": 40.057843,
+    "lng": -74.201418
+  },
+  {
+    "owner": "",
+    "address": "183 CARLTON AVENUE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO  6837",
+    "yearBuilt": 2020,
+    "lat": 40.087981,
+    "lng": -74.238496
+  },
+  {
+    "owner": "",
+    "address": "125 NED DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "3S-AL-STUCCO",
+    "yearBuilt": 2021,
+    "lat": 40.073756,
+    "lng": -74.211342
+  },
+  {
+    "owner": "",
+    "address": "9 CEDAR DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-AL-STUCCO",
+    "yearBuilt": 1993,
+    "lat": 40.087509,
+    "lng": -74.23875
+  },
+  {
+    "owner": "",
+    "address": "25 OLIVE COURT",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-STUCCO7929",
+    "yearBuilt": 2018,
+    "lat": 40.082992,
+    "lng": -74.252871
+  },
+  {
+    "owner": "",
+    "address": "129 THORNDIKE AVENUE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO  6008",
+    "yearBuilt": 2018,
+    "lat": 40.089204,
+    "lng": -74.239244
+  },
+  {
+    "owner": "",
+    "address": "210 SOUTH LAKE DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO 55277",
+    "yearBuilt": 2001,
+    "lat": 40.088418,
+    "lng": -74.219777
+  },
+  {
+    "owner": "",
+    "address": "110 WHITE STREET",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO-S4135",
+    "yearBuilt": 1989,
+    "lat": 40.083029,
+    "lng": -74.252326
+  },
+  {
+    "owner": "",
+    "address": "619 SPRUCE STREET",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO-W4294",
+    "yearBuilt": 2019,
+    "lat": 40.071465,
+    "lng": -74.200918
+  },
+  {
+    "owner": "",
+    "address": "130 THORNDIKE AVENUE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO  5224",
+    "yearBuilt": 2018,
+    "lat": 40.089205,
+    "lng": -74.240064
+  },
+  {
+    "owner": "",
+    "address": "35 SHADY LANE DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO  6277",
+    "yearBuilt": 2018,
+    "lat": 40.096659,
+    "lng": -74.243706
+  },
+  {
+    "owner": "",
+    "address": "26 FOREST DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-STUCCO5036",
+    "yearBuilt": 2018,
+    "lat": 40.0986,
+    "lng": -74.245342
+  },
+  {
+    "owner": "",
+    "address": "136 GLEN AVENUE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "3S-AL-STUCCO",
+    "yearBuilt": 2020,
+    "lat": 40.092115,
+    "lng": -74.239404
+  },
+  {
+    "owner": "",
+    "address": "83 SHADY LANE DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-STUCCO5634",
+    "yearBuilt": 2018,
+    "lat": 40.096506,
+    "lng": -74.241056
+  },
+  {
+    "owner": "",
+    "address": "1406 TOWERS STREET",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-AL-STUCCO",
+    "yearBuilt": 2020,
+    "lat": 40.06557,
+    "lng": -74.196962
+  },
+  {
+    "owner": "",
+    "address": "144 SHADY LANE DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-STUCCO7192",
+    "yearBuilt": 2020,
+    "lat": 40.094234,
+    "lng": -74.239837
+  },
+  {
+    "owner": "",
+    "address": "32 COLUMBUS AVENUE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-AL-STUCCO",
+    "yearBuilt": 2020,
+    "lat": 40.091664,
+    "lng": -74.235087
+  },
+  {
+    "owner": "",
+    "address": "320 VAN BUREN AVENUE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO  5030",
+    "yearBuilt": 2018,
+    "lat": 40.09949,
+    "lng": -74.250356
+  },
+  {
+    "owner": "",
+    "address": "1746 NEW CENTRAL AVENUE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO  5318",
+    "yearBuilt": 2016,
+    "lat": 40.091651,
+    "lng": -74.241479
+  },
+  {
+    "owner": "",
+    "address": "61 CARASALJO DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO-S7134",
+    "yearBuilt": 2019,
+    "lat": 40.09451,
+    "lng": -74.24108
+  },
+  {
+    "owner": "",
+    "address": "12-12A KINGS COURT",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO-A5277",
+    "yearBuilt": 2016,
+    "lat": 40.094185,
+    "lng": -74.250321
+  },
+  {
+    "owner": "",
+    "address": "9 HOPE HILL LANE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "FA-2S-AL-STUCCO",
+    "yearBuilt": 2021,
+    "lat": 40.09841,
+    "lng": -74.253618
+  },
+  {
+    "owner": "",
+    "address": "109 SHADY LANE DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO  3998",
+    "yearBuilt": 1970,
+    "lat": 40.096018,
+    "lng": -74.240198
+  },
+  {
+    "owner": "",
+    "address": "75 SHADY LANE DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "FA-2S-STUCCO",
+    "yearBuilt": 2021,
+    "lat": 40.096579,
+    "lng": -74.241581
+  },
+  {
+    "owner": "",
+    "address": "110 SHADY LANE DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO  7028",
+    "yearBuilt": 2019,
+    "lat": 40.095413,
+    "lng": -74.240522
+  },
+  {
+    "owner": "",
+    "address": "85 SHADY LANE DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO,B6858",
+    "yearBuilt": 2019,
+    "lat": 40.096361,
+    "lng": -74.240753
+  },
+  {
+    "owner": "",
+    "address": "6 HILL TOP COURT",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-STUCCO4787",
+    "yearBuilt": 2016,
+    "lat": 40.098067,
+    "lng": -74.254969
+  },
+  {
+    "owner": "",
+    "address": "19 CEDAR DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-STUCCO5604",
+    "yearBuilt": 2016,
+    "lat": 40.087853,
+    "lng": -74.239975
+  },
+  {
+    "owner": "",
+    "address": "1174 EVERGREEN AVENUE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-STUCCO3896",
+    "yearBuilt": 2015,
+    "lat": 40.055542,
+    "lng": -74.21817
+  },
+  {
+    "owner": "",
+    "address": "17 OLIVE COURT",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-STUCCO5690",
+    "yearBuilt": 2017,
+    "lat": 40.083291,
+    "lng": -74.254944
+  },
+  {
+    "owner": "",
+    "address": "34 SERENITY WAY",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-STUCCO5757",
+    "yearBuilt": 2020,
+    "lat": 40.082049,
+    "lng": -74.24685
+  },
+  {
+    "owner": "",
+    "address": "13 OASIS COURT",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO  4438",
+    "yearBuilt": 2017,
+    "lat": 40.088582,
+    "lng": -74.248196
+  },
+  {
+    "owner": "",
+    "address": "9 OASIS COURT",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-STUCCO7517",
+    "yearBuilt": 2019,
+    "lat": 40.088655,
+    "lng": -74.24781
+  },
+  {
+    "owner": "",
+    "address": "49 RADIANT HILL",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-AL-STUCCO",
+    "yearBuilt": 2021,
+    "lat": 40.068496,
+    "lng": -74.198312
+  },
+  {
+    "owner": "",
+    "address": "45 RADIANT HILL",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-AL-STUCCO",
+    "yearBuilt": 2021,
+    "lat": 40.068505,
+    "lng": -74.198802
+  },
+  {
+    "owner": "",
+    "address": "29 RADIANT HILL",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-AL-STUCCO",
+    "yearBuilt": 2020,
+    "lat": 40.069013,
+    "lng": -74.19816
+  },
+  {
+    "owner": "",
+    "address": "142 SIMS AVENUE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-AL-STUCCO",
+    "yearBuilt": 2021,
+    "lat": 40.068536,
+    "lng": -74.197875
+  },
+  {
+    "owner": "",
+    "address": "134 SIMS AVENUE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-AL-STUCCO",
+    "yearBuilt": 2021,
+    "lat": 40.068828,
+    "lng": -74.197728
+  },
+  {
+    "owner": "",
+    "address": "130 SIMS AVENUE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-AL-STUCCO",
+    "yearBuilt": 2021,
+    "lat": 40.068972,
+    "lng": -74.197656
+  },
+  {
+    "owner": "",
+    "address": "1 RADIANT HILL",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-AL-STUCCO",
+    "yearBuilt": 2020,
+    "lat": 40.069121,
+    "lng": -74.197252
+  },
+  {
+    "owner": "",
+    "address": "9 RADIANT HILL",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-AL-STUCCO",
+    "yearBuilt": 2020,
+    "lat": 40.069249,
+    "lng": -74.197533
+  },
+  {
+    "owner": "",
+    "address": "17 RADIANT HILL",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "A-2S-AL-STUCCO",
+    "yearBuilt": 2021,
+    "lat": 40.069518,
+    "lng": -74.197981
+  },
+  {
+    "owner": "",
+    "address": "415 CARANETTA DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "1S-STUCCO  3581",
+    "yearBuilt": 2020,
+    "lat": 40.086854,
+    "lng": -74.222782
+  },
+  {
+    "owner": "",
+    "address": "104 CARANETTA DRIVE",
+    "city": "LAKEWOOD TWP",
+    "county": "OCEAN",
+    "bldgDesc": "2S-STUCCO-S7575",
+    "yearBuilt": 2018,
+    "lat": 40.085498,
+    "lng": -74.219542
+  }
+]

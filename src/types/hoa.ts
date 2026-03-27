@@ -1,4 +1,6 @@
-export type ExteriorType = "stucco" | "non-stucco" | "mixed";
+export type ExteriorType = "stucco" | "non-stucco" | "mixed" | "unknown";
+
+export type HOAType = "condo" | "townhouse" | "coop" | "community" | "civic" | "hoa";
 
 export type BoardTitle =
   | "President"
@@ -28,9 +30,26 @@ export interface HOA {
   unitCount: number;
   yearBuilt: number;
   exteriorType: ExteriorType;
+  exteriorConfidence?: number;
+  exteriorSource?: string;
+  nearbyStuccoCount?: number;
+  hoaType?: HOAType;
   managementCompany: string | null;
   boardMembers: BoardMember[];
   monthlyFee: number | null;
+  registeredAgent?: string | null;
+  principalOffice?: string | null;
+}
+
+export interface StuccoProperty {
+  owner: string;
+  address: string;
+  city: string;
+  county: string;
+  bldgDesc: string;
+  yearBuilt: number | null;
+  lat: number;
+  lng: number;
 }
 
 export interface FilterState {
