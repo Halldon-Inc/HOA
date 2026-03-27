@@ -1,72 +1,205 @@
-{
-  "Taylor Management": {
-    "name": "Taylor Management",
-    "phone": "973-267-9000",
-    "website": "taylormanagement.com",
-    "region": "North NJ",
-    "hoaCount": 42
+[
+  {
+    "name": "AR Management Company",
+    "contact": "Joseph Balzamo",
+    "phone": "(973) 398-6609",
+    "email": "service@armanagementco.com",
+    "address": "200 Valley Road, Suite 207, Mount Arlington, NJ 07856"
   },
-  "Associa": {
-    "name": "Associa",
-    "phone": "800-808-4882",
-    "website": "associa.com",
-    "region": "Statewide",
-    "hoaCount": 0
+  {
+    "name": "Associa Community Management Corp., AAMC",
+    "contact": "Michael Ryan",
+    "phone": "(973) 773-6262",
+    "email": "",
+    "address": "55 Lane Road, Suite 440, Fairfield, NJ 07004"
   },
-  "FirstService Residential": {
+  {
+    "name": "Association Advisors NJ",
+    "contact": "Bonnie Bertain",
+    "phone": "(732) 294-8882",
+    "email": "help@askaa.com",
+    "address": "19 West Main Street, Freehold, NJ 07728"
+  },
+  {
+    "name": "Association Reserves",
+    "contact": "Brian Weaver, CMCA, AMS, PCAM",
+    "phone": "(201) 777-6404",
+    "email": "bweaver@reservestudy.com",
+    "address": "55 Madison Avenue, Suite #400, Morristown, NJ 07960-7397"
+  },
+  {
+    "name": "BELFOR Property Restoration",
+    "contact": "Paul Migliore",
+    "phone": "(732) 317-4500",
+    "email": "paul.migliore@us.belfor.com",
+    "address": "50 Ethel Road West, Piscataway, NJ 08824"
+  },
+  {
+    "name": "CCA, Construction Consulting Associates, LLC",
+    "contact": "Rob Morrison, Regional Sales Manager",
+    "phone": "(877) 222-0665",
+    "email": "sales@ccaco.com",
+    "address": "450 7th Avenue, Suite 2009, New York, NY 10123"
+  },
+  {
+    "name": "Cedarcrest Property Management",
+    "contact": "Thomas Chilenski",
+    "phone": "(973) 228-5477",
+    "email": "tom@cedarcrestpm.com",
+    "address": "91 Clinton Road, Suite 2D, Fairfield, NJ 07004"
+  },
+  {
+    "name": "Corner Property Management, LLC, AAMC",
+    "contact": "Anthony Nardone, MBA, PCAM",
+    "phone": "(973) 376-3925",
+    "email": "tony.nardone@cp-management.com",
+    "address": "11 Cleveland Place, Springfield, NJ 07081"
+  },
+  {
+    "name": "Denali Property Management, Inc.",
+    "contact": "Joseph Guido",
+    "phone": "(888) 315-7773",
+    "email": "sales@denalipm.com",
+    "address": "385 Route 24, Unit 2C-1, Chester, NJ 07930"
+  },
+  {
+    "name": "Elite Management and Advisory Services, LLC",
+    "contact": "Jim Yost, CMCA",
+    "phone": "(609) 675-6835",
+    "email": "yostopmc@comcast.net",
+    "address": "3314 Pacific Avenue &#8211; PO Box 1709, Wildwood, NJ 08260"
+  },
+  {
+    "name": "Executive Property Management, AAMC",
+    "contact": "Dean Barber",
+    "phone": "(732) 821-3224",
+    "email": "dean.barber@epmwebsite.com",
+    "address": "4-08 Towne Center Drive, North Brunswick, NJ 08902"
+  },
+  {
+    "name": "First Onsite Property Restoration",
+    "contact": "Donna Meyer, EBP",
+    "phone": "(973) 338-6767",
+    "email": "donna.meyer@firstonsite.com",
+    "address": "280 Madison Avenue, New York, NY 10016"
+  },
+  {
     "name": "FirstService Residential",
-    "phone": "888-331-7417",
-    "website": "fsresidential.com",
-    "region": "Statewide",
-    "hoaCount": 0
+    "contact": "Ilene Jablonski",
+    "phone": "(732) 963-0413",
+    "email": "Ilene.Jablonski@fsresidential.com",
+    "address": "21 Christopher Way, Eatontown, NJ 07724"
   },
-  "RCP Management": {
-    "name": "RCP Management",
-    "phone": "973-890-3507",
-    "website": "rcpmanagement.com",
-    "region": "North NJ",
-    "hoaCount": 0
+  {
+    "name": "FWH Associates, P.A.",
+    "contact": "Lorenzo Cullari",
+    "phone": "(732) 797-3100",
+    "email": "lcullari@fwhassociates.com",
+    "address": "1856 Route 9, Toms River, NJ 08755"
   },
-  "Prime Management": {
-    "name": "Prime Management",
-    "phone": "732-390-1100",
-    "website": "primemanagement.com",
-    "region": "Central NJ",
-    "hoaCount": 25
+  {
+    "name": "Homestead Management Services, Inc., AAMC",
+    "contact": "Louis J. Curtis, CMCA, AMS, PCAM",
+    "phone": "(973) 797-1444",
+    "email": "Lcurtis@homesteadmgmt.org",
+    "address": "70 Bloomfield Avenue, Pine Brook, NJ 07058"
   },
-  "Community Management Corporation": {
-    "name": "Community Management Corporation",
-    "phone": "609-587-7272",
-    "website": "cmcmgt.com",
-    "region": "Central/South NJ",
-    "hoaCount": 13
+  {
+    "name": "IMPAC Property Management",
+    "contact": "Accella Smith",
+    "phone": "(800) 624-4294",
+    "email": "asmith@impac1.com",
+    "address": "440 Beckerville Road, Manchester, NJ 08759"
   },
-  "Access Property Management": {
-    "name": "Access Property Management",
-    "phone": "732-446-0611",
-    "website": "accesspm.com",
-    "region": "Central NJ",
-    "hoaCount": 0
+  {
+    "name": "mem property management co., inc.",
+    "contact": "Martin Laderman",
+    "phone": "(201) 798-1080",
+    "email": "mL@memproperty.com",
+    "address": "65 Challenger Road, Suite #320, Ridgefield Park, NJ 07660"
   },
-  "Alliance Association Management": {
-    "name": "Alliance Association Management",
-    "phone": "973-992-0100",
-    "website": "allianceam.com",
-    "region": "North NJ",
-    "hoaCount": 0
+  {
+    "name": "MyPropertyBilling.com",
+    "contact": "385 Route 24, Unit 2C-2",
+    "phone": "(888) 406-2221",
+    "email": "sales@mypropertybilling.com",
+    "address": "Chester, NJ 07930"
   },
-  "Kipcon": {
-    "name": "Kipcon",
-    "phone": "201-262-6080",
-    "website": "kipcon.com",
-    "region": "North NJ",
-    "hoaCount": 0
+  {
+    "name": "O&S Associates, Inc.",
+    "contact": "Chuck Bilodeau &#8211; Director of Business Development",
+    "phone": "(201) 488-7144",
+    "email": "cbilodeau@oandsassociates.com",
+    "address": "145 Main Street, Hackensack, NJ 07601"
   },
-  "KEW Management": {
-    "name": "KEW Management",
-    "phone": "856-665-5500",
-    "website": "kewmanagement.com",
-    "region": "South NJ",
-    "hoaCount": 8
+  {
+    "name": "Popular Association Banking",
+    "contact": "John Marcelin",
+    "phone": "(305) 987-3445",
+    "email": "jmarcelin@popular.com",
+    "address": "7920 Miami Lakes Dr. W, Miami Lakes, FL 33016-6002"
+  },
+  {
+    "name": "RCP Management Company, AAMC, AMO",
+    "contact": "Kristina Munson, CMCA, AMS, PCAM",
+    "phone": "(609) 683-7980",
+    "email": "kmunson@rcpmanagement.com",
+    "address": "2 Commerce Drive, Suite 101, Cranbury, NJ 08512"
+  },
+  {
+    "name": "Reliance Property Management Group",
+    "contact": "Tejas Kadia",
+    "phone": "(732) 703-6301",
+    "email": "support@rpmgsupport.us",
+    "address": "94 Church Street, Suite 303, New Brunswick, NJ 08901"
+  },
+  {
+    "name": "RMG, Regency Management Group, Inc., AAMC",
+    "contact": "Rose Clayton, CMCA, CEO",
+    "phone": "(732) 364-5900",
+    "email": "rclayton@regencymanagementgroup.biz",
+    "address": "95 West Front Street, Unit 132, Keyport, NJ 07735"
+  },
+  {
+    "name": "Taylor Management Company, AAMC, AMO",
+    "contact": "Liz Comando, CMCA, PCAM",
+    "phone": "(973) 267-9000",
+    "email": "lcomando@taylormgt.com",
+    "address": "80 South Jefferson Road, Whippany, NJ 07981"
+  },
+  {
+    "name": "Towne & Country Management, Inc.",
+    "contact": "Nicole Martone",
+    "phone": "(732) 212-8200",
+    "email": "info@tc-mgt.com",
+    "address": "711 Sycamore Avenue, Red Bank, NJ 07701"
+  },
+  {
+    "name": "Truist Association Services",
+    "contact": "Jamie Cavileer",
+    "phone": "(239) 877-2399",
+    "email": "jamie.cavileer@truist.com",
+    "address": "801 Laurel Oak Drive, Floor 2, Naples, FL 34108"
+  },
+  {
+    "name": "Two Men Property Services Group, Inc.",
+    "contact": "Howard Kaye",
+    "phone": "(732) 570-9593",
+    "email": "howiekaye@comcast.net",
+    "address": "26 Mattawang Drive, Somerset, NJ 08873"
+  },
+  {
+    "name": "Wilkin Management Group, Inc., AAMC",
+    "contact": "Alyssa Wilkin",
+    "phone": "(201) 824-4502",
+    "email": "info@wilkingrp.com",
+    "address": "99 Bauer Drive, Oakland, NJ 07436"
+  },
+  {
+    "name": "World Insurance Associates LLC",
+    "contact": "Becky Mateus",
+    "phone": "(908) 568-5937",
+    "email": "beckymateus@worldinsurance.com",
+    "address": "100 Wood Avenue South, Iselin, NJ 08830"
   }
-}
+]
