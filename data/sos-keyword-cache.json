@@ -74408,5 +74408,778 @@
     }
   ],
   "westfield condo": [],
-  "westfield property owners": []
+  "westfield property owners": [],
+  "westfield community assoc": [],
+  "westfield civic association": [],
+  "westfield cooperative": [
+    {
+      "name": "WESTFIELD COOPERATIVE NURSERY SCHOOL",
+      "entityId": "0100185686",
+      "city": "WESTFIELD",
+      "type": "NP",
+      "dateFormed": "1/11/1983"
+    }
+  ],
+  "westfield townhouse": [],
+  "millville homeowners": [
+    {
+      "name": "K. HOVNANIAN'S FOUR SEASONS AT MILLVILLE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100982456",
+      "city": "MILLVILLE",
+      "type": "NP",
+      "dateFormed": "7/24/2007"
+    }
+  ],
+  "millville condominium": [
+    {
+      "name": "MILLVILLE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100389469",
+      "city": "BRIDGETON",
+      "type": "NP",
+      "dateFormed": "9/9/1988"
+    }
+  ],
+  "millville condo": [],
+  "millville property owners": [],
+  "millville community assoc": [],
+  "millville civic association": [],
+  "millville cooperative": [],
+  "millville townhouse": [],
+  "bloomfield homeowners": [],
+  "bloomfield condominium": [
+    {
+      "name": "108 BLOOMFIELD CONDOMINIUM ASSOCIATION, . A NJ NONPROFIT CORPORATION",
+      "entityId": "0400613970",
+      "city": "Hoboken",
+      "type": "NP",
+      "dateFormed": "11/10/2013"
+    },
+    {
+      "name": "306 BLOOMFIELD CONDOMINIUM ASSOCIATION LLC",
+      "entityId": "0400139288",
+      "city": "HOBOKEN",
+      "type": "LLC",
+      "dateFormed": "7/20/2006"
+    },
+    {
+      "name": "830 BLOOMFIELD CONDOMINIUM ASSOCIATIONINC.",
+      "entityId": "0100933520",
+      "city": "Hoboken",
+      "type": "NP",
+      "dateFormed": "9/29/2004"
+    },
+    {
+      "name": "84 BLOOMFIELD CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100739570",
+      "city": "HOBOKEN",
+      "type": "NP",
+      "dateFormed": "2/25/1998"
+    },
+    {
+      "name": "AVB BLOOMFIELD CONDOMINIUM ASSOCIATION INC.",
+      "entityId": "0400616938",
+      "city": "Westfield",
+      "type": "NP",
+      "dateFormed": "11/22/2013"
+    },
+    {
+      "name": "BLOOMFIELD CONDOMINIUM ASSOCIATES, L.L.C.",
+      "entityId": "0600029451",
+      "city": "BLOOMFIELD",
+      "type": "LLC",
+      "dateFormed": "7/24/1996"
+    },
+    {
+      "name": "COURT MANOR OF BLOOMFIELD CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101033555",
+      "city": "Springfield",
+      "type": "NP",
+      "dateFormed": "8/13/2014"
+    },
+    {
+      "name": "LIBERTY PLACE OF BLOOMFIELD CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101062608",
+      "city": "Bloomfield",
+      "type": "NP",
+      "dateFormed": "2/24/2023"
+    },
+    {
+      "name": "LIBERTY PLACE OF BLOOMFIELD CONDOMINIUM ASSOCIATION, LLC",
+      "entityId": "0450838577",
+      "city": "",
+      "type": "LLC",
+      "dateFormed": "7/18/2022"
+    },
+    {
+      "name": "MANAGING MEMBER BLOOMFIELD CONDOMINIUM ASSOCIATES CORP.",
+      "entityId": "0100740703",
+      "city": "",
+      "type": "DP",
+      "dateFormed": "3/30/1998"
+    },
+    {
+      "name": "SIX HUNDRED BLOOMFIELD CONDOMINIUM ASSOCIATION, A NEW JERSEY NONPROFI",
+      "entityId": "0100236444",
+      "city": "HOBOKEN",
+      "type": "NP",
+      "dateFormed": "9/4/1984"
+    }
+  ],
+  "bloomfield condo": [
+    {
+      "name": "418 BLOOMFIELD CONDO ASSOCIATION LLC",
+      "entityId": "0400325250",
+      "city": "Hoboken",
+      "type": "LLC",
+      "dateFormed": "1/10/2010"
+    },
+    {
+      "name": "728 BLOOMFIELD CONDO GROUP LLC",
+      "entityId": "0600246216",
+      "city": "JERSEY CITY",
+      "type": "LLC",
+      "dateFormed": "8/29/2005"
+    }
+  ],
+  "bloomfield property owners": [],
+  "bloomfield community assoc": [],
+  "bloomfield civic association": [],
+  "bloomfield cooperative": [],
+  "bloomfield townhouse": [],
+  "montclair homeowners": [
+    {
+      "name": "CHRISTOPHER COURT AT MONTCLAIR HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100960623",
+      "city": "WEST LONG BRANCH",
+      "type": "NP",
+      "dateFormed": "3/23/2006"
+    }
+  ],
+  "montclair condominium": [
+    {
+      "name": "THE METRO AT MONTCLAIR CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101032357",
+      "city": "MONTCLAIR",
+      "type": "NP",
+      "dateFormed": "5/13/2014"
+    },
+    {
+      "name": "TOWNHOMES OF UPPER MONTCLAIR CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100961926",
+      "city": "Upper Montclair",
+      "type": "NP",
+      "dateFormed": "4/19/2006"
+    }
+  ],
+  "montclair condo": [
+    {
+      "name": "MONTCLAIR CONDO HOLDINGS LLC",
+      "entityId": "0600478891",
+      "city": "Trumbull",
+      "type": "LLC",
+      "dateFormed": "11/14/2022"
+    }
+  ],
+  "montclair property owners": [],
+  "montclair community assoc": [],
+  "montclair civic association": [],
+  "montclair cooperative": [
+    {
+      "name": "THE FRIENDS OF MONTCLAIR COOPERATIVE SCHOOL FOUNDATION, INC.",
+      "entityId": "0100570965",
+      "city": "HACKENSACK",
+      "type": "NP",
+      "dateFormed": "11/24/1993"
+    },
+    {
+      "name": "THE MONTCLAIR COOPERATIVE SCHOOL, INC.",
+      "entityId": "0900039166",
+      "city": "MONTCLAIR",
+      "type": "NP",
+      "dateFormed": "4/24/1963"
+    }
+  ],
+  "montclair townhouse": [],
+  "maplewood homeowners": [],
+  "maplewood condominium": [
+    {
+      "name": "15 MAPLEWOOD CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0451285546",
+      "city": "PARAMUS",
+      "type": "NP",
+      "dateFormed": "5/13/2025"
+    },
+    {
+      "name": "MAPLEWOOD CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100954107",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "11/4/2005"
+    },
+    {
+      "name": "MAPLEWOOD CONDOMINIUM HOME OWNERS ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0400256121",
+      "city": "ASTON",
+      "type": "NP",
+      "dateFormed": "10/28/2008"
+    },
+    {
+      "name": "SPRINGFIELD COMMONS AT MAPLEWOOD CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100959136",
+      "city": "Morristown",
+      "type": "NP",
+      "dateFormed": "2/2/2006"
+    }
+  ],
+  "maplewood condo": [],
+  "maplewood property owners": [],
+  "maplewood community assoc": [],
+  "maplewood civic association": [],
+  "maplewood cooperative": [],
+  "maplewood townhouse": [],
+  "belleville homeowners": [],
+  "belleville condominium": [
+    {
+      "name": "CHERRY BLOSSOM AT BELLEVILLE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100330919",
+      "city": "BELLEVILLE",
+      "type": "NP",
+      "dateFormed": "3/23/1987"
+    },
+    {
+      "name": "RIVERSIDE AT BELLEVILLE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100290221",
+      "city": "Nutley",
+      "type": "NP",
+      "dateFormed": "3/7/1986"
+    },
+    {
+      "name": "THE FAIRWAY VIEW OF BELLEVILLE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100399007",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "12/14/1988"
+    },
+    {
+      "name": "THE FRANKLIN VIEW OF BELLEVILLE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100399011",
+      "city": "BELLEVILLE",
+      "type": "NP",
+      "dateFormed": "12/14/1988"
+    }
+  ],
+  "belleville condo": [],
+  "belleville property owners": [],
+  "belleville community assoc": [],
+  "belleville civic association": [],
+  "belleville cooperative": [],
+  "belleville townhouse": [],
+  "nutley homeowners": [],
+  "nutley condominium": [
+    {
+      "name": "COURTYARD TERRACE OF NUTLEY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100401221",
+      "city": "GLEN RIDGE",
+      "type": "NP",
+      "dateFormed": "1/6/1989"
+    },
+    {
+      "name": "LIBERTY PARK AT NUTLEY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100948599",
+      "city": "NUTLEY",
+      "type": "NP",
+      "dateFormed": "7/12/2005"
+    }
+  ],
+  "nutley condo": [],
+  "nutley property owners": [],
+  "nutley community assoc": [],
+  "nutley civic association": [],
+  "nutley cooperative": [],
+  "nutley townhouse": [],
+  "irvington homeowners": [],
+  "irvington condominium": [],
+  "irvington condo": [],
+  "irvington property owners": [],
+  "irvington community assoc": [],
+  "irvington civic association": [],
+  "irvington cooperative": [],
+  "irvington townhouse": [],
+  "orange homeowners": [
+    {
+      "name": "WEST ORANGE HOMEOWNERS ASSOCIATION",
+      "entityId": "0100118813",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "8/1/1980"
+    }
+  ],
+  "orange condominium": [
+    {
+      "name": "215 ORANGE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100435259",
+      "city": "EDISON",
+      "type": "NP",
+      "dateFormed": "12/6/1989"
+    },
+    {
+      "name": "BEL AIR AT WEST ORANGE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100976607",
+      "city": "WHIPPANY",
+      "type": "NP",
+      "dateFormed": "3/2/2007"
+    },
+    {
+      "name": "CARRIAGE HOUSE OF WEST ORANGE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101036049",
+      "city": "CRANFORD",
+      "type": "NP",
+      "dateFormed": "3/3/2015"
+    },
+    {
+      "name": "EAGLE RIDGE AT WEST ORANGE CONDOMINIUM ASSOCIATION, SECTION II, INC.",
+      "entityId": "0100227906",
+      "city": "Freehold",
+      "type": "NP",
+      "dateFormed": "5/24/1984"
+    },
+    {
+      "name": "EAGLE RIDGE AT WEST ORANGE CONDOMINIUM ASSOCIATION, SECTION III, INC.",
+      "entityId": "0100257799",
+      "city": "Freehold",
+      "type": "NP",
+      "dateFormed": "4/18/1985"
+    },
+    {
+      "name": "EAGLE RIDGE AT WEST ORANGE CONDOMINIUM ASSOCIATION, SECTION IV, INC.",
+      "entityId": "0100617903",
+      "city": "WHIPPANY",
+      "type": "NP",
+      "dateFormed": "2/28/1995"
+    },
+    {
+      "name": "EAGLE RIDGE AT WEST ORANGE CONDOMINIUM ASSOCIATION, SECTION IV, INC.",
+      "entityId": "0100291333",
+      "city": "Freehold",
+      "type": "NP",
+      "dateFormed": "3/17/1986"
+    },
+    {
+      "name": "EAGLE RIDGE AT WEST ORANGE CONDOMINIUM ASSOCIATION, SECTION V, INC.",
+      "entityId": "0100333974",
+      "city": "Freehold",
+      "type": "NP",
+      "dateFormed": "4/14/1987"
+    },
+    {
+      "name": "EAGLE RIDGE AT WEST ORANGE CONDOMINIUM ASSOCIATION, SECTION VI, INC",
+      "entityId": "0101042717",
+      "city": "Freehold",
+      "type": "NP",
+      "dateFormed": "10/21/2016"
+    },
+    {
+      "name": "HAYWARD HEIGHTS AT EAST ORANGE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100457764",
+      "city": "EAST ORANGE",
+      "type": "NP",
+      "dateFormed": "7/3/1990"
+    },
+    {
+      "name": "ORANGE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101033707",
+      "city": "Springfield",
+      "type": "NP",
+      "dateFormed": "8/27/2014"
+    },
+    {
+      "name": "ORANGE CONDOMINIUM URBAN RENEWAL, L.P.",
+      "entityId": "0600393606",
+      "city": "MONTCLAIR",
+      "type": "LP",
+      "dateFormed": "12/6/2012"
+    },
+    {
+      "name": "STETSON VALLEY AT WEST ORANGE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100971409",
+      "city": "SOUTH ORANGE",
+      "type": "NP",
+      "dateFormed": "11/1/2006"
+    },
+    {
+      "name": "THE WOODLANDS AT WEST ORANGE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100313175",
+      "city": "WHIPPANY",
+      "type": "NP",
+      "dateFormed": "10/6/1986"
+    }
+  ],
+  "orange condo": [],
+  "orange property owners": [
+    {
+      "name": "EAST ORANGE PROPERTY OWNERS ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0450026714",
+      "city": "EAST ORANGE",
+      "type": "NP",
+      "dateFormed": "10/26/2015"
+    },
+    {
+      "name": "EAST ORANGE PROPERTY OWNERS ASSOCIATION, INC.",
+      "entityId": "0100091870",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "7/10/1979"
+    }
+  ],
+  "orange community assoc": [],
+  "orange civic association": [
+    {
+      "name": "SOUTH ORANGE CIVIC ASSOCIATION",
+      "entityId": "0900058703",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "4/21/1942"
+    },
+    {
+      "name": "SOUTH ORANGE CIVIC ASSOCIATION FOUNDATION, INC.",
+      "entityId": "0100365297",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "2/16/1988"
+    }
+  ],
+  "orange cooperative": [
+    {
+      "name": "FRIENDS OF WEST ORANGE COOPERATIVE YESHIVA, INC",
+      "entityId": "0400409608",
+      "city": "WEST ORANGE",
+      "type": "NP",
+      "dateFormed": "4/6/2011"
+    },
+    {
+      "name": "WEST ORANGE COOPERATIVE YESHIVA, INC",
+      "entityId": "0400409578",
+      "city": "WEST ORANGE",
+      "type": "NP",
+      "dateFormed": "4/6/2011"
+    }
+  ],
+  "orange townhouse": [],
+  "south orange homeowners": [],
+  "south orange condominium": [],
+  "south orange condo": [],
+  "south orange property owners": [],
+  "south orange community assoc": [],
+  "south orange civic association": [
+    {
+      "name": "SOUTH ORANGE CIVIC ASSOCIATION FOUNDATION, INC.",
+      "entityId": "0100365297",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "2/16/1988"
+    }
+  ],
+  "south orange cooperative": [],
+  "south orange townhouse": [],
+  "east brunswick homeowners": [
+    {
+      "name": "BROOKSIDE AT EAST BRUNSWICK HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100855958",
+      "city": "EAST BRUNSWICK",
+      "type": "NP",
+      "dateFormed": "7/18/2001"
+    },
+    {
+      "name": "MAIN STREET EAST BRUNSWICK HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100909508",
+      "city": "WEST TRENTON",
+      "type": "NP",
+      "dateFormed": "8/7/2003"
+    }
+  ],
+  "east brunswick condominium": [
+    {
+      "name": "BELMONT EAST BRUNSWICK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101044548",
+      "city": "EAST WINDSOR",
+      "type": "NP",
+      "dateFormed": "4/19/2017"
+    },
+    {
+      "name": "CEDAR VILLAGE AT EAST BRUNSWICK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100908398",
+      "city": "WHIPPANY",
+      "type": "NP",
+      "dateFormed": "7/22/2003"
+    },
+    {
+      "name": "CROSSPOINTE AT EAST BRUNSWICK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100480361",
+      "city": "MILLTOWN",
+      "type": "NP",
+      "dateFormed": "4/4/1991"
+    },
+    {
+      "name": "THE CLUB AT EAST BRUNSWICK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100316652",
+      "city": "Freehold",
+      "type": "NP",
+      "dateFormed": "11/7/1986"
+    },
+    {
+      "name": "WATERFORDAT EAST BRUNSWICK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100951438",
+      "city": "EAST BRUNSWICK",
+      "type": "NP",
+      "dateFormed": "9/9/2005"
+    },
+    {
+      "name": "WINDSONG AT EAST BRUNSWICK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100679087",
+      "city": "ENGLEWD CLFS",
+      "type": "NP",
+      "dateFormed": "9/16/1996"
+    }
+  ],
+  "east brunswick condo": [],
+  "east brunswick property owners": [
+    {
+      "name": "THE WOODS OF EAST BRUNSWICK PROPERTY OWNERS ASSOCIATION",
+      "entityId": "0100200028",
+      "city": "EAST BRUNSWICK",
+      "type": "NP",
+      "dateFormed": "7/5/1983"
+    }
+  ],
+  "east brunswick community assoc": [],
+  "east brunswick civic association": [],
+  "east brunswick cooperative": [],
+  "east brunswick townhouse": [],
+  "north brunswick homeowners": [],
+  "north brunswick condominium": [
+    {
+      "name": "HEARTHWOOD AT NORTH BRUNSWICK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100369588",
+      "city": "Englewood Cliffs",
+      "type": "NP",
+      "dateFormed": "3/18/1988"
+    },
+    {
+      "name": "THE OAKS AT NORTH BRUNSWICK CONDOMINIUM ASSOCIATION",
+      "entityId": "0100135657",
+      "city": "HOWELL",
+      "type": "NP",
+      "dateFormed": "3/24/1981"
+    }
+  ],
+  "north brunswick condo": [],
+  "north brunswick property owners": [],
+  "north brunswick community assoc": [],
+  "north brunswick civic association": [],
+  "north brunswick cooperative": [],
+  "north brunswick townhouse": [],
+  "old bridge homeowners": [
+    {
+      "name": "CARRAIGE PARK AT OLD BRIDGE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0101033994",
+      "city": "MANALAPAN",
+      "type": "NP",
+      "dateFormed": "9/19/2014"
+    },
+    {
+      "name": "CLEARBROOK AT OLD BRIDGE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100272691",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "9/18/1985"
+    },
+    {
+      "name": "PRESIDENTIAL ESTATES AT OLD BRIDGE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100785301",
+      "city": "OLD BRIDGE",
+      "type": "NP",
+      "dateFormed": "6/18/1999"
+    },
+    {
+      "name": "THE COMMONS AT OLD BRIDGE HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100254714",
+      "city": "Springfield",
+      "type": "NP",
+      "dateFormed": "3/20/1985"
+    }
+  ],
+  "old bridge condominium": [
+    {
+      "name": "THE PLAZA GRANDE AT OLD BRIDGE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100932173",
+      "city": "Freehold",
+      "type": "NP",
+      "dateFormed": "9/2/2004"
+    }
+  ],
+  "old bridge condo": [],
+  "old bridge property owners": [],
+  "old bridge community assoc": [],
+  "old bridge civic association": [],
+  "old bridge cooperative": [],
+  "old bridge townhouse": [],
+  "woodbridge homeowners": [
+    {
+      "name": "WOODBRIDGE HOMEOWNERS FOR QUALITY OF LIFE A NJ NONPROFIT CORPORATION",
+      "entityId": "0400076346",
+      "city": "WOODBRIDGE",
+      "type": "NP",
+      "dateFormed": "12/15/2004"
+    }
+  ],
+  "woodbridge condominium": [
+    {
+      "name": "PARKVIEW CROSSINGS AT WOODBRIDGE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100981016",
+      "city": "NORTH BRUNSWICK",
+      "type": "NP",
+      "dateFormed": "6/14/2007"
+    },
+    {
+      "name": "TYLER GREEN AT WOODBRIDGE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100682974",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "10/17/1996"
+    },
+    {
+      "name": "WYNDMOOR AT WOODBRIDGE CONDOMINIUM ASSOCIATION",
+      "entityId": "0100149884",
+      "city": "NORTH BRUNSWICK",
+      "type": "NP",
+      "dateFormed": "9/21/1981"
+    }
+  ],
+  "woodbridge condo": [],
+  "woodbridge property owners": [],
+  "woodbridge community assoc": [],
+  "woodbridge civic association": [],
+  "woodbridge cooperative": [],
+  "woodbridge townhouse": [],
+  "edison homeowners": [],
+  "edison condominium": [
+    {
+      "name": "ASPEN AT EDISON CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100364268",
+      "city": "FLEMINGTON",
+      "type": "NP",
+      "dateFormed": "1/22/1988"
+    },
+    {
+      "name": "CENTRE PLACE AT EDISON CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100981716",
+      "city": "Springfield",
+      "type": "NP",
+      "dateFormed": "7/3/2007"
+    },
+    {
+      "name": "COLLEGE PARK AT EDISON CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100951541",
+      "city": "ISELIN",
+      "type": "NP",
+      "dateFormed": "9/13/2005"
+    },
+    {
+      "name": "THE ENCLAVE AT EDISON CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100365018",
+      "city": "MANCHESTER",
+      "type": "NP",
+      "dateFormed": "2/10/1988"
+    },
+    {
+      "name": "VILLAGE GATE AT EDISON CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100561581",
+      "city": "RIDGEFIELD PARK",
+      "type": "NP",
+      "dateFormed": "8/17/1993"
+    }
+  ],
+  "edison condo": [
+    {
+      "name": "SULTAN EDISON CONDO LLC",
+      "entityId": "0450869622",
+      "city": "STATEN ISLAND",
+      "type": "LLC",
+      "dateFormed": "9/30/2022"
+    }
+  ],
+  "edison property owners": [],
+  "edison community assoc": [],
+  "edison civic association": [],
+  "edison cooperative": [],
+  "edison townhouse": [],
+  "piscataway homeowners": [
+    {
+      "name": "HERITAGE AT PISCATAWAY HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0101010323",
+      "city": "Springfield",
+      "type": "NP",
+      "dateFormed": "7/28/2010"
+    }
+  ],
+  "piscataway condominium": [
+    {
+      "name": "CEDAR WOODS AT PISCATAWAY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101059004",
+      "city": "Highland Park",
+      "type": "NP",
+      "dateFormed": "8/20/2021"
+    },
+    {
+      "name": "MAPLE FOREST AT PISCATAWAY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100574567",
+      "city": "WARREN",
+      "type": "NP",
+      "dateFormed": "1/6/1994"
+    },
+    {
+      "name": "MAPLE GROVE AT PISCATAWAY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100673154",
+      "city": "RED BANK",
+      "type": "NP",
+      "dateFormed": "7/19/1996"
+    },
+    {
+      "name": "MAPLE WOODS AT PISCATAWAY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100896015",
+      "city": "",
+      "type": "DP",
+      "dateFormed": "1/15/2003"
+    },
+    {
+      "name": "MAPLE WOODS AT PISCATAWAY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100896193",
+      "city": "NORTH BRUNSWICK",
+      "type": "NP",
+      "dateFormed": "1/16/2003"
+    },
+    {
+      "name": "RIVERBEND AT PISCATAWAY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100968025",
+      "city": "Lebanon",
+      "type": "NP",
+      "dateFormed": "9/12/2006"
+    },
+    {
+      "name": "SOCIETY HILL AT PISCATAWAY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100279277",
+      "city": "PISCATAWAY",
+      "type": "NP",
+      "dateFormed": "11/20/1985"
+    },
+    {
+      "name": "THE COMMONS AT PISCATAWAY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100462223",
+      "city": "Springfield",
+      "type": "NP",
+      "dateFormed": "9/10/1990"
+    }
+  ],
+  "piscataway condo": [],
+  "piscataway property owners": []
 }
