@@ -1,65 +1,143 @@
-import Image from "next/image";
+"use client";
 
-export default function Home() {
+import { useState, useCallback, useEffect } from "react";
+import dynamic from "next/dynamic";
+import { HOA } from "@/types/hoa";
+import { useFilters } from "@/hooks/use-filters";
+import { exportToCSV } from "@/lib/export-csv";
+import { StatsBar } from "@/components/panels/stats-bar";
+import { FilterSidebar } from "@/components/panels/filter-sidebar";
+import { HOADetailPanel } from "@/components/panels/hoa-detail-panel";
+import { EmptyState } from "@/components/panels/empty-state";
+import { MapLoadingSkeleton } from "@/components/map/loading-skeleton";
+
+// Dynamic import for map (no SSR since Mapbox needs window)
+const MapView = dynamic(
+  () => import("@/components/map/map-view").then((mod) => mod.MapView),
+  {
+    ssr: false,
+    loading: () => <MapLoadingSkeleton />,
+  }
+);
+
+export default function HomePage() {
+  const { filters, filteredHoas, filteredStats, updateFilter, resetFilters } =
+    useFilters();
+  const [selectedHoa, setSelectedHoa] = useState<HOA | null>(null);
+  const [sidebarOpen, setSidebarOpen] = useState(true);
+  const [mapReady, setMapReady] = useState(false);
+  const [showLoading, setShowLoading] = useState(true);
+
+  const handleSelectHoa = useCallback((hoa: HOA) => {
+    setSelectedHoa(hoa);
+  }, []);
+
+  const handleCloseDetail = useCallback(() => {
+    setSelectedHoa(null);
+  }, []);
+
+  const handleExport = useCallback(() => {
+    exportToCSV(filteredHoas);
+  }, [filteredHoas]);
+
+  const handleMapReady = useCallback(() => {
+    setMapReady(true);
+    // Small delay for smooth transition
+    setTimeout(() => setShowLoading(false), 500);
+  }, []);
+
+  // Keyboard shortcuts
+  useEffect(() => {
+    const handler = (e: KeyboardEvent) => {
+      // Esc to close detail panel
+      if (e.key === "Escape") {
+        if (selectedHoa) {
+          handleCloseDetail();
+          return;
+        }
+      }
+
+      // S to toggle satellite (when not typing)
+      if (
+        e.key === "s" &&
+        !e.ctrlKey &&
+        !e.metaKey &&
+        document.activeElement?.tagName !== "INPUT" &&
+        document.activeElement?.tagName !== "SELECT"
+      ) {
+        // Toggle is handled inside MapView
+      }
+    };
+
+    window.addEventListener("keydown", handler);
+    return () => window.removeEventListener("keydown", handler);
+  }, [selectedHoa, handleCloseDetail]);
+
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex flex-1 w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
+    <div className="relative h-screen w-screen overflow-hidden bg-[#0F172A]">
+      {/* Loading overlay */}
+      {showLoading && <MapLoadingSkeleton />}
+
+      {/* Stats bar (top) */}
+      <div className="absolute top-4 left-1/2 -translate-x-1/2 z-20 hidden md:flex">
+        <StatsBar
+          total={filteredStats.total}
+          stucco={filteredStats.stucco}
+          nonStucco={filteredStats.nonStucco}
+          mixed={filteredStats.mixed}
         />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+      </div>
+
+      {/* Filter sidebar */}
+      <FilterSidebar
+        isOpen={sidebarOpen}
+        onToggle={() => setSidebarOpen((prev) => !prev)}
+        filters={filters}
+        onUpdateFilter={updateFilter}
+        onReset={resetFilters}
+        onExport={handleExport}
+        resultCount={filteredStats.total}
+      />
+
+      {/* Map */}
+      <div className="absolute inset-0">
+        <MapView
+          hoas={filteredHoas}
+          selectedHoa={selectedHoa}
+          onSelectHoa={handleSelectHoa}
+          onMapReady={handleMapReady}
+        />
+      </div>
+
+      {/* Empty state overlay */}
+      {mapReady && filteredHoas.length === 0 && (
+        <EmptyState onReset={resetFilters} />
+      )}
+
+      {/* HOA detail panel (right) */}
+      <HOADetailPanel hoa={selectedHoa} onClose={handleCloseDetail} />
+
+      {/* Mobile stats (bottom bar) */}
+      <div className="absolute bottom-0 left-0 right-0 z-20 flex md:hidden justify-center pb-4 px-4">
+        <div className="flex items-center gap-2 rounded-xl bg-slate-800/90 backdrop-blur-xl border border-slate-700/50 px-4 py-2 shadow-lg text-xs">
+          <span className="text-slate-400">
+            <span className="font-semibold text-white">{filteredStats.total}</span> HOAs
+          </span>
+          <span className="text-slate-700">|</span>
+          <span className="flex items-center gap-1">
+            <span className="h-2 w-2 rounded-full bg-orange-500" />
+            <span className="text-orange-400 font-medium">{filteredStats.stucco}</span>
+          </span>
+          <span className="flex items-center gap-1">
+            <span className="h-2 w-2 rounded-full bg-blue-500" />
+            <span className="text-blue-400 font-medium">{filteredStats.nonStucco}</span>
+          </span>
+          <span className="flex items-center gap-1">
+            <span className="h-2 w-2 rounded-full bg-purple-500" />
+            <span className="text-purple-400 font-medium">{filteredStats.mixed}</span>
+          </span>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
+      </div>
     </div>
   );
 }

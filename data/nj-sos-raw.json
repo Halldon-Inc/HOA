@@ -1,0 +1,978 @@
+[
+  {
+    "name": "HOME OWNERS ASSOCIATION OF ALPINE STREET",
+    "entityId": "0900026787",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "3/25/1964",
+    "searchTerm": "home owners association"
+  },
+  {
+    "name": "HOME OWNERS ASSOCIATION OF HOLIDAY CITY AT BERKELEY, INC.",
+    "entityId": "0900026790",
+    "city": "TOMS RIVER",
+    "type": "NP",
+    "dateFormed": "7/2/1971",
+    "searchTerm": "home owners association"
+  },
+  {
+    "name": "HOME OWNERS ASSOCIATION OF OEAN GROVE, INC.",
+    "entityId": "0900026792",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "4/7/1965",
+    "searchTerm": "home owners association"
+  },
+  {
+    "name": "THE HOME OWNERS ASSOCIATION OF COLONIAL TERRACE, NEPTUNE, INC.",
+    "entityId": "0900026789",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "4/7/1949",
+    "searchTerm": "home owners association"
+  },
+  {
+    "name": "THE HOME OWNERS ASSOCIATION OF THE CITY OF BAYONNE, NEW JERSEY",
+    "entityId": "0900026788",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "7/19/1934",
+    "searchTerm": "home owners association"
+  },
+  {
+    "name": "CONDOMINIUM ASSOCIATION 1 A NJ NONPROFIT CORPORATION",
+    "entityId": "0400139365",
+    "city": "MOUNT LAUREL",
+    "type": "NP",
+    "dateFormed": "7/21/2006",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "CONDOMINIUM ASSOCIATION 2 A NJ NONPROFIT CORPORATION",
+    "entityId": "0400139379",
+    "city": "MOUNT LAUREL",
+    "type": "NP",
+    "dateFormed": "7/21/2006",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "CONDOMINIUM ASSOCIATION FOR NASSAU SQUARE, INC.",
+    "entityId": "0100432201",
+    "city": "ENGLEWOOD CLIFFS",
+    "type": "NP",
+    "dateFormed": "10/13/1989",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "CONDOMINIUM ASSOCIATION MANAGEMENT SERVICES, INC.",
+    "entityId": "0100227861",
+    "city": "",
+    "type": "DP",
+    "dateFormed": "5/23/1984",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "CONDOMINIUM ASSOCIATION OF BRIARWOOD, INC.",
+    "entityId": "0100244406",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "12/7/1984",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "CONDOMINIUM ASSOCIATION OF GLEN HILLS, INC.",
+    "entityId": "0100563933",
+    "city": "Springfield",
+    "type": "NP",
+    "dateFormed": "9/10/1993",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "CONDOMINIUM ASSOCIATION OF HANOVER AVENUE, INC.",
+    "entityId": "0101035972",
+    "city": "MORRISTOWN",
+    "type": "NP",
+    "dateFormed": "2/24/2015",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "CONDOMINIUM ASSOCIATION OF MAHWAH, INC.",
+    "entityId": "0100457336",
+    "city": "MAHWAH",
+    "type": "NP",
+    "dateFormed": "7/13/1990",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "CONDOMINIUM ASSOCIATION OF PARKVIEW, INC.",
+    "entityId": "0100277325",
+    "city": "Freehold",
+    "type": "NP",
+    "dateFormed": "10/31/1985",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "CONDOMINIUM ASSOCIATION OF RESERVOIR RIDGE, INC.",
+    "entityId": "0100540976",
+    "city": "CALDWELL",
+    "type": "NP",
+    "dateFormed": "11/20/1992",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "CONDOMINIUM ASSOCIATION OF SEA MIST TOWNHOUSES, INC.",
+    "entityId": "0100214828",
+    "city": "Paramus",
+    "type": "NP",
+    "dateFormed": "12/30/1983",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "CONDOMINIUM ASSOCIATION OF STONE HARBOR BAY CLUB CONDOMINIUM",
+    "entityId": "0100175871",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "9/1/1982",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "CONDOMINIUM ASSOCIATION OF SUMMER WIND EAST OF BRIGANTINE, INC.",
+    "entityId": "0100246926",
+    "city": "BRIGANTINE",
+    "type": "NP",
+    "dateFormed": "1/2/1985",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "CONDOMINIUM ASSOCIATION, INC.",
+    "entityId": "0100893693",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "12/9/2002",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "THE CONDOMINIUM ASSOCIATION OF 718 GRAND ST., LLC",
+    "entityId": "0600263390",
+    "city": "",
+    "type": "LLC",
+    "dateFormed": "3/8/2006",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "THE CONDOMINIUM ASSOCIATION OF NORMANDY COURT, INC.",
+    "entityId": "0100414837",
+    "city": "Oakland",
+    "type": "NP",
+    "dateFormed": "5/4/1989",
+    "searchTerm": "condominium association"
+  },
+  {
+    "name": "CONDO ASSOCIATION AT FARM ROAD A NJ NONPROFIT CORPORATION",
+    "entityId": "0400559220",
+    "city": "SECAUCUS",
+    "type": "NP",
+    "dateFormed": "3/21/2013",
+    "searchTerm": "condo association"
+  },
+  {
+    "name": "CONDO ASSOCIATION PARTNERS LLC",
+    "entityId": "0451207961",
+    "city": "WEST CHESTER",
+    "type": "LLC",
+    "dateFormed": "11/24/2024",
+    "searchTerm": "condo association"
+  },
+  {
+    "name": "PROPERTY OWNERS ASSOCIATION OF CAPE MAY BEACH, INC.",
+    "entityId": "0900050746",
+    "city": "N CAPE MAY",
+    "type": "NP",
+    "dateFormed": "4/1/1933",
+    "searchTerm": "property owners association"
+  },
+  {
+    "name": "PROPERTY OWNERS ASSOCIATION OF COZY LAKE INCORPORATED",
+    "entityId": "0900050747",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "12/9/1965",
+    "searchTerm": "property owners association"
+  },
+  {
+    "name": "PROPERTY OWNERS ASSOCIATION OF EAGLE RIDGE, INC.",
+    "entityId": "0100151518",
+    "city": "Freehold",
+    "type": "NP",
+    "dateFormed": "10/8/1981",
+    "searchTerm": "property owners association"
+  },
+  {
+    "name": "PROPERTY OWNERS ASSOCIATION OF GREATER NEW YORK CORP",
+    "entityId": "0450490327",
+    "city": "MOUNTAINSIDE",
+    "type": "NP",
+    "dateFormed": "5/14/2020",
+    "searchTerm": "property owners association"
+  },
+  {
+    "name": "PROPERTY OWNERS ASSOCIATION OF HACKENSACK, INC.",
+    "entityId": "0900050752",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "7/27/1960",
+    "searchTerm": "property owners association"
+  },
+  {
+    "name": "PROPERTY OWNERS ASSOCIATION OF HOBOKEN, NEW JERSEY",
+    "entityId": "0900050748",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "4/7/1908",
+    "searchTerm": "property owners association"
+  },
+  {
+    "name": "PROPERTY OWNERS ASSOCIATION OF LAKE LENAPE",
+    "entityId": "0900050753",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "7/19/1957",
+    "searchTerm": "property owners association"
+  },
+  {
+    "name": "PROPERTY OWNERS ASSOCIATION OF ORANGE",
+    "entityId": "0900050755",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "7/17/1943",
+    "searchTerm": "property owners association"
+  },
+  {
+    "name": "THE PROPERTY OWNERS ASSOCIATION OF BRETON WOODS, INC.",
+    "entityId": "7209301000",
+    "city": "BRICK",
+    "type": "DP",
+    "dateFormed": "9/1/1943",
+    "searchTerm": "property owners association"
+  },
+  {
+    "name": "THE PROPERTY OWNERS ASSOCIATION OF SEASIDE HEIGHTS, INC.",
+    "entityId": "0100694259",
+    "city": "SEASIDE HEIGHTS",
+    "type": "NP",
+    "dateFormed": "2/3/1997",
+    "searchTerm": "property owners association"
+  },
+  {
+    "name": "THE PROPERTY OWNERS ASSOCIATION, INC. OF THE BOROUGH OF FORT LEE",
+    "entityId": "0900050750",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "3/5/1928",
+    "searchTerm": "property owners association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION ADVISORS LLC",
+    "entityId": "0450605590",
+    "city": "MIDDLESEX",
+    "type": "LLC",
+    "dateFormed": "2/15/2021",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION APPRAISERS, INC.",
+    "entityId": "0100508024",
+    "city": "FLANDERS",
+    "type": "DP",
+    "dateFormed": "2/7/1992",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION COMPLIANCE INC.",
+    "entityId": "0451285470",
+    "city": "STATEN ISLAND",
+    "type": "FR",
+    "dateFormed": "5/13/2025",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION CONSULTANTS LLC",
+    "entityId": "0451417306",
+    "city": "LAVALLETTE",
+    "type": "LLC",
+    "dateFormed": "2/19/2026",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION DEVELOPERS",
+    "entityId": "0100069155",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "8/15/1978",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION FOR ADVANCEMENT OF BOUDETTE, INC.",
+    "entityId": "0100884186",
+    "city": "LINDEN",
+    "type": "NP",
+    "dateFormed": "6/10/2002",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION FOR PUERTORICAN ACTION (CAPA)",
+    "entityId": "0900012661",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "4/6/1971",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION FOR RESPONSIBLE EDUCATION OF BRIELLE, INC.",
+    "entityId": "0100276330",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "10/23/1985",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION FOR REVITALIZATION AND EMPOWERMENT CORPORATION",
+    "entityId": "0450842814",
+    "city": "S. PLAINFIELD",
+    "type": "NP",
+    "dateFormed": "7/27/2022",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION FUNDING COMPANY",
+    "entityId": "0100675104",
+    "city": "NORRISTOWN",
+    "type": "DP",
+    "dateFormed": "8/8/1996",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION INFORMATION SERVICES, INC.",
+    "entityId": "0100525250",
+    "city": "HIGHLAND PARK",
+    "type": "DP",
+    "dateFormed": "7/23/1992",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION INSURANCE SOLUTIONS, LLC",
+    "entityId": "0600459056",
+    "city": "Charlotte",
+    "type": "FLC",
+    "dateFormed": "4/9/2019",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION LENDING LLC",
+    "entityId": "0400153587",
+    "city": "CHERRY HILL",
+    "type": "LLC",
+    "dateFormed": "11/14/2006",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION MANAGEMENT COMPANY, INC.",
+    "entityId": "0100040355",
+    "city": "",
+    "type": "FR",
+    "dateFormed": "5/17/1977",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION MANAGEMENT PARTNERS, L.L.C.",
+    "entityId": "0600099184",
+    "city": "EASTON",
+    "type": "LLC",
+    "dateFormed": "10/4/2000",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION MASTERS, LLC",
+    "entityId": "0600203056",
+    "city": "CLARKSBURG",
+    "type": "LLC",
+    "dateFormed": "5/20/2004",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION NORTHEAST RIDGEWOOD, INC.",
+    "entityId": "0900012660",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "8/6/1958",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION OF HARSIMUS COVE, INC.",
+    "entityId": "0100174056",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "8/4/1982",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION OF MUTUAL AID, INC.",
+    "entityId": "0100898635",
+    "city": "TRENTON",
+    "type": "NP",
+    "dateFormed": "2/24/2003",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION OF NEWARK,N.J.",
+    "entityId": "0900012658",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "6/21/1920",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION OF NJ, INC.",
+    "entityId": "0100902225",
+    "city": "FORT LEE",
+    "type": "NP",
+    "dateFormed": "4/15/2003",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION OF SOUTH SCOTCH PLAINS",
+    "entityId": "0900012662",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "8/23/1949",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION PROGRAMS, INC.",
+    "entityId": "0101064210",
+    "city": "Tampa",
+    "type": "FR",
+    "dateFormed": "1/30/2024",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION SERVICES, INC.",
+    "entityId": "0100535197",
+    "city": "OAK RIDGE",
+    "type": "DP",
+    "dateFormed": "11/24/1992",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION SERVICES, INCORPORATED",
+    "entityId": "0100011129",
+    "city": "",
+    "type": "FR",
+    "dateFormed": "1/26/1976",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION UNDERWRITERS OF AMERICA,  INC.",
+    "entityId": "0101056673",
+    "city": "Irvine",
+    "type": "FR",
+    "dateFormed": "10/27/2020",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATION UNDERWRITERS OF AMERICA, INC.",
+    "entityId": "0100817628",
+    "city": "NEWTOWN",
+    "type": "FR",
+    "dateFormed": "3/3/2000",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATIONS INSTITUTE - NEW JERSEY CHAPTER, INC.",
+    "entityId": "0100069012",
+    "city": "FREEHOLD",
+    "type": "NP",
+    "dateFormed": "8/11/1978",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATIONS OF MAHWAH, INC.",
+    "entityId": "0100888461",
+    "city": "MAHWAH",
+    "type": "NP",
+    "dateFormed": "9/23/2002",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "COMMUNITY ASSOCIATIONS POLITICAL ACTION COMMITTEE, NEW JERSEY, INC.",
+    "entityId": "0100683863",
+    "city": "Freehold",
+    "type": "NP",
+    "dateFormed": "10/23/1996",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "THE COMMUNITY ASSOCIATION OF HACKENSACK A NJ NONPROFIT CORPORATION",
+    "entityId": "0450411094",
+    "city": "HACKENSACK",
+    "type": "NP",
+    "dateFormed": "8/22/2019",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "THE COMMUNITY ASSOCIATION OF PROSPECT POINT, INC.",
+    "entityId": "0900012659",
+    "city": "LAKE HOPATCONG",
+    "type": "NP",
+    "dateFormed": "2/10/1975",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "THE COMMUNITY ASSOCIATION OF THE HIGHLANDS, INC.",
+    "entityId": "0100643646",
+    "city": "RINGWOOD",
+    "type": "NP",
+    "dateFormed": "10/30/1995",
+    "searchTerm": "community association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION FOR GOOD GOVERNMENT(FORMERLY DEMOCRATIC PARTY OF NEW",
+    "entityId": "0900011059",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "6/10/1971",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION FOR RESPONSIBLE EDUCATION",
+    "entityId": "0100193442",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "4/14/1983",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF AUDUBON, NEW JERSEY",
+    "entityId": "0900011051",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "6/23/1919",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF BRIARCREST",
+    "entityId": "0100099770",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "10/29/1979",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF BROOKFIELDS",
+    "entityId": "0900011053",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "2/6/1957",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF CHERRY HILL ESTATES",
+    "entityId": "0900011055",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "1/29/1960",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF ENGLEWOOD.",
+    "entityId": "0900011056",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "7/6/1911",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF ESSEX COUNTY",
+    "entityId": "0900011057",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "11/21/1927",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF GLEN VIEW",
+    "entityId": "0900011058",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "6/4/1959",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF HAWORTH",
+    "entityId": "0900011061",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "2/7/1923",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF LITTLE SILVER, INC.",
+    "entityId": "0900011062",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "8/26/1959",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF MONTVILLE TOWNSHIP, MORRIS COUNTY, NEW JERSEY.",
+    "entityId": "0900011064",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "7/18/1913",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF PINE HILL BOROUGH",
+    "entityId": "0900011069",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "4/12/1955",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF SCOTCH PLAINS, NEW JERSEY",
+    "entityId": "0900011070",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "2/25/1943",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF SOUTH ORANGE",
+    "entityId": "0900011071",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "3/16/1935",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF THE BOROUGH OF ALLENDALE, NEW JERSEY",
+    "entityId": "0900011052",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "8/12/1946",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF THE RESIDENTS OF UNION CITY, INC.",
+    "entityId": "0100319872",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "12/9/1986",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF TRENTON, N. J.",
+    "entityId": "0900011072",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "4/14/1915",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION OF UNION BEACH, N.J.",
+    "entityId": "0900011073",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "8/22/1939",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "CIVIC ASSOCIATION TEAM WEST NEW YORK, INC.",
+    "entityId": "0100777413",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "4/6/1999",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "THE CIVIC ASSOCIATION OF CEDAR BONNETT",
+    "entityId": "0900011054",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "8/5/1949",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "THE CIVIC ASSOCIATION OF HARRELL-GRANDVIEW AREA, INC., OF WILLIAMSTOWN",
+    "entityId": "0900011060",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "7/5/1972",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "THE CIVIC ASSOCIATION OF MONMOUTH HEIGHTS IN MARLBORO.",
+    "entityId": "0900011063",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "5/12/1969",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "THE CIVIC ASSOCIATION OF MORRIS TOWNSHIP",
+    "entityId": "0900011065",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "4/25/1960",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "THE CIVIC ASSOCIATION OF NEW MARKET, NEW JERSEY INCORPORATED.",
+    "entityId": "0900011066",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "5/20/1925",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "THE CIVIC ASSOCIATION OF NORTH ARLINGTON",
+    "entityId": "0900011067",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "8/17/1940",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "THE CIVIC ASSOCIATION OF PEQUANNOCK TOWNSHIP",
+    "entityId": "0900011068",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "8/24/1959",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "THE CIVIC ASSOCIATION OF WASHINGTON TOWNSHIP NEW JERSEY",
+    "entityId": "0900011074",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "3/1/1965",
+    "searchTerm": "civic association"
+  },
+  {
+    "name": "MAINTENANCE CORPORATION OF NEW JERSEY, INC.",
+    "entityId": "0100999906",
+    "city": "VINELAND",
+    "type": "DP",
+    "dateFormed": "3/19/2009",
+    "searchTerm": "maintenance corporation"
+  },
+  {
+    "name": "COOPERATIVE HOUSING CORPORATION",
+    "entityId": "0100316006",
+    "city": "WARREN",
+    "type": "NP",
+    "dateFormed": "10/31/1986",
+    "searchTerm": "cooperative housing"
+  },
+  {
+    "name": "COOPERATIVE HOUSING SOLUTIONS L.L.C.",
+    "entityId": "0451143897",
+    "city": "PISCATAWAY TOWNSHIP",
+    "type": "LLC",
+    "dateFormed": "6/21/2024",
+    "searchTerm": "cooperative housing"
+  },
+  {
+    "name": "VILLAGE CONDOMINIUMS",
+    "entityId": "0100203840",
+    "city": "Fairview",
+    "type": "NP",
+    "dateFormed": "8/22/1983",
+    "searchTerm": "village condominium"
+  },
+  {
+    "name": "THE VILLAGE CONDOOMINIUM AT FAR HILLS A NON PROFIT CORPORATION",
+    "entityId": "0100812980",
+    "city": "FAR HILLS",
+    "type": "NP",
+    "dateFormed": "4/6/2000",
+    "searchTerm": "village condo"
+  },
+  {
+    "name": "VILLAGE CONDOS III LLC",
+    "entityId": "0450501294",
+    "city": "JERSEY CITY",
+    "type": "LLC",
+    "dateFormed": "6/16/2020",
+    "searchTerm": "village condo"
+  },
+  {
+    "name": "VILLAGE HOMEOWNERS ASSOCIATION",
+    "entityId": "0900065823",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "1/13/1958",
+    "searchTerm": "village homeowners"
+  },
+  {
+    "name": "THE MANOR CONDOMINIUM ASSOCIATION, INCORPORATED",
+    "entityId": "0100369209",
+    "city": "Neptune City",
+    "type": "NP",
+    "dateFormed": "3/17/1988",
+    "searchTerm": "manor condominium"
+  },
+  {
+    "name": "THE COMMONS CONDOMINIUM ASSOCIATION, INC.",
+    "entityId": "0100277332",
+    "city": "CRANBURY",
+    "type": "NP",
+    "dateFormed": "10/31/1985",
+    "searchTerm": "commons condominium"
+  },
+  {
+    "name": "THE PARK CONDOMINIUM ASSOCIATION, INC.",
+    "entityId": "0100168582",
+    "city": "NORTH BERGEN",
+    "type": "NP",
+    "dateFormed": "5/24/1982",
+    "searchTerm": "park condominium"
+  },
+  {
+    "name": "GARDENS CONDOMINIUM ASSOCIATION, INC.",
+    "entityId": "0100519857",
+    "city": "NORTH WILDWOOD",
+    "type": "NP",
+    "dateFormed": "6/3/1992",
+    "searchTerm": "gardens condominium"
+  },
+  {
+    "name": "THE GARDENS HOMEOWNERS ASSOCIATION, INC.",
+    "entityId": "0100973003",
+    "city": "TOMS RIVER",
+    "type": "NP",
+    "dateFormed": "12/21/2006",
+    "searchTerm": "gardens homeowners"
+  },
+  {
+    "name": "RIDGE HOMEOWNERS ASSOCIATION, INC.",
+    "entityId": "0100635878",
+    "city": "MAYS LANDING",
+    "type": "NP",
+    "dateFormed": "8/10/1995",
+    "searchTerm": "ridge homeowners"
+  },
+  {
+    "name": "THE RIDGE CONDOMINIUM ASSOCIATION",
+    "entityId": "0100174779",
+    "city": "Oakland",
+    "type": "NP",
+    "dateFormed": "8/12/1982",
+    "searchTerm": "ridge condominium"
+  },
+  {
+    "name": "THE MEADOWS CONDOMINIUM ASSOCIATION",
+    "entityId": "0000020264",
+    "city": "FLEMINGTON",
+    "type": "NP",
+    "dateFormed": "10/25/1974",
+    "searchTerm": "meadows condominium"
+  },
+  {
+    "name": "THE MEADOWS CONDOMINIUM ASSOCIATION OF NORTH WILDWOOD, INC.",
+    "entityId": "0100293751",
+    "city": "WILDWOOD",
+    "type": "NP",
+    "dateFormed": "4/4/1986",
+    "searchTerm": "meadows condominium"
+  },
+  {
+    "name": "THE CROSSING CONDOMINIUM ASSOCIATION, INC.",
+    "entityId": "0100903316",
+    "city": "HOBOKEN",
+    "type": "NP",
+    "dateFormed": "5/1/2003",
+    "searchTerm": "crossing condominium"
+  },
+  {
+    "name": "THE GLEN HOMEOWNERS ASSOCIATION, INC.",
+    "entityId": "0100190266",
+    "city": "PRINCETON",
+    "type": "NP",
+    "dateFormed": "3/9/1983",
+    "searchTerm": "glen homeowners"
+  },
+  {
+    "name": "THE TERRACE HOMEOWNERS ASSOCIATION",
+    "entityId": "0100186860",
+    "city": "LEONIA",
+    "type": "NP",
+    "dateFormed": "1/26/1983",
+    "searchTerm": "terrace homeowners"
+  },
+  {
+    "name": "THE TERRACE CONDOMINIUM ASSOCIATION, INC.",
+    "entityId": "0100162792",
+    "city": "TOTOWA",
+    "type": "NP",
+    "dateFormed": "3/10/1982",
+    "searchTerm": "terrace condominium"
+  },
+  {
+    "name": "OWNERS ASSOCIATION INC.",
+    "entityId": "0100375826",
+    "city": "SOMERVILLE",
+    "type": "DP",
+    "dateFormed": "5/10/1988",
+    "searchTerm": "owners association inc"
+  },
+  {
+    "name": "RESIDENTS ASSOCIATION OF CEDAR GLEN LAKES, INC.",
+    "entityId": "0100110346",
+    "city": "LAKEHURST",
+    "type": "NP",
+    "dateFormed": "4/2/1980",
+    "searchTerm": "residents association"
+  },
+  {
+    "name": "TENANT ASSOCIATION OF ELIZABETH, N.J.",
+    "entityId": "0900061202",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "10/20/1970",
+    "searchTerm": "tenant association"
+  },
+  {
+    "name": "TENANTS ASSOCIATION OF PIONEER HOMES, INC.",
+    "entityId": "0100730876",
+    "city": "ELIZABETH",
+    "type": "NP",
+    "dateFormed": "1/7/1998",
+    "searchTerm": "tenants association"
+  },
+  {
+    "name": "TENANTS ASSOCIATION OF WILLIAMSBURG SOUTH, INC.",
+    "entityId": "0100146087",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "8/3/1981",
+    "searchTerm": "tenants association"
+  },
+  {
+    "name": "THE HOUSING COOPERATIVE INC.",
+    "entityId": "0100648986",
+    "city": "FAIRFIELD",
+    "type": "DP",
+    "dateFormed": "12/18/1995",
+    "searchTerm": "housing cooperative"
+  },
+  {
+    "name": "MUTUAL HOUSING SPONSORS, INC.",
+    "entityId": "0900040532",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "8/3/1959",
+    "searchTerm": "mutual housing"
+  }
+]
