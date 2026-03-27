@@ -73804,5 +73804,609 @@
       "type": "NP",
       "dateFormed": "1/6/1986"
     }
-  ]
+  ],
+  "clifton property owners": [],
+  "clifton community assoc": [],
+  "clifton civic association": [],
+  "clifton cooperative": [],
+  "clifton townhouse": [],
+  "passaic homeowners": [
+    {
+      "name": "PASSAIC HOMEOWNERS AND TAXPAYERS ASSOCIATION, INC.",
+      "entityId": "0100617393",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "2/22/1995"
+    }
+  ],
+  "passaic condominium": [
+    {
+      "name": "ALARIS HEALTH PASSAIC CONDOMINIUM ASSOCIATION INC.",
+      "entityId": "0450175291",
+      "city": "TOMS RIVER",
+      "type": "NP",
+      "dateFormed": "6/9/2017"
+    },
+    {
+      "name": "VAN HOUTEN MANOR AT PASSAIC CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101003222",
+      "city": "FLEMINGTON",
+      "type": "NP",
+      "dateFormed": "8/14/2009"
+    }
+  ],
+  "passaic condo": [],
+  "passaic property owners": [],
+  "passaic community assoc": [],
+  "passaic civic association": [],
+  "passaic cooperative": [],
+  "passaic townhouse": [],
+  "union city homeowners": [],
+  "union city condominium": [
+    {
+      "name": "PARK WEST OF UNION CITY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100952612",
+      "city": "Hoboken",
+      "type": "NP",
+      "dateFormed": "10/3/2005"
+    }
+  ],
+  "union city condo": [
+    {
+      "name": "TETRA UNION CITY CONDO LLC",
+      "entityId": "0400662242",
+      "city": "UNION CITY",
+      "type": "LLC",
+      "dateFormed": "5/28/2014"
+    }
+  ],
+  "union city property owners": [],
+  "union city community assoc": [],
+  "union city civic association": [
+    {
+      "name": "UNION CITY CIVIC ASSOCIATION INC.",
+      "entityId": "0100379923",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "6/10/1988"
+    }
+  ],
+  "union city cooperative": [],
+  "union city townhouse": [],
+  "bayonne homeowners": [],
+  "bayonne condominium": [
+    {
+      "name": "107 BAYONNE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100455152",
+      "city": "RANDOLPH",
+      "type": "NP",
+      "dateFormed": "5/24/1990"
+    },
+    {
+      "name": "29 WEST 24TH STREET BAYONNE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100325924",
+      "city": "BAYONNE",
+      "type": "NP",
+      "dateFormed": "2/4/1987"
+    },
+    {
+      "name": "BAYRIDGE AT BAYONNE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100988468",
+      "city": "Hoboken",
+      "type": "NP",
+      "dateFormed": "1/18/2008"
+    }
+  ],
+  "bayonne condo": [],
+  "bayonne property owners": [],
+  "bayonne community assoc": [],
+  "bayonne civic association": [],
+  "bayonne cooperative": [],
+  "bayonne townhouse": [],
+  "east orange homeowners": [],
+  "east orange condominium": [
+    {
+      "name": "HAYWARD HEIGHTS AT EAST ORANGE CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100457764",
+      "city": "EAST ORANGE",
+      "type": "NP",
+      "dateFormed": "7/3/1990"
+    }
+  ],
+  "east orange condo": [],
+  "east orange property owners": [
+    {
+      "name": "EAST ORANGE PROPERTY OWNERS ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0450026714",
+      "city": "EAST ORANGE",
+      "type": "NP",
+      "dateFormed": "10/26/2015"
+    },
+    {
+      "name": "EAST ORANGE PROPERTY OWNERS ASSOCIATION, INC.",
+      "entityId": "0100091870",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "7/10/1979"
+    }
+  ],
+  "east orange community assoc": [],
+  "east orange civic association": [],
+  "east orange cooperative": [],
+  "east orange townhouse": [],
+  "vineland homeowners": [
+    {
+      "name": "FOREST GLEN VINELAND HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0101017205",
+      "city": "Middlesex",
+      "type": "NP",
+      "dateFormed": "8/8/2011"
+    },
+    {
+      "name": "MADISON SQUARE OF VINELAND HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0100942489",
+      "city": "VINELAND",
+      "type": "NP",
+      "dateFormed": "3/18/2005"
+    }
+  ],
+  "vineland condominium": [],
+  "vineland condo": [],
+  "vineland property owners": [],
+  "vineland community assoc": [],
+  "vineland civic association": [
+    {
+      "name": "EAST VINELAND CIVIC ASSOCIATION",
+      "entityId": "0900016588",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "4/19/1926"
+    }
+  ],
+  "vineland cooperative": [
+    {
+      "name": "VINELAND COOPERATIVE PRODUCE AUCTION ASSOCIATION, INC.",
+      "entityId": "0900065896",
+      "city": "VINELAND",
+      "type": "NP",
+      "dateFormed": "5/19/1931"
+    }
+  ],
+  "vineland townhouse": [],
+  "north bergen homeowners": [],
+  "north bergen condominium": [
+    {
+      "name": "907 COLUMBIA AVENUE NORTH BERGEN CONDOMINIUM ASSOCIATION INC.",
+      "entityId": "0451145391",
+      "city": "NORTH BERGEN",
+      "type": "NP",
+      "dateFormed": "6/25/2024"
+    },
+    {
+      "name": "AVB NORTH BERGEN CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101032262",
+      "city": "Westfield",
+      "type": "NP",
+      "dateFormed": "5/5/2014"
+    },
+    {
+      "name": "HUDSON VIEW AT NORTH BERGEN CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100400748",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "12/29/1988"
+    }
+  ],
+  "north bergen condo": [],
+  "north bergen property owners": [],
+  "north bergen community assoc": [],
+  "north bergen civic association": [],
+  "north bergen cooperative": [],
+  "north bergen townhouse": [],
+  "hoboken homeowners": [],
+  "hoboken condominium": [
+    {
+      "name": "GRAND COURT HOBOKEN CONDOMINIUM ASSOOCIATION, INC.",
+      "entityId": "0100374258",
+      "city": "RAHWAY",
+      "type": "NP",
+      "dateFormed": "4/27/1988"
+    },
+    {
+      "name": "HOBOKEN CONDOMINIUM CORP.",
+      "entityId": "0100200394",
+      "city": "",
+      "type": "DP",
+      "dateFormed": "7/19/1983"
+    },
+    {
+      "name": "MADISON COURT HOBOKEN CONDOMINIUM ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0450028131",
+      "city": "HOBOKEN",
+      "type": "NP",
+      "dateFormed": "11/2/2015"
+    },
+    {
+      "name": "SATORI HOBOKEN CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101006095",
+      "city": "HOBOKEN",
+      "type": "NP",
+      "dateFormed": "1/7/2010"
+    },
+    {
+      "name": "THE CLUB HOBOKEN CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100429447",
+      "city": "Hoboken",
+      "type": "NP",
+      "dateFormed": "10/4/1989"
+    },
+    {
+      "name": "THE RITZ AT HOBOKEN CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100361986",
+      "city": "HOBOKEN",
+      "type": "NP",
+      "dateFormed": "1/21/1988"
+    },
+    {
+      "name": "THE SKYLINE AT HOBOKEN CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100279475",
+      "city": "HOBOKEN",
+      "type": "NP",
+      "dateFormed": "11/21/1985"
+    },
+    {
+      "name": "VELA HOBOKEN CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101050735",
+      "city": "Hoboken",
+      "type": "NP",
+      "dateFormed": "1/14/2019"
+    },
+    {
+      "name": "VESTA HOBOKEN CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101002266",
+      "city": "HOBOKEN",
+      "type": "NP",
+      "dateFormed": "7/1/2009"
+    }
+  ],
+  "hoboken condo": [
+    {
+      "name": "308 WEST HOBOKEN CONDO ASSOCIATION INC",
+      "entityId": "0400245539",
+      "city": "NORTH BERGEN",
+      "type": "NP",
+      "dateFormed": "8/15/2008"
+    },
+    {
+      "name": "HOBOKEN CONDO MANAGEMENT LLC",
+      "entityId": "0451102045",
+      "city": "HOBOKEN",
+      "type": "LLC",
+      "dateFormed": "3/18/2024"
+    }
+  ],
+  "hoboken property owners": [],
+  "hoboken community assoc": [],
+  "hoboken civic association": [],
+  "hoboken cooperative": [],
+  "hoboken townhouse": [],
+  "perth amboy homeowners": [],
+  "perth amboy condominium": [
+    {
+      "name": "FEDERAL HILL AT PERTH AMBOY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100938871",
+      "city": "NORTH BRUNSWICK",
+      "type": "NP",
+      "dateFormed": "1/13/2005"
+    },
+    {
+      "name": "HIDDEN VILLAGE AT PERTH AMBOY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100424370",
+      "city": "WOODBRIDGE",
+      "type": "NP",
+      "dateFormed": "8/11/1989"
+    },
+    {
+      "name": "RIVERVIEW AT PERTH AMBOY CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100738651",
+      "city": "PERTH AMBOY",
+      "type": "NP",
+      "dateFormed": "3/13/1998"
+    }
+  ],
+  "perth amboy condo": [],
+  "perth amboy property owners": [],
+  "perth amboy community assoc": [],
+  "perth amboy civic association": [],
+  "perth amboy cooperative": [],
+  "perth amboy townhouse": [],
+  "plainfield homeowners": [],
+  "plainfield condominium": [
+    {
+      "name": "CELEBRATIONS AT SOUTH PLAINFIELD CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101024053",
+      "city": "New Brunswick",
+      "type": "NP",
+      "dateFormed": "10/5/2012"
+    },
+    {
+      "name": "HORIZONS AT PLAINFIELD CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100878034",
+      "city": "ARDSLEY",
+      "type": "NP",
+      "dateFormed": "4/30/2002"
+    }
+  ],
+  "plainfield condo": [],
+  "plainfield property owners": [
+    {
+      "name": "PLAINFIELD PROPERTY OWNERS AND MANAGERS ASSOCIATION, INC.",
+      "entityId": "0100272940",
+      "city": "SCOTCH PLAINS",
+      "type": "DP",
+      "dateFormed": "9/20/1985"
+    }
+  ],
+  "plainfield community assoc": [],
+  "plainfield civic association": [],
+  "plainfield cooperative": [
+    {
+      "name": "PLAINFIELD COOPERATIVE NURSERY SCHOOL, INC.",
+      "entityId": "0900049256",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "12/3/1954"
+    }
+  ],
+  "plainfield townhouse": [],
+  "hackensack homeowners": [],
+  "hackensack condominium": [
+    {
+      "name": "GROVE STREET HACKENSACK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100984175",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "9/11/2007"
+    },
+    {
+      "name": "HACKENSACK CONDOMINIUM CORP.",
+      "entityId": "0100200686",
+      "city": "",
+      "type": "DP",
+      "dateFormed": "7/22/1983"
+    },
+    {
+      "name": "THE AMBIANCE AT HACKENSACK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100922487",
+      "city": "WHIPPANY",
+      "type": "NP",
+      "dateFormed": "3/17/2004"
+    },
+    {
+      "name": "THE CLAREMONT HACKENSACK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100402531",
+      "city": "HACKENSACK",
+      "type": "NP",
+      "dateFormed": "1/4/1989"
+    }
+  ],
+  "hackensack condo": [],
+  "hackensack property owners": [],
+  "hackensack community assoc": [],
+  "hackensack civic association": [],
+  "hackensack cooperative": [],
+  "hackensack townhouse": [],
+  "kearny homeowners": [],
+  "kearny condominium": [],
+  "kearny condo": [],
+  "kearny property owners": [
+    {
+      "name": "KEARNY PROPERTY OWNERS ASSOCIATION, INC.",
+      "entityId": "0100409041",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "3/14/1989"
+    }
+  ],
+  "kearny community assoc": [],
+  "kearny civic association": [],
+  "kearny cooperative": [
+    {
+      "name": "KEARNY COOPERATIVE SEWAGE ASSOCIATION, INC.",
+      "entityId": "0900031644",
+      "city": "KEARNY",
+      "type": "NP",
+      "dateFormed": "2/10/1964"
+    }
+  ],
+  "kearny townhouse": [],
+  "linden homeowners": [],
+  "linden condominium": [
+    {
+      "name": "PARK AT LINDEN CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100999791",
+      "city": "Morristown",
+      "type": "NP",
+      "dateFormed": "3/16/2009"
+    }
+  ],
+  "linden condo": [],
+  "linden property owners": [],
+  "linden community assoc": [],
+  "linden civic association": [],
+  "linden cooperative": [],
+  "linden townhouse": [],
+  "west new york homeowners": [],
+  "west new york condominium": [
+    {
+      "name": "WEST NEW YORK CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100412313",
+      "city": "WESTWOOD",
+      "type": "NP",
+      "dateFormed": "3/23/1989"
+    }
+  ],
+  "west new york condo": [],
+  "west new york property owners": [],
+  "west new york community assoc": [],
+  "west new york civic association": [
+    {
+      "name": "WE ARE WEST NEW YORK CIVIC ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0450519370",
+      "city": "WEST NEW YORK",
+      "type": "NP",
+      "dateFormed": "7/27/2020"
+    }
+  ],
+  "west new york cooperative": [],
+  "west new york townhouse": [],
+  "atlantic city homeowners": [],
+  "atlantic city condominium": [
+    {
+      "name": "ATLANTIC CITY CONDOMINIUM RESIDENCES, INC.",
+      "entityId": "0100231032",
+      "city": "",
+      "type": "FR",
+      "dateFormed": "6/27/1984"
+    }
+  ],
+  "atlantic city condo": [],
+  "atlantic city property owners": [],
+  "atlantic city community assoc": [],
+  "atlantic city civic association": [
+    {
+      "name": "WEST ATLANTIC CITY CIVIC ASSOCIATION",
+      "entityId": "0100154607",
+      "city": "WEST ATLANTIC CITY",
+      "type": "NP",
+      "dateFormed": "11/17/1981"
+    }
+  ],
+  "atlantic city cooperative": [
+    {
+      "name": "ATLANTIC CITY COOPERATIVE ADVERTISING, INC.",
+      "entityId": "0900003314",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "6/13/1955"
+    }
+  ],
+  "atlantic city townhouse": [],
+  "long branch homeowners": [
+    {
+      "name": "RIVER POINTE AT LONG BRANCH HOMEOWNERS ASSOCIATION A NJ NONPROFIT CORPORATION",
+      "entityId": "0400266447",
+      "city": "Long Branch",
+      "type": "NP",
+      "dateFormed": "1/13/2009"
+    },
+    {
+      "name": "TOWNES AT WEST LONG BRANCH HOMEOWNERS ASSOCIATION, INC.",
+      "entityId": "0101066451",
+      "city": "",
+      "type": "NP",
+      "dateFormed": "6/5/2025"
+    }
+  ],
+  "long branch condominium": [
+    {
+      "name": "OCEAN POINTE AT LONG BRANCH CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100381286",
+      "city": "ALLENHURST",
+      "type": "NP",
+      "dateFormed": "6/27/1988"
+    },
+    {
+      "name": "SOUTH BEACH AT LONG BRANCH CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101052656",
+      "city": "North Brunswick",
+      "type": "NP",
+      "dateFormed": "7/11/2019"
+    },
+    {
+      "name": "THE LAUREL AT LONG BRANCH CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100846606",
+      "city": "LONG BRANCH",
+      "type": "NP",
+      "dateFormed": "3/27/2001"
+    },
+    {
+      "name": "THE SHORES OF LONG BRANCH CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100939642",
+      "city": "Allenhurst",
+      "type": "NP",
+      "dateFormed": "1/26/2005"
+    },
+    {
+      "name": "WINDING BROOK AT WEST LONG BRANCH CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100271150",
+      "city": "Farmingdale",
+      "type": "NP",
+      "dateFormed": "9/6/1985"
+    }
+  ],
+  "long branch condo": [
+    {
+      "name": "THE FIELDS AT WEST LONG BRANCH CONDO ASSOCIATION INC.",
+      "entityId": "0450170818",
+      "city": "Oakhurst",
+      "type": "NP",
+      "dateFormed": "5/24/2017"
+    }
+  ],
+  "long branch property owners": [],
+  "long branch community assoc": [],
+  "long branch civic association": [],
+  "long branch cooperative": [],
+  "long branch townhouse": [],
+  "garfield homeowners": [],
+  "garfield condominium": [
+    {
+      "name": "SIGNATURE PLACE AT GARFIELD CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101012825",
+      "city": "FAIRFIELD",
+      "type": "NP",
+      "dateFormed": "12/9/2010"
+    }
+  ],
+  "garfield condo": [
+    {
+      "name": "202-204 E GARFIELD CONDO ASSOCIATION LLC",
+      "entityId": "0450284824",
+      "city": "MOUNT LAUREL",
+      "type": "LLC",
+      "dateFormed": "7/2/2018"
+    }
+  ],
+  "garfield property owners": [],
+  "garfield community assoc": [],
+  "garfield civic association": [],
+  "garfield cooperative": [],
+  "garfield townhouse": [],
+  "westfield homeowners": [],
+  "westfield condominium": [
+    {
+      "name": "CENTRAL SQUARE OF WESTFIELD CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100454068",
+      "city": "CLARK",
+      "type": "NP",
+      "dateFormed": "6/8/1990"
+    },
+    {
+      "name": "SOUTH GATE AT WESTFIELD CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0100454070",
+      "city": "SOUTH PLAINFIELD",
+      "type": "NP",
+      "dateFormed": "6/8/1990"
+    },
+    {
+      "name": "THE VILLAS AT WESTFIELD CONDOMINIUM ASSOCIATION, INC.",
+      "entityId": "0101020906",
+      "city": "CRANFORD",
+      "type": "NP",
+      "dateFormed": "3/23/2012"
+    }
+  ],
+  "westfield condo": [],
+  "westfield property owners": []
 }
