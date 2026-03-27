@@ -68,15 +68,15 @@ export function useFilters() {
         return false;
       }
 
-      // Year range filter (skip if no year data)
-      if (hoa.yearBuilt != null) {
+      // Year range filter (skip if no year data or 0)
+      if (hoa.yearBuilt && hoa.yearBuilt > 0) {
         if (hoa.yearBuilt < filters.yearMin || hoa.yearBuilt > filters.yearMax) {
           return false;
         }
       }
 
-      // Unit count range filter (skip if no unit data)
-      if (hoa.unitCount != null) {
+      // Unit count range filter (skip if no unit data or 0)
+      if (hoa.unitCount && hoa.unitCount > 0) {
         if (hoa.unitCount < filters.unitMin || hoa.unitCount > filters.unitMax) {
           return false;
         }

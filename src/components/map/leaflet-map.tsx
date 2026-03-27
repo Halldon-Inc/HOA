@@ -13,15 +13,16 @@ interface LeafletMapProps {
   typeColors: Record<string, string>;
 }
 
-function createCircleIcon(color: string, size: number = 12) {
+function createCircleIcon(color: string, size: number = 18) {
   return L.divIcon({
     className: "custom-marker",
     html: `<div style="
       width: ${size}px; height: ${size}px;
       border-radius: 50%;
       background: ${color};
-      border: 2px solid rgba(255,255,255,0.3);
-      box-shadow: 0 0 6px ${color}80;
+      border: 2px solid rgba(255,255,255,0.5);
+      box-shadow: 0 0 10px ${color}, 0 0 20px ${color}60;
+      opacity: 0.95;
     "></div>`,
     iconSize: [size, size],
     iconAnchor: [size / 2, size / 2],
