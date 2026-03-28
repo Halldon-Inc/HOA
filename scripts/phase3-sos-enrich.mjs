@@ -33,8 +33,9 @@ async function getTab() {
   const res = await fetch('http://127.0.0.1:18800/json');
   const tabs = await res.json();
   // Prefer a non-Gmail page tab; fall back to any page tab
-  const tab = tabs.find(t => t.type === 'page' && !t.url.includes('mail.google.com') && !t.url.includes('chat.google.com'))
-    || tabs.find(t => t.type === 'page');
+  const EXCLUDED_TAB = 'DF949FA2B1CCB0FB8F14D28278EA0C30';
+  const tab = tabs.find(t => t.type === 'page' && t.id !== EXCLUDED_TAB && !t.url.includes('mail.google.com') && !t.url.includes('chat.google.com') && !t.url.includes('twitter.com') && !t.url.includes('x.com'))
+    || tabs.find(t => t.type === 'page' && t.id !== EXCLUDED_TAB);
   if (!tab) throw new Error('No browser tab found. Start Chrome with --remote-debugging-port=18800');
   return tab;
 }
