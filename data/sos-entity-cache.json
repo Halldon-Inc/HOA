@@ -1,0 +1,449 @@
+{
+  "600 First Avenue Condominium Association": {
+    "entityId": "0100956792",
+    "entityName": "600 FIRST AVENUE CONDOMINIUM ASSOCIATION",
+    "city": "Raritan",
+    "type": "NP",
+    "dateFormed": "1/9/2006",
+    "status": "",
+    "searchedAt": "2026-03-28T01:29:24.806Z"
+  },
+  "830 Bergen Avenue Condominium Association Inc": {
+    "entityId": "0101019037",
+    "entityName": "830 BERGEN AVENUE CONDOMINIUM ASSOCIATION, INC.",
+    "city": "JERSEY CITY",
+    "type": "NP",
+    "dateFormed": "11/30/2011",
+    "status": "",
+    "searchedAt": "2026-03-28T01:29:32.372Z"
+  },
+  "99 Tenants Organization": {
+    "noMatch": true,
+    "resultCount": 0,
+    "searchedAt": "2026-03-28T01:29:39.960Z"
+  },
+  "Anona Lake Property Owners Association Inc": {
+    "entityId": "0000020410",
+    "entityName": "ANONA LAKE PROPERTY OWNERS ASSOCIATION, INC.",
+    "city": "UPPER SADDLE RIVER",
+    "type": "NP",
+    "dateFormed": "3/14/1969",
+    "status": "",
+    "searchedAt": "2026-03-28T01:29:47.587Z"
+  },
+  "Audubon Mutual Housing Corporation": {
+    "entityId": "0900070434",
+    "entityName": "AUDUBON MUTUAL HOUSING CORPORATION",
+    "city": "Mt. Laurel",
+    "type": "NP",
+    "dateFormed": "7/15/1941",
+    "status": "",
+    "searchedAt": "2026-03-28T01:29:55.161Z"
+  },
+  "Beverly Manor Association Corp": {
+    "entityId": "0101032497",
+    "entityName": "BEVERLY MANOR ASSOCIATION CORP",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "5/21/2014",
+    "status": "",
+    "searchedAt": "2026-03-28T01:30:04.961Z"
+  },
+  "Blue Heron Pines Hoa Recreation Committee": {
+    "entityId": "0451151541",
+    "entityName": "BLUE HERON PINES HOA RECREATION COMMITTEE A NJ NONPROFIT CORPORATION",
+    "city": "EGG HARBOR CITY",
+    "type": "NP",
+    "dateFormed": "7/11/2024",
+    "status": "",
+    "searchedAt": "2026-03-28T01:30:12.528Z"
+  },
+  "Brandywine Shoal Lighthouse": {
+    "entityId": "0400455240",
+    "entityName": "BRANDYWINE SHOAL LIGHTHOUSE A NJ NONPROFIT CORPORATION",
+    "city": "NORTH CAPE MAY",
+    "type": "NP",
+    "dateFormed": "11/30/2011",
+    "status": "",
+    "searchedAt": "2026-03-28T01:30:20.093Z"
+  },
+  "Bright Creek Park Assoc": {
+    "noMatch": true,
+    "resultCount": 0,
+    "searchedAt": "2026-03-28T01:30:27.673Z"
+  },
+  "Brooklawn Civic Association": {
+    "entityId": "0900007211",
+    "entityName": "BROOKLAWN CIVIC ASSOCIATION",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "2/19/1970",
+    "status": "",
+    "searchedAt": "2026-03-28T01:30:35.271Z"
+  },
+  "Carneys Point Penns Grove Preservat Ion & Development Inc": {
+    "noMatch": true,
+    "resultCount": 0,
+    "searchedAt": "2026-03-28T01:30:42.855Z"
+  },
+  "Center For Psychotherapy And Psychoanalysis Of New Jersey Inc": {
+    "entityId": "0100988769",
+    "entityName": "CENTER FOR PSYCHOTHERAPY AND PSYCHOANALYSIS OF NEW JERSEY, INC.",
+    "city": "MADISON",
+    "type": "NP",
+    "dateFormed": "1/15/2008",
+    "status": "",
+    "searchedAt": "2026-03-28T01:30:50.461Z"
+  },
+  "Chestnut Ridge Radio Club Inc": {
+    "entityId": "0100073939",
+    "entityName": "CHESTNUT RIDGE RADIO CLUB",
+    "city": "CEDAR GROVE",
+    "type": "NP",
+    "dateFormed": "10/26/1978",
+    "status": "",
+    "searchedAt": "2026-03-28T01:30:58.024Z"
+  },
+  "Cider Press Ii Hoa Inc": {
+    "entityId": "0450358057",
+    "entityName": "CIDER PRESS II HOA INC",
+    "city": "Mullica Hill",
+    "type": "NP",
+    "dateFormed": "3/9/2019",
+    "status": "",
+    "searchedAt": "2026-03-28T01:31:05.619Z"
+  },
+  "Community Association Of Prospect Point Inc": {
+    "entityId": "0900012659",
+    "entityName": "THE COMMUNITY ASSOCIATION OF PROSPECT POINT, INC.",
+    "city": "LAKE HOPATCONG",
+    "type": "NP",
+    "dateFormed": "2/10/1975",
+    "status": "",
+    "searchedAt": "2026-03-28T01:31:13.175Z"
+  },
+  "Crandon Lakes Association For Property Owners Inc": {
+    "entityId": "0100420073",
+    "entityName": "CRANDON LAKES ASSOCIATION FOR PROPERTY OWNERS, INC.",
+    "city": "NEWTON",
+    "type": "NP",
+    "dateFormed": "6/26/1989",
+    "status": "",
+    "searchedAt": "2026-03-28T01:31:20.734Z"
+  },
+  "Crestwood Manor Residents Association": {
+    "noMatch": true,
+    "resultCount": 0,
+    "searchedAt": "2026-03-28T01:31:28.305Z"
+  },
+  "Deerbrook Civic Association": {
+    "entityId": "0900014734",
+    "entityName": "THE DEERBROOK CIVIC ASSOCIATION",
+    "city": "Medford",
+    "type": "NP",
+    "dateFormed": "4/13/1972",
+    "status": "",
+    "searchedAt": "2026-03-28T01:31:38.233Z"
+  },
+  "Dutch Hill Residents Association Inc": {
+    "entityId": "0100511484",
+    "entityName": "DUTCH HILL RESIDENTS ASSOCIATION, INC.",
+    "city": "CLIFTON",
+    "type": "NP",
+    "dateFormed": "3/5/1992",
+    "status": "",
+    "searchedAt": "2026-03-28T01:31:45.901Z"
+  },
+  "East Orange Senior Citizens Housing Association": {
+    "entityId": "0900016480",
+    "entityName": "EAST ORANGE SENIOR CITIZENS HOUSING ASSOCIATION",
+    "city": "Bloomfield",
+    "type": "NP",
+    "dateFormed": "2/8/1968",
+    "status": "",
+    "searchedAt": "2026-03-28T01:31:53.490Z"
+  },
+  "East Orange Senior Citizens Housing Corp": {
+    "entityId": "3592980000",
+    "entityName": "EAST ORANGE SENIOR CITIZENS HOUSING CORPORATION",
+    "city": "EAST ORANGE",
+    "type": "NP",
+    "dateFormed": "8/17/1970",
+    "status": "",
+    "searchedAt": "2026-03-28T01:32:01.083Z"
+  },
+  "Eastern Sky Co-Op": {
+    "entityId": "0450378673",
+    "entityName": "EASTERN SKY CO-OP A NJ NONPROFIT CORPORATION",
+    "city": "BRIDGETON",
+    "type": "NP",
+    "dateFormed": "5/8/2019",
+    "status": "",
+    "searchedAt": "2026-03-28T01:32:08.689Z"
+  },
+  "Fourth Lake Community Assn Inc": {
+    "noMatch": true,
+    "resultCount": 0,
+    "searchedAt": "2026-03-28T01:32:16.276Z"
+  },
+  "Frank Mazza Civic Association Inc": {
+    "entityId": "0100357894",
+    "entityName": "FRANK MAZZA CIVIC ASSOCIATION, INC.",
+    "city": "ELIZABETH",
+    "type": "NP",
+    "dateFormed": "12/1/1987",
+    "status": "",
+    "searchedAt": "2026-03-28T01:32:23.855Z"
+  },
+  "Garden State Bird Association Inc": {
+    "entityId": "0450402544",
+    "entityName": "GARDEN STATE BIRD ASSOCIATION INC.",
+    "city": "NEWARK",
+    "type": "NP",
+    "dateFormed": "7/25/2019",
+    "status": "",
+    "searchedAt": "2026-03-28T01:32:31.437Z"
+  },
+  "Garden State Equality Action Fund Inc": {
+    "entityId": "0100987776",
+    "entityName": "GARDEN STATE EQUALITY ACTION FUND, INC",
+    "city": "Asbury Park",
+    "type": "NP",
+    "dateFormed": "12/31/2007",
+    "status": "",
+    "searchedAt": "2026-03-28T01:32:39.004Z"
+  },
+  "Garden State Saluki Club Inc": {
+    "entityId": "0100999680",
+    "entityName": "GARDEN STATE SALUKI CLUB, INC.",
+    "city": "Newton",
+    "type": "NP",
+    "dateFormed": "3/11/2009",
+    "status": "",
+    "searchedAt": "2026-03-28T01:32:46.566Z"
+  },
+  "Glacier Hills Association Inc": {
+    "noMatch": true,
+    "resultCount": 1,
+    "searchedAt": "2026-03-28T01:32:54.153Z"
+  },
+  "Glen Ridge Community Association": {
+    "entityId": "0451271557",
+    "entityName": "GLEN RIDGE COMMUNITY ASSOCIATION INC.",
+    "city": "GLEN RIDGE",
+    "type": "NP",
+    "dateFormed": "4/14/2025",
+    "status": "",
+    "searchedAt": "2026-03-28T01:33:01.731Z"
+  },
+  "Glen Rock Central Business District Commission Inc": {
+    "entityId": "0100696967",
+    "entityName": "GLEN ROCK CENTRAL BUSINESS DISTRICT COMMISSION, INC.",
+    "city": "GLEN ROCK",
+    "type": "NP",
+    "dateFormed": "2/19/1997",
+    "status": "",
+    "searchedAt": "2026-03-28T01:33:09.315Z"
+  },
+  "Green Island Community Associates": {
+    "noMatch": true,
+    "resultCount": 0,
+    "searchedAt": "2026-03-28T01:33:16.886Z"
+  },
+  "Grove On 37Th South Community Association": {
+    "noMatch": true,
+    "resultCount": 0,
+    "searchedAt": "2026-03-28T01:33:24.467Z"
+  },
+  "Headwater Village Civic Association Inc": {
+    "entityId": "0100893080",
+    "entityName": "HEADWATER VILLAGE CIVIC ASSOCIATION, INC.",
+    "city": "MEDFORD",
+    "type": "NP",
+    "dateFormed": "11/25/2002",
+    "status": "",
+    "searchedAt": "2026-03-28T01:33:32.093Z"
+  },
+  "Hills Of Troy Neighborhood Association Corp": {
+    "entityId": "0100802337",
+    "entityName": "HILLS OF TROY NEIGHBORHOOD ASSOCIATION, CORP.",
+    "city": "PARSIPPANY",
+    "type": "NP",
+    "dateFormed": "12/23/1999",
+    "status": "",
+    "searchedAt": "2026-03-28T01:33:39.655Z"
+  },
+  "Island Beach Way Homeowners Association Inc": {
+    "entityId": "0101032840",
+    "entityName": "ISLAND BEACH WAY HOMEOWNERS ASSOCIATION, INC.",
+    "city": "Matawan",
+    "type": "NP",
+    "dateFormed": "6/19/2014",
+    "status": "",
+    "searchedAt": "2026-03-28T01:33:47.211Z"
+  },
+  "Italian American Civic Association Of Phillipsburg Inc": {
+    "entityId": "0451155773",
+    "entityName": "ITALIAN AMERICAN CIVIC ASSOCIATION OF PHILLIPSBURG, INC.",
+    "city": "PHILLIPSBURG",
+    "type": "NP",
+    "dateFormed": "7/22/2024",
+    "status": "",
+    "searchedAt": "2026-03-28T01:33:54.801Z"
+  },
+  "Kennedy Wood Home Owners Associates Inc": {
+    "noMatch": true,
+    "resultCount": 0,
+    "searchedAt": "2026-03-28T01:34:02.390Z"
+  },
+  "Lake Shawnee Club Inc": {
+    "entityId": "0900033180",
+    "entityName": "LAKE SHAWNEE CLUB",
+    "city": "WHARTON",
+    "type": "NP",
+    "dateFormed": "4/23/1946",
+    "status": "",
+    "searchedAt": "2026-03-28T01:34:09.985Z"
+  },
+  "Lake Tranquility Community Club Inc": {
+    "entityId": "0000020093",
+    "entityName": "LAKE TRANQUILITY COMMUNITY CLUB",
+    "city": "TRANQUILITY",
+    "type": "NP",
+    "dateFormed": "3/31/1955",
+    "status": "",
+    "searchedAt": "2026-03-28T01:34:17.575Z"
+  },
+  "Lakeridge West Community Association": {
+    "entityId": "0900033172",
+    "entityName": "LAKERIDGE WEST COMMUNITY ASSOCIATION",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "4/29/1966",
+    "status": "",
+    "searchedAt": "2026-03-28T01:34:25.138Z"
+  },
+  "Lakeside Road Improvement Corp": {
+    "entityId": "0100309747",
+    "entityName": "LAKESIDE ROAD IMPROVEMENT CORPORATION",
+    "city": "HEWITT",
+    "type": "NP",
+    "dateFormed": "9/3/1986",
+    "status": "",
+    "searchedAt": "2026-03-28T01:34:32.708Z"
+  },
+  "Longwood Lake Cabin Owners Association Inc": {
+    "entityId": "0100287690",
+    "entityName": "LONGWOOD LAKE CABIN OWNERS ASSOCIATION, INC.",
+    "city": "OAK RIDGE",
+    "type": "NP",
+    "dateFormed": "2/13/1986",
+    "status": "",
+    "searchedAt": "2026-03-28T01:34:40.274Z"
+  },
+  "Marco Polo Condominium Association": {
+    "entityId": "0900036354",
+    "entityName": "MARCO POLO CONDOMINIUM ASSOCIATION",
+    "city": "",
+    "type": "NP",
+    "dateFormed": "5/31/1974",
+    "status": "",
+    "searchedAt": "2026-03-28T01:34:47.829Z"
+  },
+  "Marlton Lakes Civic Association": {
+    "entityId": "0900036536",
+    "entityName": "MARLTON LAKES CIVIC ASSOCIATION",
+    "city": "Freehold",
+    "type": "NP",
+    "dateFormed": "11/25/1957",
+    "status": "",
+    "searchedAt": "2026-03-28T01:34:55.385Z"
+  },
+  "Morse Lakes Property Owners Association Inc": {
+    "entityId": "0900039768",
+    "entityName": "MORSE LAKES PROPERTY OWNERS ASSOCIATION, INC.",
+    "city": "Bloomingdale",
+    "type": "NP",
+    "dateFormed": "4/22/1952",
+    "status": "",
+    "searchedAt": "2026-03-28T01:35:02.944Z"
+  },
+  "Mount Glen Lakes Association Inc": {
+    "entityId": "0900040007",
+    "entityName": "MOUNT GLEN LAKES ASSOCIATION,INC",
+    "city": "WEST MILFORD",
+    "type": "NP",
+    "dateFormed": "9/22/1937",
+    "status": "",
+    "searchedAt": "2026-03-28T01:35:10.505Z"
+  },
+  "Mystic Islands Cooperative Association": {
+    "entityId": "0900040595",
+    "entityName": "MYSTIC ISLANDS COOPERATIVE ASSOCIATION",
+    "city": "TUCKERTON",
+    "type": "NP",
+    "dateFormed": "1/5/1962",
+    "status": "",
+    "searchedAt": "2026-03-28T01:35:18.063Z"
+  },
+  "National Association Of Property Owners And Real Estate Pro": {
+    "entityId": "0100602047",
+    "entityName": "NATIONAL ASSOCIATION OF PROPERTY OWNERS AND REAL ESTATE PROFESSIONALS, INC.",
+    "city": "MANALAPAN",
+    "type": "NP",
+    "dateFormed": "9/13/1994",
+    "status": "",
+    "searchedAt": "2026-03-28T01:35:25.620Z"
+  },
+  "New Brunswick Kennel Club Inc": {
+    "entityId": "0900041734",
+    "entityName": "NEW BRUNSWICK KENNEL CLUB CORPORATION",
+    "city": "EAST BRUNSWICK",
+    "type": "NP",
+    "dateFormed": "1/11/1957",
+    "status": "",
+    "searchedAt": "2026-03-28T01:35:33.182Z"
+  },
+  "Ortley Beach Voters And Taxpayers Association Inc": {
+    "entityId": "0100237469",
+    "entityName": "ORTLEY BEACH VOTERS AND TAXPAYERS ASSOCIATION, INC.",
+    "city": "ORTLEY BEACH",
+    "type": "NP",
+    "dateFormed": "9/18/1984",
+    "status": "",
+    "searchedAt": "2026-03-28T01:35:40.745Z"
+  },
+  "Pembroke Welsh Corgi Club Of The Garden State Inc": {
+    "entityId": "0100382541",
+    "entityName": "PEMBROKE WELSH CORGI CLUB OF THE GARDEN STATE, INC.",
+    "city": "Hillsborough",
+    "type": "NP",
+    "dateFormed": "7/7/1988",
+    "status": "",
+    "searchedAt": "2026-03-28T01:35:48.301Z"
+  },
+  "Pine Lake Park Tax Payers Improvment Association Inc": {
+    "noMatch": true,
+    "resultCount": 0,
+    "searchedAt": "2026-03-28T01:35:55.858Z"
+  },
+  "Property Owners Asociation Of Greater New York Corp": {
+    "noMatch": true,
+    "resultCount": 0,
+    "searchedAt": "2026-03-28T01:36:03.418Z"
+  },
+  "Romer Shoal Lighthouse": {
+    "entityId": "0400536184",
+    "entityName": "ROMER SHOAL LIGHTHOUSE A NJ NONPROFIT CORPORATION",
+    "city": "Madison",
+    "type": "NP",
+    "dateFormed": "12/17/2012",
+    "status": "",
+    "searchedAt": "2026-03-28T01:36:10.978Z"
+  },
+  "Saddle Brook Custodian And Maintenance Association": {
+    "noMatch": true,
+    "resultCount": 0,
+    "searchedAt": "2026-03-28T01:36:18.534Z"
+  }
+}
